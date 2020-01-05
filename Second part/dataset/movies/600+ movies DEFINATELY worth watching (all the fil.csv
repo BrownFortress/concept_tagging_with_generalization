@@ -1,0 +1,622 @@
+Position,Const,Created,Modified,Description,Title,URL,Title Type,IMDb Rating,Runtime (mins),Year,Genres,Num Votes,Release Date,Directors
+1,tt0401792,2013-04-14,2013-04-14,,Sin City,https://www.imdb.com/title/tt0401792/,movie,8.0,124,2005,"Crime, Thriller",723070,2005-03-28,"Frank Miller, Quentin Tarantino, Robert Rodriguez"
+2,tt0416449,2013-04-14,2013-04-14,,300,https://www.imdb.com/title/tt0416449/,movie,7.6,117,2006,"Action, Drama, Fantasy, War",705082,2006-12-09,Zack Snyder
+3,tt0240772,2013-04-14,2013-04-14,,Ocean's Eleven,https://www.imdb.com/title/tt0240772/,movie,7.8,116,2001,"Crime, Thriller",485217,2001-12-05,Steven Soderbergh
+4,tt0109707,2013-04-14,2013-04-14,,Ed Wood,https://www.imdb.com/title/tt0109707/,movie,7.8,127,1994,"Biography, Comedy, Drama",159775,1994-09-23,Tim Burton
+5,tt0099487,2013-04-14,2013-04-14,,Edward Scissorhands,https://www.imdb.com/title/tt0099487/,movie,7.9,105,1990,"Drama, Fantasy, Romance",424538,1990-12-06,Tim Burton
+6,tt0047296,2013-04-14,2013-04-14,,On the Waterfront,https://www.imdb.com/title/tt0047296/,movie,8.1,108,1954,"Crime, Drama, Thriller",132429,1954-06-22,Elia Kazan
+7,tt0325980,2013-04-14,2013-04-14,,Pirates of the Caribbean: The Curse of the Black Pearl,https://www.imdb.com/title/tt0325980/,movie,8.0,143,2003,"Action, Adventure, Fantasy",979870,2003-06-28,Gore Verbinski
+8,tt0072890,2013-04-14,2013-04-14,,Dog Day Afternoon,https://www.imdb.com/title/tt0072890/,movie,8.0,125,1975,"Biography, Crime, Drama, Thriller",223171,1975-09-19,Sidney Lumet
+9,tt0066921,2013-04-14,2013-04-14,,A Clockwork Orange,https://www.imdb.com/title/tt0066921/,movie,8.3,136,1971,"Crime, Drama, Sci-Fi",711294,1971-12-19,Stanley Kubrick
+10,tt1832382,2013-04-14,2013-04-14,,Jodaeiye Nader az Simin,https://www.imdb.com/title/tt1832382/,movie,8.3,123,2011,Drama,204314,2011-02-01,Asghar Farhadi
+11,tt1602620,2013-04-14,2013-04-14,,Amour,https://www.imdb.com/title/tt1602620/,movie,7.9,127,2012,"Drama, Romance",87104,2012-05-20,Michael Haneke
+12,tt0181689,2013-04-14,2013-04-14,,Minority Report,https://www.imdb.com/title/tt0181689/,movie,7.6,145,2002,"Action, Crime, Mystery, Sci-Fi, Thriller",480583,2002-06-17,Steven Spielberg
+13,tt1675434,2013-04-14,2013-04-14,,Intouchables,https://www.imdb.com/title/tt1675434/,movie,8.5,112,2011,"Biography, Comedy, Drama",702703,2011-09-23,"Olivier Nakache, Éric Toledano"
+14,tt1853728,2013-04-14,2013-04-14,,Django Unchained,https://www.imdb.com/title/tt1853728/,movie,8.4,165,2012,"Drama, Western",1256853,2012-12-11,Quentin Tarantino
+15,tt0361748,2013-04-14,2013-04-14,,Inglourious Basterds,https://www.imdb.com/title/tt0361748/,movie,8.3,153,2009,"Adventure, Drama, War",1169579,2009-05-20,Quentin Tarantino
+16,tt0212720,2013-04-14,2013-04-14,,Artificial Intelligence: AI,https://www.imdb.com/title/tt0212720/,movie,7.2,146,2001,"Drama, Sci-Fi",279405,2001-06-26,Steven Spielberg
+17,tt0083866,2013-04-14,2013-04-14,,E.T. the Extra-Terrestrial,https://www.imdb.com/title/tt0083866/,movie,7.8,115,1982,"Family, Sci-Fi",347836,1982-05-26,Steven Spielberg
+18,tt1119646,2013-04-14,2013-04-14,,The Hangover,https://www.imdb.com/title/tt1119646/,movie,7.7,100,2009,Comedy,684674,2009-05-30,Todd Phillips
+19,tt1193138,2013-04-14,2013-04-14,,Up in the Air,https://www.imdb.com/title/tt1193138/,movie,7.4,109,2009,"Comedy, Drama, Romance",305712,2009-09-05,Jason Reitman
+20,tt0190590,2013-04-14,2013-04-14,,"O Brother, Where Art Thou?",https://www.imdb.com/title/tt0190590/,movie,7.7,107,2000,"Adventure, Comedy, Crime, Music",270461,2000-05-13,"Ethan Coen, Joel Coen"
+21,tt0120689,2013-04-14,2013-04-14,,The Green Mile,https://www.imdb.com/title/tt0120689/,movie,8.6,189,1999,"Crime, Drama, Fantasy, Mystery",1057293,1999-12-06,Frank Darabont
+22,tt0457430,2013-04-14,2013-04-14,,El laberinto del fauno,https://www.imdb.com/title/tt0457430/,movie,8.2,118,2006,"Drama, Fantasy, War",586272,2006-05-27,Guillermo del Toro
+23,tt0942385,2013-04-14,2013-04-14,,Tropic Thunder,https://www.imdb.com/title/tt0942385/,movie,7.0,107,2008,"Action, Comedy, War",359548,2008-08-11,Ben Stiller
+24,tt0357413,2013-04-14,2013-04-14,,Anchorman: The Legend of Ron Burgundy,https://www.imdb.com/title/tt0357413/,movie,7.2,94,2004,Comedy,315043,2004-06-28,Adam McKay
+25,tt0405422,2013-04-14,2013-04-14,,The 40 Year Old Virgin,https://www.imdb.com/title/tt0405422/,movie,7.1,116,2005,"Comedy, Romance",373586,2005-08-11,Judd Apatow
+26,tt0180093,2013-04-14,2013-04-14,,Requiem for a Dream,https://www.imdb.com/title/tt0180093/,movie,8.3,102,2000,Drama,720236,2000-05-14,Darren Aronofsky
+27,tt0910936,2013-04-14,2013-04-14,,Pineapple Express,https://www.imdb.com/title/tt0910936/,movie,7.0,111,2008,"Action, Comedy, Crime",301096,2008-08-06,David Gordon Green
+28,tt0408236,2013-04-14,2013-04-14,,Sweeney Todd: The Demon Barber of Fleet Street,https://www.imdb.com/title/tt0408236/,movie,7.3,116,2007,"Drama, Horror, Musical, Thriller",328926,2007-12-03,Tim Burton
+29,tt0310793,2013-04-14,2013-04-14,,Bowling for Columbine,https://www.imdb.com/title/tt0310793/,movie,7.9,120,2002,"Documentary, Crime, Drama",136321,2002-05-16,Michael Moore
+30,tt1424432,2013-04-14,2013-04-14,,Senna,https://www.imdb.com/title/tt1424432/,movie,8.6,106,2010,"Documentary, Biography, Sport",57442,2010-10-07,Asif Kapadia
+31,tt0361596,2013-04-14,2013-04-14,,Fahrenheit 9/11,https://www.imdb.com/title/tt0361596/,movie,7.5,122,2004,"Documentary, Drama, War",123560,2004-05-17,Michael Moore
+32,tt1645089,2013-04-14,2013-04-14,,Inside Job,https://www.imdb.com/title/tt1645089/,movie,8.2,109,2010,"Documentary, Crime",66429,2010-02-02,Charles Ferguson
+33,tt1155592,2013-04-14,2013-04-14,,Man on Wire,https://www.imdb.com/title/tt1155592/,movie,7.7,94,2008,"Documentary, Biography, History",50309,2008-01-22,James Marsh
+34,tt0478311,2013-04-14,2013-04-14,,Knocked Up,https://www.imdb.com/title/tt0478311/,movie,6.9,129,2007,"Comedy, Romance",337284,2007-03-12,Judd Apatow
+35,tt0112471,2013-04-14,2013-04-14,,Before Sunrise,https://www.imdb.com/title/tt0112471/,movie,8.1,101,1995,"Drama, Romance",246854,1995-01-19,Richard Linklater
+36,tt0381681,2013-04-14,2013-04-14,,Before Sunset,https://www.imdb.com/title/tt0381681/,movie,8.0,80,2004,"Drama, Romance",215853,2004-02-10,Richard Linklater
+37,tt0114709,2013-04-14,2013-04-14,,Toy Story,https://www.imdb.com/title/tt0114709/,movie,8.3,81,1995,"Animation, Adventure, Comedy, Family, Fantasy",828102,1995-11-19,John Lasseter
+38,tt0091042,2013-04-14,2013-04-14,,Ferris Bueller's Day Off,https://www.imdb.com/title/tt0091042/,movie,7.8,103,1986,Comedy,297610,1986-06-11,John Hughes
+39,tt0088847,2013-04-14,2013-04-14,,The Breakfast Club,https://www.imdb.com/title/tt0088847/,movie,7.9,97,1985,"Comedy, Drama",327169,1985-02-07,John Hughes
+40,tt0117060,2013-04-14,2013-04-14,,Mission: Impossible,https://www.imdb.com/title/tt0117060/,movie,7.1,110,1996,"Action, Adventure, Thriller",367321,1996-05-20,Brian De Palma
+41,tt1596343,2013-04-14,2013-04-14,,Fast Five,https://www.imdb.com/title/tt1596343/,movie,7.3,130,2011,"Action, Adventure, Thriller",337066,2011-04-15,Justin Lin
+42,tt0112641,2013-04-14,2013-04-14,,Casino,https://www.imdb.com/title/tt0112641/,movie,8.2,178,1995,"Crime, Drama",429921,1995-04-03,Martin Scorsese
+43,tt0338013,2013-04-14,2013-04-14,,Eternal Sunshine of the Spotless Mind,https://www.imdb.com/title/tt0338013/,movie,8.3,108,2004,"Drama, Romance, Sci-Fi",848984,2004-03-09,Michel Gondry
+44,tt0120382,2013-04-14,2013-04-14,,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.1,103,1998,"Comedy, Drama, Sci-Fi",866255,1998-06-01,Peter Weir
+45,tt1323594,2013-04-14,2013-04-14,,Despicable Me,https://www.imdb.com/title/tt1323594/,movie,7.6,95,2010,"Animation, Comedy, Family, Fantasy",476069,2010-06-20,"Chris Renaud, Pierre Coffin"
+46,tt0371746,2013-04-14,2013-04-14,,Iron Man,https://www.imdb.com/title/tt0371746/,movie,7.9,126,2008,"Action, Adventure, Sci-Fi",891341,2008-04-14,Jon Favreau
+47,tt1345836,2013-04-14,2013-04-14,,The Dark Knight Rises,https://www.imdb.com/title/tt1345836/,movie,8.4,164,2012,"Action, Thriller",1428551,2012-07-16,Christopher Nolan
+48,tt0110912,2013-04-14,2013-04-14,,Pulp Fiction,https://www.imdb.com/title/tt0110912/,movie,8.9,154,1994,"Crime, Drama",1705469,1994-05-21,Quentin Tarantino
+49,tt0105236,2013-04-14,2013-04-14,,Reservoir Dogs,https://www.imdb.com/title/tt0105236/,movie,8.3,99,1992,"Crime, Drama, Thriller",858824,1992-01-21,Quentin Tarantino
+50,tt1229238,2013-04-14,2013-04-14,,Mission: Impossible - Ghost Protocol,https://www.imdb.com/title/tt1229238/,movie,7.4,132,2011,"Action, Adventure, Thriller",437078,2011-12-07,Brad Bird
+51,tt0947798,2013-04-14,2013-04-14,,Black Swan,https://www.imdb.com/title/tt0947798/,movie,8.0,108,2010,"Drama, Thriller",664591,2010-09-01,Darren Aronofsky
+52,tt1375666,2013-04-14,2013-04-14,,Inception,https://www.imdb.com/title/tt1375666/,movie,8.8,148,2010,"Action, Adventure, Sci-Fi, Thriller",1903880,2010-07-08,Christopher Nolan
+53,tt1130884,2013-04-14,2013-04-14,,Shutter Island,https://www.imdb.com/title/tt1130884/,movie,8.1,138,2010,"Mystery, Thriller",1042596,2010-02-13,Martin Scorsese
+54,tt0443453,2013-04-14,2013-04-14,,Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,https://www.imdb.com/title/tt0443453/,movie,7.3,84,2006,Comedy,338428,2006-08-04,Larry Charles
+55,tt1219289,2013-04-14,2013-04-14,,Limitless,https://www.imdb.com/title/tt1219289/,movie,7.4,105,2011,"Sci-Fi, Thriller",503700,2011-03-08,Neil Burger
+56,tt0117571,2013-04-14,2013-04-14,,Scream,https://www.imdb.com/title/tt0117571/,movie,7.2,111,1996,"Horror, Mystery",269589,1996-12-18,Wes Craven
+57,tt0086250,2013-04-14,2013-04-14,,Scarface,https://www.imdb.com/title/tt0086250/,movie,8.3,170,1983,"Crime, Drama",686940,1983-12-01,Brian De Palma
+58,tt1197624,2013-04-14,2013-04-14,,Law Abiding Citizen,https://www.imdb.com/title/tt1197624/,movie,7.4,109,2009,"Action, Crime, Drama, Thriller",258723,2009-09-23,F. Gary Gray
+59,tt0945513,2013-04-14,2013-04-14,,Source Code,https://www.imdb.com/title/tt0945513/,movie,7.5,93,2011,"Action, Drama, Mystery, Sci-Fi, Thriller",462065,2011-03-11,Duncan Jones
+60,tt0088763,2013-04-14,2013-04-14,,Back to the Future,https://www.imdb.com/title/tt0088763/,movie,8.5,116,1985,"Adventure, Comedy, Sci-Fi",971433,1985-07-03,Robert Zemeckis
+61,tt0499549,2013-04-14,2013-04-14,,Avatar,https://www.imdb.com/title/tt0499549/,movie,7.8,162,2009,"Action, Adventure, Fantasy, Sci-Fi",1071183,2009-12-10,James Cameron
+62,tt0381061,2013-04-14,2013-04-14,,Casino Royale,https://www.imdb.com/title/tt0381061/,movie,8.0,144,2006,"Action, Adventure, Thriller",550473,2006-11-14,Martin Campbell
+63,tt0082971,2013-04-14,2013-04-14,,Raiders of the Lost Ark,https://www.imdb.com/title/tt0082971/,movie,8.4,115,1981,"Action, Adventure",834590,1981-06-12,Steven Spielberg
+64,tt0887912,2013-04-14,2013-04-14,,The Hurt Locker,https://www.imdb.com/title/tt0887912/,movie,7.6,131,2008,"Drama, Thriller, War",401081,2008-09-04,Kathryn Bigelow
+65,tt1385826,2013-04-14,2013-04-14,,The Adjustment Bureau,https://www.imdb.com/title/tt1385826/,movie,7.0,106,2011,"Romance, Sci-Fi, Thriller",232323,2011-02-14,George Nolfi
+66,tt1285016,2013-04-14,2013-04-14,,The Social Network,https://www.imdb.com/title/tt1285016/,movie,7.7,120,2010,"Biography, Drama",582772,2010-09-24,David Fincher
+67,tt1605783,2013-04-14,2013-04-14,,Midnight in Paris,https://www.imdb.com/title/tt1605783/,movie,7.7,94,2011,"Comedy, Fantasy, Romance",364912,2011-05-11,Woody Allen
+68,tt0970179,2013-04-14,2013-04-14,,Hugo,https://www.imdb.com/title/tt0970179/,movie,7.5,126,2011,"Drama, Family, Fantasy, Mystery",290463,2011-10-10,Martin Scorsese
+69,tt0075314,2013-04-14,2013-04-14,,Taxi Driver,https://www.imdb.com/title/tt0075314/,movie,8.3,114,1976,"Crime, Drama",667026,1976-02-08,Martin Scorsese
+70,tt0082971,2013-04-14,2013-04-14,,Raiders of the Lost Ark,https://www.imdb.com/title/tt0082971/,movie,8.4,115,1981,"Action, Adventure",834590,1981-06-12,Steven Spielberg
+71,tt0097576,2013-04-14,2013-04-14,,Indiana Jones and the Last Crusade,https://www.imdb.com/title/tt0097576/,movie,8.2,127,1989,"Action, Adventure",652108,1989-05-24,Steven Spielberg
+72,tt1250777,2013-04-14,2013-04-14,,Kick-Ass,https://www.imdb.com/title/tt1250777/,movie,7.6,117,2010,"Action, Adventure, Comedy, Crime",507033,2010-03-12,Matthew Vaughn
+73,tt0467406,2013-04-14,2013-04-14,,Juno,https://www.imdb.com/title/tt0467406/,movie,7.4,96,2007,"Comedy, Drama",473376,2007-09-01,Jason Reitman
+74,tt0988045,2013-04-14,2013-04-14,,Sherlock Holmes,https://www.imdb.com/title/tt0988045/,movie,7.6,128,2009,"Action, Adventure, Crime, Mystery, Thriller",558787,2009-12-14,Guy Ritchie
+75,tt1515091,2013-04-14,2013-04-14,,Sherlock Holmes: A Game of Shadows,https://www.imdb.com/title/tt1515091/,movie,7.5,129,2011,"Action, Adventure, Crime, Mystery, Thriller",402031,2011-12-10,Guy Ritchie
+76,tt0840361,2013-04-14,2013-04-14,,The Town,https://www.imdb.com/title/tt0840361/,movie,7.5,125,2010,"Crime, Drama, Thriller",330647,2010-09-08,Ben Affleck
+77,tt1024648,2013-04-14,2013-04-14,,Argo,https://www.imdb.com/title/tt1024648/,movie,7.7,120,2012,"Biography, Drama, Thriller",546007,2012-08-31,Ben Affleck
+78,tt0055614,2013-04-14,2013-04-14,,West Side Story,https://www.imdb.com/title/tt0055614/,movie,7.5,153,1961,"Crime, Drama, Musical, Romance",90385,1961-10-18,"Jerome Robbins, Robert Wise"
+79,tt0045152,2013-04-14,2013-04-14,,Singin' in the Rain,https://www.imdb.com/title/tt0045152/,movie,8.3,103,1952,"Comedy, Musical, Romance",203775,1952-03-27,"Gene Kelly, Stanley Donen"
+80,tt1655442,2013-04-14,2013-04-14,,The Artist,https://www.imdb.com/title/tt1655442/,movie,7.9,100,2011,"Comedy, Drama, Romance",220598,2011-05-15,Michel Hazanavicius
+81,tt0172495,2013-04-14,2013-04-14,,Gladiator,https://www.imdb.com/title/tt0172495/,movie,8.5,155,2000,"Action, Adventure, Drama",1253732,2000-05-01,Ridley Scott
+82,tt0311113,2013-04-14,2013-04-14,,Master and Commander: The Far Side of the World,https://www.imdb.com/title/tt0311113/,movie,7.4,138,2003,"Action, Adventure, Drama, History, War",192785,2003-11-14,Peter Weir
+83,tt1270798,2013-04-14,2013-04-14,,X: First Class,https://www.imdb.com/title/tt1270798/,movie,7.7,131,2011,"Action, Adventure, Sci-Fi",622374,2011-05-25,Matthew Vaughn
+84,tt1542344,2013-04-14,2013-04-14,,127 Hours,https://www.imdb.com/title/tt1542344/,movie,7.6,94,2010,"Biography, Drama",331503,2010-09-04,Danny Boyle
+85,tt0418279,2013-04-14,2013-04-14,,Transformers,https://www.imdb.com/title/tt0418279/,movie,7.0,144,2007,"Action, Adventure, Sci-Fi",577725,2007-06-12,Michael Bay
+86,tt0145487,2013-04-14,2013-04-14,,Spider-Man,https://www.imdb.com/title/tt0145487/,movie,7.3,121,2002,"Action, Adventure, Sci-Fi",655663,2002-04-30,Sam Raimi
+87,tt0316654,2013-04-14,2013-04-14,,Spider-Man 2,https://www.imdb.com/title/tt0316654/,movie,7.3,127,2004,"Action, Adventure, Sci-Fi",514715,2004-06-25,Sam Raimi
+88,tt0964517,2013-04-14,2013-04-14,,The Fighter,https://www.imdb.com/title/tt0964517/,movie,7.8,116,2010,"Biography, Drama, Sport",322950,2010-12-06,David O. Russell
+89,tt0452623,2013-04-14,2013-04-14,,Gone Baby Gone,https://www.imdb.com/title/tt0452623/,movie,7.6,114,2007,"Crime, Drama, Mystery, Thriller",238728,2007-09-05,Ben Affleck
+90,tt0277027,2013-04-14,2013-04-14,,I Am Sam,https://www.imdb.com/title/tt0277027/,movie,7.6,132,2001,Drama,137889,2001-12-03,Jessie Nelson
+91,tt0332280,2013-04-14,2013-04-14,,The Notebook,https://www.imdb.com/title/tt0332280/,movie,7.8,123,2004,"Drama, Romance",488244,2004-05-20,Nick Cassavetes
+92,tt1403981,2013-04-14,2013-04-14,,Remember Me,https://www.imdb.com/title/tt1403981/,movie,7.1,113,2010,"Drama, Romance",131656,2010-03-01,Allen Coulter
+93,tt1403865,2013-04-14,2013-04-14,,True Grit,https://www.imdb.com/title/tt1403865/,movie,7.6,110,2010,"Drama, Western",291908,2010-12-14,"Ethan Coen, Joel Coen"
+94,tt0117951,2013-04-14,2013-04-14,,Trainspotting,https://www.imdb.com/title/tt0117951/,movie,8.1,93,1996,Drama,604062,1996-02-23,Danny Boyle
+95,tt0094226,2013-04-14,2013-04-14,,The Untouchables,https://www.imdb.com/title/tt0094226/,movie,7.9,119,1987,"Crime, Drama, Thriller",262700,1987-06-02,Brian De Palma
+96,tt1074638,2013-04-14,2013-04-14,,Skyfall,https://www.imdb.com/title/tt1074638/,movie,7.7,143,2012,"Action, Adventure, Thriller",602968,2012-10-23,Sam Mendes
+97,tt0101414,2013-04-14,2013-04-14,,Beauty and the Beast,https://www.imdb.com/title/tt0101414/,movie,8.0,84,1991,"Animation, Family, Fantasy, Musical, Romance",399730,1991-09-29,"Kirk Wise, Gary Trousdale"
+98,tt0317219,2013-04-14,2013-04-14,,Cars,https://www.imdb.com/title/tt0317219/,movie,7.1,117,2006,"Animation, Comedy, Family, Sport",341798,2006-03-14,"John Lasseter, Joe Ranft"
+99,tt0435761,2013-04-14,2013-04-14,,Toy Story 3,https://www.imdb.com/title/tt0435761/,movie,8.3,103,2010,"Animation, Adventure, Comedy, Family, Fantasy",711361,2010-06-12,Lee Unkrich
+100,tt0266543,2013-04-14,2013-04-14,,Finding Nemo,https://www.imdb.com/title/tt0266543/,movie,8.1,100,2003,"Animation, Adventure, Comedy, Family",894423,2003-05-30,"Andrew Stanton, Lee Unkrich"
+101,tt0317705,2013-04-14,2013-04-14,,The Incredibles,https://www.imdb.com/title/tt0317705/,movie,8.0,115,2004,"Animation, Action, Adventure, Family",621466,2004-10-27,Brad Bird
+102,tt0892769,2013-04-14,2013-04-14,,How to Train Your Dragon,https://www.imdb.com/title/tt0892769/,movie,8.1,98,2010,"Animation, Action, Adventure, Family, Fantasy",628485,2010-03-18,"Dean DeBlois, Chris Sanders"
+103,tt0443543,2013-04-14,2013-04-14,,The Illusionist,https://www.imdb.com/title/tt0443543/,movie,7.6,110,2006,"Drama, Fantasy, History, Mystery, Romance, Thriller",342084,2006-01-22,Neil Burger
+104,tt0137523,2013-04-14,2013-04-14,,Fight Club,https://www.imdb.com/title/tt0137523/,movie,8.8,139,1999,Drama,1735082,1999-09-10,David Fincher
+105,tt0198781,2013-04-14,2013-04-14,,"Monsters, Inc.",https://www.imdb.com/title/tt0198781/,movie,8.0,92,2001,"Animation, Adventure, Comedy, Family, Fantasy",764559,2001-10-28,"Pete Docter, David Silverman, Lee Unkrich"
+106,tt0114369,2013-04-14,2013-04-14,,Se7en,https://www.imdb.com/title/tt0114369/,movie,8.6,127,1995,"Crime, Drama, Mystery, Thriller",1335677,1995-09-15,David Fincher
+107,tt1192628,2013-04-14,2013-04-14,,Rango,https://www.imdb.com/title/tt1192628/,movie,7.2,107,2011,"Animation, Adventure, Comedy, Family, Western",221881,2011-02-14,Gore Verbinski
+108,tt1436562,2013-04-14,2013-04-14,,Rio,https://www.imdb.com/title/tt1436562/,movie,6.9,96,2011,"Animation, Adventure, Comedy, Crime, Family, Musical",195980,2011-03-22,Carlos Saldanha
+109,tt0382932,2013-04-14,2013-04-14,,Ratatouille,https://www.imdb.com/title/tt0382932/,movie,8.0,111,2007,"Animation, Adventure, Comedy, Drama, Family, Fantasy",599008,2007-06-22,"Brad Bird, Jan Pinkava"
+110,tt1049413,2013-04-14,2013-04-14,,Up,https://www.imdb.com/title/tt1049413/,movie,8.2,96,2009,"Animation, Adventure, Comedy, Family",874572,2009-05-13,"Pete Docter, Bob Peterson"
+111,tt0910970,2013-04-14,2013-04-14,,WALL·E,https://www.imdb.com/title/tt0910970/,movie,8.4,98,2008,"Animation, Adventure, Family, Sci-Fi",936603,2008-06-21,Andrew Stanton
+112,tt1282140,2013-04-14,2013-04-14,,Easy A,https://www.imdb.com/title/tt1282140/,movie,7.1,92,2010,"Comedy, Drama, Romance",338456,2010-09-11,Will Gluck
+113,tt0457430,2013-04-14,2013-04-14,,El laberinto del fauno,https://www.imdb.com/title/tt0457430/,movie,8.2,118,2006,"Drama, Fantasy, War",586272,2006-05-27,Guillermo del Toro
+114,tt0099785,2013-04-14,2013-04-14,,Home Alone,https://www.imdb.com/title/tt0099785/,movie,7.6,103,1990,"Comedy, Family",430374,1990-11-10,Chris Columbus
+115,tt0212338,2013-04-14,2013-04-14,,Meet the Parents,https://www.imdb.com/title/tt0212338/,movie,7.0,108,2000,"Comedy, Romance",297905,2000-10-06,Jay Roach
+116,tt1092026,2013-04-14,2013-04-14,,Paul,https://www.imdb.com/title/tt1092026/,movie,7.0,104,2011,"Adventure, Comedy, Sci-Fi",225164,2011-02-07,Greg Mottola
+117,tt0265086,2013-04-14,2013-04-14,,Black Hawk Down,https://www.imdb.com/title/tt0265086/,movie,7.7,144,2001,"Drama, History, War",347259,2001-12-18,Ridley Scott
+118,tt0112573,2013-04-14,2013-04-14,,Braveheart,https://www.imdb.com/title/tt0112573/,movie,8.3,178,1995,"Biography, Drama, History, War",912848,1995-05-18,Mel Gibson
+119,tt0094721,2013-04-14,2013-04-14,,Beetlejuice,https://www.imdb.com/title/tt0094721/,movie,7.5,92,1988,"Comedy, Fantasy",241909,1988-03-29,Tim Burton
+120,tt0091763,2013-04-14,2013-04-14,,Platoon,https://www.imdb.com/title/tt0091763/,movie,8.1,120,1986,"Drama, War",360507,1986-12-19,Oliver Stone
+121,tt0120815,2013-04-14,2013-04-14,,Saving Private Ryan,https://www.imdb.com/title/tt0120815/,movie,8.6,169,1998,"Drama, War",1150730,1998-07-21,Steven Spielberg
+122,tt0108052,2013-04-14,2013-04-14,,Schindler's List,https://www.imdb.com/title/tt0108052/,movie,8.9,195,1993,"Biography, Drama, History",1133700,1993-11-30,Steven Spielberg
+123,tt0253474,2013-04-14,2013-04-14,,The Pianist,https://www.imdb.com/title/tt0253474/,movie,8.5,150,2002,"Biography, Drama, Music, War",669889,2002-05-24,Roman Polanski
+124,tt0111161,2013-04-14,2013-04-14,,The Shawshank Redemption,https://www.imdb.com/title/tt0111161/,movie,9.3,142,1994,Drama,2171792,1994-09-10,Frank Darabont
+125,tt0068646,2013-04-14,2013-04-14,,The Godfather,https://www.imdb.com/title/tt0068646/,movie,9.2,175,1972,"Crime, Drama",1496126,1972-03-14,Francis Ford Coppola
+126,tt0455590,2013-04-14,2013-04-14,,The Last King of Scotland,https://www.imdb.com/title/tt0455590/,movie,7.7,123,2006,"Biography, Drama, History, Thriller",168440,2006-09-01,Kevin Macdonald
+127,tt1659337,2013-04-14,2013-04-14,,The Perks of Being a Wallflower,https://www.imdb.com/title/tt1659337/,movie,8.0,103,2012,"Drama, Romance",431841,2012-09-08,Stephen Chbosky
+128,tt0848228,2013-04-14,2013-04-14,,The Avengers,https://www.imdb.com/title/tt0848228/,movie,8.0,143,2012,"Action, Adventure, Sci-Fi",1211186,2012-04-11,Joss Whedon
+129,tt0099685,2013-04-14,2013-04-14,,Goodfellas,https://www.imdb.com/title/tt0099685/,movie,8.7,146,1990,"Biography, Crime, Drama",942950,1990-09-09,Martin Scorsese
+130,tt0441773,2013-04-14,2013-04-14,,Kung Fu Panda,https://www.imdb.com/title/tt0441773/,movie,7.5,92,2008,"Animation, Action, Adventure, Comedy, Family",393701,2008-05-15,"Mark Osborne, John Stevenson"
+131,tt1302011,2013-04-14,2013-04-14,,Kung Fu Panda 2,https://www.imdb.com/title/tt1302011/,movie,7.2,90,2011,"Animation, Action, Adventure, Comedy, Family, Fantasy",236766,2011-05-22,Jennifer Yuh Nelson
+132,tt0095016,2013-04-14,2013-04-14,,Die Hard,https://www.imdb.com/title/tt0095016/,movie,8.2,132,1988,"Action, Thriller",740732,1988-07-12,John McTiernan
+133,tt0112864,2013-04-14,2013-04-14,,Die Hard: With a Vengeance,https://www.imdb.com/title/tt0112864/,movie,7.6,128,1995,"Action, Adventure, Thriller",347838,1995-05-15,John McTiernan
+134,tt0407887,2013-04-14,2013-04-14,,The Departed,https://www.imdb.com/title/tt0407887/,movie,8.5,151,2006,"Crime, Drama, Thriller",1110493,2006-09-26,Martin Scorsese
+135,tt0167404,2013-04-14,2013-04-14,,The Sixth Sense,https://www.imdb.com/title/tt0167404/,movie,8.1,107,1999,"Drama, Mystery, Thriller",865330,1999-08-02,M. Night Shyamalan
+136,tt0780504,2013-04-14,2013-04-14,,Drive,https://www.imdb.com/title/tt0780504/,movie,7.8,100,2011,"Crime, Drama",536526,2011-05-20,Nicolas Winding Refn
+137,tt1392170,2013-04-14,2013-04-14,,The Hunger Games,https://www.imdb.com/title/tt1392170/,movie,7.2,142,2012,"Action, Adventure, Sci-Fi, Thriller",808592,2012-03-12,Gary Ross
+138,tt1045658,2013-04-14,2013-04-14,,Silver Linings Playbook,https://www.imdb.com/title/tt1045658/,movie,7.7,122,2012,"Comedy, Drama, Romance",632491,2012-09-08,David O. Russell
+139,tt1707386,2013-04-14,2013-04-14,,Les Misérables,https://www.imdb.com/title/tt1707386/,movie,7.6,158,2012,"Drama, History, Musical, Romance, War",292578,2012-12-05,Tom Hooper
+140,tt1210166,2013-04-14,2013-04-14,,Moneyball,https://www.imdb.com/title/tt1210166/,movie,7.6,133,2011,"Biography, Drama, Sport",336699,2011-09-09,Bennett Miller
+141,tt1527186,2013-04-14,2013-04-14,,Melancholia,https://www.imdb.com/title/tt1527186/,movie,7.1,135,2011,"Drama, Sci-Fi",157384,2011-05-18,Lars von Trier
+142,tt0800369,2013-04-14,2013-04-14,,Thor,https://www.imdb.com/title/tt0800369/,movie,7.0,115,2011,"Action, Adventure, Fantasy",705949,2011-04-17,Kenneth Branagh
+143,tt1201607,2013-04-14,2013-04-14,,Harry Potter and the Deathly Hallows: Part 2,https://www.imdb.com/title/tt1201607/,movie,8.1,130,2011,"Adventure, Drama, Fantasy, Mystery",712221,2011-07-07,David Yates
+144,tt1340800,2013-04-14,2013-04-14,,Tinker Tailor Soldier Spy,https://www.imdb.com/title/tt1340800/,movie,7.1,122,2011,"Drama, Mystery, Thriller",178115,2011-09-05,Tomas Alfredson
+145,tt1615147,2013-04-14,2013-04-14,,Margin Call,https://www.imdb.com/title/tt1615147/,movie,7.1,107,2011,"Drama, Thriller",109645,2011-01-25,J.C. Chandor
+146,tt1570728,2013-04-14,2013-04-14,,"Crazy, Stupid, Love.",https://www.imdb.com/title/tt1570728/,movie,7.4,118,2011,"Comedy, Drama, Romance",446461,2011-07-19,"Glenn Ficarra, John Requa"
+147,tt1650062,2013-04-14,2013-04-14,,Super 8,https://www.imdb.com/title/tt1650062/,movie,7.0,112,2011,"Action, Mystery, Sci-Fi, Thriller",325001,2011-06-09,J.J. Abrams
+148,tt0796366,2013-04-14,2013-04-14,,Star Trek,https://www.imdb.com/title/tt0796366/,movie,7.9,127,2009,"Action, Adventure, Sci-Fi",562821,2009-04-06,J.J. Abrams
+149,tt0112384,2013-04-14,2013-04-14,,Apollo 13,https://www.imdb.com/title/tt0112384/,movie,7.6,140,1995,"Adventure, Drama, History",252486,1995-06-22,Ron Howard
+150,tt0109830,2013-04-14,2013-04-14,,Forrest Gump,https://www.imdb.com/title/tt0109830/,movie,8.8,142,1994,"Drama, Romance",1673147,1994-06-23,Robert Zemeckis
+151,tt0421715,2013-04-14,2013-04-14,,The Curious Case of Benjamin Button,https://www.imdb.com/title/tt0421715/,movie,7.8,166,2008,"Drama, Fantasy, Romance",553369,2008-12-10,David Fincher
+152,tt1318514,2013-04-14,2013-04-14,,Rise of the Planet of the Apes,https://www.imdb.com/title/tt1318514/,movie,7.6,105,2011,"Action, Drama, Sci-Fi, Thriller",480437,2011-07-28,Rupert Wyatt
+153,tt1306980,2013-04-14,2013-04-14,,50/50,https://www.imdb.com/title/tt1306980/,movie,7.6,100,2011,"Comedy, Drama, Romance",305239,2011-09-12,Jonathan Levine
+154,tt1022603,2013-04-14,2013-04-14,,(500) Days of Summer,https://www.imdb.com/title/tt1022603/,movie,7.7,95,2009,"Comedy, Drama, Romance",450500,2009-01-17,Marc Webb
+155,tt0119094,2013-04-14,2013-04-14,,Face/Off,https://www.imdb.com/title/tt0119094/,movie,7.3,138,1997,"Action, Crime, Sci-Fi, Thriller",333534,1997-06-19,John Woo
+156,tt1291584,2013-04-14,2013-04-14,,Warrior,https://www.imdb.com/title/tt1291584/,movie,8.2,140,2011,"Drama, Sport",412772,2011-09-09,Gavin O'Connor
+157,tt1454029,2013-04-14,2013-04-14,,The Help,https://www.imdb.com/title/tt1454029/,movie,8.1,146,2011,Drama,402320,2011-08-09,Tate Taylor
+158,tt0454876,2013-04-14,2013-04-14,,Life of Pi,https://www.imdb.com/title/tt0454876/,movie,7.9,127,2012,"Adventure, Drama, Fantasy",549956,2012-09-28,Ang Lee
+159,tt0388795,2013-04-14,2013-04-14,,Brokeback Mountain,https://www.imdb.com/title/tt0388795/,movie,7.7,134,2005,"Drama, Romance",306813,2005-09-02,Ang Lee
+160,tt0071562,2013-04-14,2013-04-14,,The Godfather: Part II,https://www.imdb.com/title/tt0071562/,movie,9.0,202,1974,"Crime, Drama",1047393,1974-12-12,Francis Ford Coppola
+161,tt0107290,2013-04-14,2013-04-14,,Jurassic Park,https://www.imdb.com/title/tt0107290/,movie,8.1,127,1993,"Action, Adventure, Sci-Fi, Thriller",806795,1993-06-09,Steven Spielberg
+162,tt0105695,2013-04-14,2013-04-14,,Unforgiven,https://www.imdb.com/title/tt0105695/,movie,8.2,130,1992,"Drama, Western",351330,1992-08-03,Clint Eastwood
+163,tt1124035,2013-04-14,2013-04-14,,The Ides of March,https://www.imdb.com/title/tt1124035/,movie,7.1,101,2011,"Drama, Thriller",209493,2011-08-31,George Clooney
+164,tt1568911,2013-04-14,2013-04-14,,War Horse,https://www.imdb.com/title/tt1568911/,movie,7.2,146,2011,"Action, Adventure, Drama, History, War",139533,2011-12-04,Steven Spielberg
+165,tt0983193,2013-04-14,2013-04-14,,The Adventures of Tintin,https://www.imdb.com/title/tt0983193/,movie,7.3,107,2011,"Animation, Action, Adventure, Family, Mystery",206583,2011-10-23,Steven Spielberg
+166,tt1560747,2013-04-14,2013-04-14,,The Master,https://www.imdb.com/title/tt1560747/,movie,7.2,138,2012,Drama,138575,2012-09-01,Paul Thomas Anderson
+167,tt0443272,2013-04-14,2013-04-14,,Lincoln,https://www.imdb.com/title/tt0443272/,movie,7.3,150,2012,"Biography, Drama, History, War",233506,2012-10-08,Steven Spielberg
+168,tt1430607,2013-04-14,2013-04-14,,Arthur Christmas,https://www.imdb.com/title/tt1430607/,movie,7.1,97,2011,"Animation, Adventure, Comedy, Family, Fantasy",47546,2011-11-11,"Barry Cook, Sarah Smith"
+169,tt0366551,2013-04-14,2013-04-14,,Harold & Kumar Go to White Castle,https://www.imdb.com/title/tt0366551/,movie,7.1,88,2004,"Adventure, Comedy",174873,2004-05-20,Danny Leiner
+170,tt0126029,2013-04-14,2013-04-14,,Shrek,https://www.imdb.com/title/tt0126029/,movie,7.8,90,2001,"Animation, Adventure, Comedy, Family, Fantasy",579296,2001-04-22,"Vicky Jenson, Andrew Adamson"
+171,tt0298148,2013-04-14,2013-04-14,,Shrek 2,https://www.imdb.com/title/tt0298148/,movie,7.2,93,2004,"Animation, Adventure, Comedy, Family, Fantasy, Romance",394545,2004-05-08,"Conrad Vernon, Kelly Asbury, Andrew Adamson"
+172,tt1204342,2013-04-14,2013-04-14,,The Muppets,https://www.imdb.com/title/tt1204342/,movie,7.1,103,2011,"Adventure, Comedy, Family, Musical",84038,2011-11-04,James Bobin
+173,tt1568346,2013-04-14,2013-04-14,,The Girl with the Dragon Tattoo,https://www.imdb.com/title/tt1568346/,movie,7.8,158,2011,"Crime, Drama, Mystery, Thriller",397131,2011-12-12,David Fincher
+174,tt1132620,2013-04-14,2013-04-14,,Män som hatar kvinnor,https://www.imdb.com/title/tt1132620/,movie,7.8,152,2009,"Crime, Drama, Mystery, Thriller",201278,2009-02-27,Niels Arden Oplev
+175,tt1183919,2013-04-14,2013-04-14,,Marley,https://www.imdb.com/title/tt1183919/,movie,8.0,144,2012,"Documentary, Biography, Music",12694,2012-02-12,Kevin Macdonald
+176,tt0822832,2013-04-14,2013-04-14,,Marley & Me,https://www.imdb.com/title/tt0822832/,movie,7.1,115,2008,"Comedy, Drama, Family",139623,2008-12-25,David Frankel
+177,tt1232829,2013-04-14,2013-04-14,,21 Jump Street,https://www.imdb.com/title/tt1232829/,movie,7.2,109,2012,"Action, Comedy, Crime",488022,2012-03-12,"Christopher Miller, Phil Lord"
+178,tt0462538,2013-04-14,2013-04-14,,The Simpsons Movie,https://www.imdb.com/title/tt0462538/,movie,7.3,87,2007,"Animation, Adventure, Comedy",297785,2007-07-21,David Silverman
+179,tt0468569,2013-04-14,2013-04-14,,The Dark Knight,https://www.imdb.com/title/tt0468569/,movie,9.0,152,2008,"Action, Crime, Drama, Thriller",2155964,2008-07-14,Christopher Nolan
+180,tt1259521,2013-04-14,2013-04-14,,The Cabin in the Woods,https://www.imdb.com/title/tt1259521/,movie,7.0,95,2011,Horror,349456,2011-12-11,Drew Goddard
+181,tt1446714,2013-04-14,2013-04-14,,Prometheus,https://www.imdb.com/title/tt1446714/,movie,7.0,124,2012,"Adventure, Mystery, Sci-Fi",547914,2012-04-11,Ridley Scott
+182,tt0119654,2013-04-14,2013-04-14,,Men in Black,https://www.imdb.com/title/tt0119654/,movie,7.3,98,1997,"Action, Adventure, Comedy, Sci-Fi",490090,1997-06-25,Barry Sonnenfeld
+183,tt0268380,2013-04-14,2013-04-14,,Ice Age,https://www.imdb.com/title/tt0268380/,movie,7.5,81,2002,"Animation, Adventure, Comedy, Family, Fantasy",415312,2002-03-12,"Chris Wedge, Carlos Saldanha"
+184,tt0948470,2013-04-14,2013-04-14,,The Amazing Spider-Man,https://www.imdb.com/title/tt0948470/,movie,6.9,136,2012,"Action, Sci-Fi",537021,2012-06-13,Marc Webb
+185,tt1217209,2013-04-14,2013-04-14,,Brave,https://www.imdb.com/title/tt1217209/,movie,7.1,93,2012,"Animation, Adventure, Comedy, Family, Fantasy",349743,2012-06-10,"Mark Andrews, Steve Purcell, Brenda Chapman"
+186,tt1772341,2013-04-14,2013-04-14,,Wreck-It Ralph,https://www.imdb.com/title/tt1772341/,movie,7.7,101,2012,"Animation, Adventure, Comedy, Family, Fantasy",357275,2012-11-01,Rich Moore
+187,tt1637725,2013-04-14,2013-04-14,,Ted,https://www.imdb.com/title/tt1637725/,movie,6.9,106,2012,Comedy,548320,2012-06-29,Seth MacFarlane
+188,tt1276104,2013-04-14,2013-04-14,,Looper,https://www.imdb.com/title/tt1276104/,movie,7.4,113,2012,"Action, Crime, Drama, Sci-Fi, Thriller",511120,2012-09-06,Rian Johnson
+189,tt1212450,2013-04-14,2013-04-14,,Lawless,https://www.imdb.com/title/tt1212450/,movie,7.3,116,2012,"Crime, Drama",218018,2012-05-19,John Hillcoat
+190,tt1855199,2013-04-14,2013-04-14,,End of Watch,https://www.imdb.com/title/tt1855199/,movie,7.6,109,2012,"Action, Crime, Drama, Thriller",216488,2012-09-08,David Ayer
+191,tt1981677,2013-04-14,2013-04-14,,Pitch Perfect,https://www.imdb.com/title/tt1981677/,movie,7.2,112,2012,"Comedy, Music, Romance",262902,2012-09-28,Jason Moore
+192,tt1371111,2013-04-14,2013-04-14,,Cloud Atlas,https://www.imdb.com/title/tt1371111/,movie,7.4,172,2012,"Action, Drama, Mystery, Sci-Fi",332076,2012-09-08,"Lilly Wachowski, Lana Wachowski, Tom Tykwer"
+193,tt0058150,2013-04-14,2013-04-14,,Goldfinger,https://www.imdb.com/title/tt0058150/,movie,7.7,110,1964,"Action, Adventure, Thriller",162148,1964-09-17,Guy Hamilton
+194,tt0055928,2013-04-14,2013-04-14,,Dr. No,https://www.imdb.com/title/tt0055928/,movie,7.3,110,1962,"Action, Adventure, Thriller",137691,1962-10-05,Terence Young
+195,tt0057076,2013-04-14,2013-04-14,,From Russia with Love,https://www.imdb.com/title/tt0057076/,movie,7.4,115,1963,"Action, Adventure, Thriller",109063,1963-10-10,Terence Young
+196,tt0057012,2013-04-14,2013-04-14,,Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,https://www.imdb.com/title/tt0057012/,movie,8.4,95,1964,Comedy,425811,1964-01-29,Stanley Kubrick
+197,tt1907668,2013-04-14,2013-04-14,,Flight,https://www.imdb.com/title/tt1907668/,movie,7.3,138,2012,"Drama, Thriller",309299,2012-10-14,Robert Zemeckis
+198,tt0118715,2013-04-14,2013-04-14,,The Big Lebowski,https://www.imdb.com/title/tt0118715/,movie,8.1,117,1998,"Comedy, Crime, Sport",682853,1998-02-15,"Ethan Coen, Joel Coen"
+199,tt0903624,2013-04-14,2013-04-14,,The Hobbit: An Unexpected Journey,https://www.imdb.com/title/tt0903624/,movie,7.8,169,2012,"Adventure, Family, Fantasy",730495,2012-11-28,Peter Jackson
+200,tt1649419,2013-04-14,2013-04-14,,Lo imposible,https://www.imdb.com/title/tt1649419/,movie,7.6,114,2012,"Drama, History, Thriller",183983,2012-09-09,J.A. Bayona
+201,tt1790885,2013-04-14,2013-04-14,,Zero Dark Thirty,https://www.imdb.com/title/tt1790885/,movie,7.4,157,2012,"Drama, Thriller",257101,2012-12-10,Kathryn Bigelow
+202,tt1446192,2013-04-14,2013-04-14,,Rise of the Guardians,https://www.imdb.com/title/tt1446192/,movie,7.3,97,2012,"Animation, Action, Adventure, Comedy, Family, Fantasy, Sci-Fi",149151,2012-10-10,Peter Ramsey
+203,tt0012349,2013-04-14,2013-04-14,,The Kid,https://www.imdb.com/title/tt0012349/,movie,8.3,68,1921,"Comedy, Drama, Family",102487,1921-01-16,Charles Chaplin
+204,tt0021749,2013-04-14,2013-04-14,,City Lights,https://www.imdb.com/title/tt0021749/,movie,8.5,87,1931,"Comedy, Drama, Romance",153691,1931-01-30,Charles Chaplin
+205,tt0032553,2013-04-14,2013-04-14,,The Great Dictator,https://www.imdb.com/title/tt0032553/,movie,8.5,125,1940,"Comedy, Drama, War",187788,1940-10-15,Charles Chaplin
+206,tt0485947,2013-04-14,2013-04-14,,Mr. Nobody,https://www.imdb.com/title/tt0485947/,movie,7.8,141,2009,"Drama, Fantasy, Romance, Sci-Fi",203069,2009-09-11,Jaco Van Dormael
+207,tt0317248,2013-04-14,2013-04-14,,Cidade de Deus,https://www.imdb.com/title/tt0317248/,movie,8.6,130,2002,"Crime, Drama",662231,2002-05-18,"Kátia Lund, Fernando Meirelles"
+208,tt0087469,2013-04-14,2013-04-14,,Indiana Jones and the Temple of Doom,https://www.imdb.com/title/tt0087469/,movie,7.6,118,1984,"Action, Adventure",418656,1984-05-08,Steven Spielberg
+209,tt0050083,2013-04-14,2013-04-14,,12 Angry Men,https://www.imdb.com/title/tt0050083/,movie,8.9,96,1957,Drama,632075,1957-04-10,Sidney Lumet
+210,tt0099674,2013-04-14,2013-04-14,,The Godfather: Part III,https://www.imdb.com/title/tt0099674/,movie,7.6,162,1990,"Crime, Drama",334735,1990-12-12,Francis Ford Coppola
+211,tt0074958,2013-04-14,2013-04-14,,Network,https://www.imdb.com/title/tt0074958/,movie,8.1,121,1976,Drama,135661,1976-11-14,Sidney Lumet
+212,tt0073486,2013-04-14,2013-04-14,,One Flew Over the Cuckoo's Nest,https://www.imdb.com/title/tt0073486/,movie,8.7,133,1975,Drama,857339,1975-11-19,Milos Forman
+213,tt0094291,2013-04-14,2013-04-14,,Wall Street,https://www.imdb.com/title/tt0094291/,movie,7.4,126,1987,"Crime, Drama",136954,1987-12-11,Oliver Stone
+214,tt0079522,2013-04-14,2013-04-14,,Manhattan,https://www.imdb.com/title/tt0079522/,movie,7.9,96,1979,"Comedy, Drama, Romance",124506,1979-04-18,Woody Allen
+215,tt0078788,2013-04-14,2013-04-14,,Apocalypse Now,https://www.imdb.com/title/tt0078788/,movie,8.4,147,1979,"Drama, Mystery, War",566553,1979-05-19,Francis Ford Coppola
+216,tt0076759,2013-04-14,2013-04-14,,Star Wars,https://www.imdb.com/title/tt0076759/,movie,8.6,121,1977,"Action, Adventure, Fantasy, Sci-Fi",1157824,1977-05-25,George Lucas
+217,tt0075148,2013-04-14,2013-04-14,,Rocky,https://www.imdb.com/title/tt0075148/,movie,8.1,120,1976,"Drama, Sport",487087,1976-11-20,John G. Avildsen
+218,tt0462499,2013-04-14,2013-04-14,,Rambo,https://www.imdb.com/title/tt0462499/,movie,7.0,92,2008,"Action, Thriller",209340,2008-01-23,Sylvester Stallone
+219,tt0079501,2013-04-14,2013-04-14,,Mad Max,https://www.imdb.com/title/tt0079501/,movie,6.9,88,1979,"Action, Adventure, Sci-Fi, Thriller",180995,1979-04-12,George Miller
+220,tt0082694,2013-04-14,2013-04-14,,Mad Max 2,https://www.imdb.com/title/tt0082694/,movie,7.6,96,1981,"Action, Adventure, Sci-Fi, Thriller",158198,1981-12-24,George Miller
+221,tt0081398,2013-04-14,2013-04-14,,Raging Bull,https://www.imdb.com/title/tt0081398/,movie,8.2,129,1980,"Biography, Drama, Sport",299204,1980-11-13,Martin Scorsese
+222,tt0090605,2013-04-14,2013-04-14,,Aliens,https://www.imdb.com/title/tt0090605/,movie,8.4,137,1986,"Action, Adventure, Sci-Fi, Thriller",617251,1986-07-14,James Cameron
+223,tt0078748,2013-04-14,2013-04-14,,Alien,https://www.imdb.com/title/tt0078748/,movie,8.4,117,1979,"Horror, Sci-Fi",737486,1979-05-25,Ridley Scott
+224,tt0079417,2013-04-14,2013-04-14,,Kramer vs. Kramer,https://www.imdb.com/title/tt0079417/,movie,7.8,105,1979,Drama,122506,1979-12-17,Robert Benton
+225,tt0095953,2013-04-14,2013-04-14,,Rain Man,https://www.imdb.com/title/tt0095953/,movie,8.0,133,1988,Drama,450657,1988-12-12,Barry Levinson
+226,tt0080684,2013-04-14,2013-04-14,,Star Wars: Episode V - The Empire Strikes Back,https://www.imdb.com/title/tt0080684/,movie,8.7,124,1980,"Action, Adventure, Fantasy, Sci-Fi",1088468,1980-05-17,Irvin Kershner
+227,tt0081505,2013-04-14,2013-04-14,,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",824125,1980-05-23,Stanley Kubrick
+228,tt0083987,2013-04-14,2013-04-14,,Gandhi,https://www.imdb.com/title/tt0083987/,movie,8.0,191,1982,"Biography, Drama, History",210521,1982-11-30,Richard Attenborough
+229,tt0103064,2013-04-14,2013-04-14,,Terminator 2: Judgment Day,https://www.imdb.com/title/tt0103064/,movie,8.5,137,1991,"Action, Sci-Fi",940026,1991-07-01,James Cameron
+230,tt0088247,2013-04-14,2013-04-14,,The Terminator,https://www.imdb.com/title/tt0088247/,movie,8.0,107,1984,"Action, Sci-Fi",755844,1984-10-26,James Cameron
+231,tt0084787,2013-04-14,2013-04-14,,The Thing,https://www.imdb.com/title/tt0084787/,movie,8.1,109,1982,"Horror, Mystery, Sci-Fi",343985,1982-06-25,John Carpenter
+232,tt0102926,2013-04-14,2013-04-14,,The Silence of the Lambs,https://www.imdb.com/title/tt0102926/,movie,8.6,118,1991,"Crime, Drama, Thriller",1177097,1991-01-30,Jonathan Demme
+233,tt0088846,2013-04-14,2013-04-14,,Brazil,https://www.imdb.com/title/tt0088846/,movie,7.9,132,1985,"Drama, Sci-Fi",178873,1985-02-20,Terry Gilliam
+234,tt0372784,2013-04-14,2013-04-14,,Batman Begins,https://www.imdb.com/title/tt0372784/,movie,8.2,140,2005,"Action, Adventure",1231234,2005-05-31,Christopher Nolan
+235,tt1205489,2013-04-14,2013-04-14,,Gran Torino,https://www.imdb.com/title/tt1205489/,movie,8.1,116,2008,Drama,685298,2008-12-09,Clint Eastwood
+236,tt1010048,2013-04-14,2013-04-14,,Slumdog Millionaire,https://www.imdb.com/title/tt1010048/,movie,8.0,120,2008,"Drama, Romance",762366,2008-08-30,"Loveleen Tandan, Danny Boyle"
+237,tt0241527,2013-04-14,2013-04-14,,Harry Potter and the Sorcerer's Stone,https://www.imdb.com/title/tt0241527/,movie,7.6,152,2001,"Adventure, Family, Fantasy",588537,2001-11-04,Chris Columbus
+238,tt0107818,2013-04-14,2013-04-14,,Philadelphia,https://www.imdb.com/title/tt0107818/,movie,7.7,125,1993,Drama,211260,1993-12-14,Jonathan Demme
+239,tt0110357,2013-04-14,2013-04-14,,The Lion King,https://www.imdb.com/title/tt0110357/,movie,8.5,88,1994,"Animation, Adventure, Drama, Family, Musical",877410,1994-06-15,"Rob Minkoff, Roger Allers"
+240,tt0110632,2013-04-14,2013-04-14,,Natural Born Killers,https://www.imdb.com/title/tt0110632/,movie,7.3,118,1994,"Crime, Drama",205107,1994-08-26,Oliver Stone
+241,tt1156398,2013-04-14,2013-04-14,,Zombieland,https://www.imdb.com/title/tt1156398/,movie,7.6,88,2009,"Adventure, Comedy, Horror, Sci-Fi",487161,2009-09-25,Ruben Fleischer
+242,tt0365748,2013-04-14,2013-04-14,,Shaun of the Dead,https://www.imdb.com/title/tt0365748/,movie,7.9,99,2004,"Comedy, Horror",483475,2004-03-29,Edgar Wright
+243,tt0113277,2013-04-14,2013-04-14,,Heat,https://www.imdb.com/title/tt0113277/,movie,8.2,170,1995,"Crime, Drama, Thriller",538976,1995-12-06,Michael Mann
+244,tt0133093,2013-04-14,2013-04-14,,The Matrix,https://www.imdb.com/title/tt0133093/,movie,8.7,136,1999,"Action, Sci-Fi",1563652,1999-03-24,"Lilly Wachowski, Lana Wachowski"
+245,tt0169547,2013-04-14,2013-04-14,,American Beauty,https://www.imdb.com/title/tt0169547/,movie,8.3,122,1999,Drama,1013729,1999-09-08,Sam Mendes
+246,tt0299658,2013-04-14,2013-04-14,,Chicago,https://www.imdb.com/title/tt0299658/,movie,7.1,113,2002,"Comedy, Crime, Musical",205415,2002-12-10,Rob Marshall
+247,tt0209144,2013-04-14,2013-04-14,,Memento,https://www.imdb.com/title/tt0209144/,movie,8.4,113,2000,"Mystery, Thriller",1057692,2000-09-05,Christopher Nolan
+248,tt0190332,2013-04-14,2013-04-14,,Wo hu cang long,https://www.imdb.com/title/tt0190332/,movie,7.8,120,2000,"Action, Adventure, Fantasy, Romance",243837,2000-05-18,Ang Lee
+249,tt0373469,2013-04-14,2013-04-14,,Kiss Kiss Bang Bang,https://www.imdb.com/title/tt0373469/,movie,7.5,103,2005,"Action, Comedy, Crime, Mystery, Thriller",205998,2005-05-14,Shane Black
+250,tt0266697,2013-04-14,2013-04-14,,Kill Bill: Vol. 1,https://www.imdb.com/title/tt0266697/,movie,8.1,111,2003,"Action, Crime, Thriller",937427,2003-09-29,Quentin Tarantino
+251,tt0378194,2013-04-14,2013-04-14,,Kill Bill: Vol. 2,https://www.imdb.com/title/tt0378194/,movie,8.0,137,2004,"Action, Crime, Thriller",639890,2004-04-08,Quentin Tarantino
+252,tt0449059,2013-04-14,2013-04-14,,Little Miss Sunshine,https://www.imdb.com/title/tt0449059/,movie,7.8,101,2006,"Comedy, Drama",418277,2006-01-20,"Jonathan Dayton, Valerie Faris"
+253,tt1606392,2013-04-14,2013-04-14,,Win Win,https://www.imdb.com/title/tt1606392/,movie,7.1,106,2011,"Comedy, Drama, Sport",51985,2011-01-21,Tom McCarthy
+254,tt0375063,2013-04-14,2013-04-14,,Sideways,https://www.imdb.com/title/tt0375063/,movie,7.5,127,2004,"Comedy, Drama, Romance",172383,2004-09-13,Alexander Payne
+255,tt0477348,2013-04-14,2013-04-14,,No Country for Old Men,https://www.imdb.com/title/tt0477348/,movie,8.1,122,2007,"Crime, Drama, Thriller",790881,2007-05-19,"Ethan Coen, Joel Coen"
+256,tt0120338,2013-04-14,2013-04-14,,Titanic,https://www.imdb.com/title/tt0120338/,movie,7.8,194,1997,"Drama, Romance",985367,1997-11-01,James Cameron
+257,tt1136608,2013-04-14,2013-04-14,,District 9,https://www.imdb.com/title/tt1136608/,movie,7.9,112,2009,"Action, Sci-Fi, Thriller",615220,2009-08-13,Neill Blomkamp
+258,tt1504320,2013-04-14,2013-04-14,,The King's Speech,https://www.imdb.com/title/tt1504320/,movie,8.0,118,2010,"Biography, Drama, History",607539,2010-09-06,Tom Hooper
+259,tt0352248,2013-04-14,2013-04-14,,Cinderella Man,https://www.imdb.com/title/tt0352248/,movie,8.0,144,2005,"Biography, Drama, History, Romance, Sport",169174,2005-05-23,Ron Howard
+260,tt0383574,2013-04-14,2013-04-14,,Pirates of the Caribbean: Dead Man's Chest,https://www.imdb.com/title/tt0383574/,movie,7.3,151,2006,"Action, Adventure, Fantasy",625721,2006-06-24,Gore Verbinski
+261,tt0121164,2013-04-14,2013-04-14,,Corpse Bride,https://www.imdb.com/title/tt0121164/,movie,7.3,77,2005,"Animation, Drama, Family, Fantasy, Musical, Romance",229295,2005-09-07,"Tim Burton, Mike Johnson"
+262,tt0112851,2013-04-14,2013-04-14,,Desperado,https://www.imdb.com/title/tt0112851/,movie,7.2,104,1995,"Action, Thriller",163723,1995-05-31,Robert Rodriguez
+263,tt0081505,2013-04-14,2013-04-14,,The Shining,https://www.imdb.com/title/tt0081505/,movie,8.4,146,1980,"Drama, Horror",824125,1980-05-23,Stanley Kubrick
+264,tt0411477,2013-04-14,2013-04-14,,Hellboy II: The Golden Army,https://www.imdb.com/title/tt0411477/,movie,7.0,120,2008,"Action, Adventure, Fantasy, Horror, Sci-Fi, War",247326,2008-06-28,Guillermo del Toro
+265,tt1164999,2013-04-14,2013-04-14,,Biutiful,https://www.imdb.com/title/tt1164999/,movie,7.5,148,2010,"Drama, Romance",81875,2010-05-17,Alejandro G. Iñárritu
+266,tt0285742,2013-04-14,2013-04-14,,Monster's Ball,https://www.imdb.com/title/tt0285742/,movie,7.0,111,2001,"Drama, Romance",79731,2001-11-11,Marc Forster
+267,tt1001526,2013-04-14,2013-04-14,,Megamind,https://www.imdb.com/title/tt1001526/,movie,7.2,95,2010,"Animation, Action, Comedy, Family, Sci-Fi",214120,2010-10-28,Tom McGrath
+268,tt0113189,2013-04-14,2013-04-14,,GoldenEye,https://www.imdb.com/title/tt0113189/,movie,7.2,130,1995,"Action, Adventure, Thriller",227234,1995-11-13,Martin Campbell
+269,tt1189073,2013-04-14,2013-04-14,,La piel que habito,https://www.imdb.com/title/tt1189073/,movie,7.6,120,2011,"Drama, Horror, Thriller",127664,2011-05-19,Pedro Almodóvar
+270,tt0118799,2013-04-14,2013-04-14,,La vita è bella,https://www.imdb.com/title/tt0118799/,movie,8.6,116,1997,"Comedy, Drama, Romance, War",574555,1997-12-20,Roberto Benigni
+271,tt0139654,2013-04-14,2013-04-14,,Training Day,https://www.imdb.com/title/tt0139654/,movie,7.7,122,2001,"Crime, Drama, Thriller",365622,2001-09-02,Antoine Fuqua
+272,tt0268978,2013-04-14,2013-04-14,,A Beautiful Mind,https://www.imdb.com/title/tt0268978/,movie,8.2,135,2001,"Biography, Drama",794188,2001-12-13,Ron Howard
+273,tt0480249,2013-04-14,2013-04-14,,I Am Legend,https://www.imdb.com/title/tt0480249/,movie,7.2,101,2007,"Adventure, Drama, Sci-Fi, Thriller",649114,2007-12-05,Francis Lawrence
+274,tt0350258,2013-04-14,2013-04-14,,Ray,https://www.imdb.com/title/tt0350258/,movie,7.7,152,2004,"Biography, Drama, Music",130456,2004-09-12,Taylor Hackford
+275,tt0211915,2013-04-14,2013-04-14,,Le fabuleux destin d'Amélie Poulain,https://www.imdb.com/title/tt0211915/,movie,8.3,122,2001,"Comedy, Romance",668349,2001-04-25,Jean-Pierre Jeunet
+276,tt0217505,2013-04-14,2013-04-14,,Gangs of New York,https://www.imdb.com/title/tt0217505/,movie,7.5,167,2002,"Crime, Drama",382203,2002-12-09,Martin Scorsese
+277,tt0268126,2013-04-14,2013-04-14,,Adaptation.,https://www.imdb.com/title/tt0268126/,movie,7.7,115,2002,"Comedy, Drama",168354,2002-12-03,Spike Jonze
+278,tt0405159,2013-04-14,2013-04-14,,Million Dollar Baby,https://www.imdb.com/title/tt0405159/,movie,8.1,132,2004,"Drama, Sport",600586,2004-12-05,Clint Eastwood
+279,tt0338751,2013-04-14,2013-04-14,,The Aviator,https://www.imdb.com/title/tt0338751/,movie,7.5,170,2004,"Biography, Drama",315841,2004-12-14,Martin Scorsese
+280,tt0381849,2013-04-14,2013-04-14,,3:10 to Yuma,https://www.imdb.com/title/tt0381849/,movie,7.7,122,2007,"Action, Crime, Drama, Western",275200,2007-08-21,James Mangold
+281,tt0308644,2013-04-14,2013-04-14,,Finding Neverland,https://www.imdb.com/title/tt0308644/,movie,7.7,106,2004,"Biography, Drama, Family",192941,2004-09-04,Marc Forster
+282,tt0335345,2013-04-14,2013-04-14,,The Passion of the Christ,https://www.imdb.com/title/tt0335345/,movie,7.1,127,2004,Drama,204320,2004-02-25,Mel Gibson
+283,tt0408306,2013-04-14,2013-04-14,,Munich,https://www.imdb.com/title/tt0408306/,movie,7.5,164,2005,"Biography, Crime, Drama, History, Thriller",202088,2005-12-23,Steven Spielberg
+284,tt0369702,2013-04-14,2013-04-14,,Mar adentro,https://www.imdb.com/title/tt0369702/,movie,8.0,126,2004,"Biography, Drama",74085,2004-09-02,Alejandro Amenábar
+285,tt0120586,2013-04-14,2013-04-14,,American History X,https://www.imdb.com/title/tt0120586/,movie,8.5,119,1998,Drama,978752,1998-10-30,Tony Kaye
+286,tt0375679,2013-04-14,2013-04-14,,Crash,https://www.imdb.com/title/tt0375679/,movie,7.8,112,2004,"Crime, Drama, Thriller",406006,2004-09-10,Paul Haggis
+287,tt0498380,2013-04-14,2013-04-14,,Letters from Iwo Jima,https://www.imdb.com/title/tt0498380/,movie,7.9,141,2006,"Action, Adventure, Drama, History, War",148413,2006-11-15,Clint Eastwood
+288,tt0450259,2013-04-14,2013-04-14,,Blood Diamond,https://www.imdb.com/title/tt0450259/,movie,8.0,143,2006,"Adventure, Drama, Thriller",472799,2006-12-06,Edward Zwick
+289,tt0454921,2013-04-14,2013-04-14,,The Pursuit of Happyness,https://www.imdb.com/title/tt0454921/,movie,8.0,117,2006,"Biography, Drama",417254,2006-12-15,Gabriele Muccino
+290,tt0887883,2013-04-14,2013-04-14,,Burn After Reading,https://www.imdb.com/title/tt0887883/,movie,7.0,96,2008,"Comedy, Crime, Drama, Thriller",293970,2008-08-27,"Ethan Coen, Joel Coen"
+291,tt0108399,2013-04-14,2013-04-14,,True Romance,https://www.imdb.com/title/tt0108399/,movie,7.9,119,1993,"Crime, Drama, Romance, Thriller",193733,1993-09-08,Tony Scott
+292,tt0814314,2013-04-14,2013-04-14,,Seven Pounds,https://www.imdb.com/title/tt0814314/,movie,7.6,123,2008,Drama,274157,2008-12-19,Gabriele Muccino
+293,tt0405094,2013-04-14,2013-04-14,,Das Leben der Anderen,https://www.imdb.com/title/tt0405094/,movie,8.4,137,2006,"Drama, Mystery, Thriller",333834,2006-03-15,Florian Henckel von Donnersmarck
+294,tt0206634,2013-04-14,2013-04-14,,Children of Men,https://www.imdb.com/title/tt0206634/,movie,7.9,109,2006,"Drama, Thriller",438818,2006-09-03,Alfonso Cuarón
+295,tt0453467,2013-04-14,2013-04-14,,Deja Vu,https://www.imdb.com/title/tt0453467/,movie,7.0,126,2006,"Action, Crime, Sci-Fi, Thriller",281214,2006-11-20,Tony Scott
+296,tt0335266,2013-04-14,2013-04-14,,Lost in Translation,https://www.imdb.com/title/tt0335266/,movie,7.7,102,2003,Drama,384587,2003-08-29,Sofia Coppola
+297,tt0107048,2013-04-14,2013-04-14,,Groundhog Day,https://www.imdb.com/title/tt0107048/,movie,8.0,101,1993,"Comedy, Fantasy, Romance",552036,1993-02-04,Harold Ramis
+298,tt0120382,2013-04-14,2013-04-14,,The Truman Show,https://www.imdb.com/title/tt0120382/,movie,8.1,103,1998,"Comedy, Drama, Sci-Fi",866255,1998-06-01,Peter Weir
+299,tt0087332,2013-04-14,2013-04-14,,Ghostbusters,https://www.imdb.com/title/tt0087332/,movie,7.8,105,1984,"Action, Comedy, Fantasy",334629,1984-06-07,Ivan Reitman
+300,tt0978762,2013-04-14,2013-04-14,,Mary and Max,https://www.imdb.com/title/tt0978762/,movie,8.1,92,2009,"Animation, Comedy, Drama",154989,2009-01-15,Adam Elliot
+301,tt0110413,2013-04-14,2013-04-14,,Léon,https://www.imdb.com/title/tt0110413/,movie,8.5,110,1994,"Action, Crime, Drama, Thriller",961499,1994-09-14,Luc Besson
+302,tt1242460,2013-04-14,2013-04-14,,We Need to Talk About Kevin,https://www.imdb.com/title/tt1242460/,movie,7.5,112,2011,"Drama, Mystery, Thriller",127534,2011-05-12,Lynne Ramsay
+303,tt0829482,2013-04-14,2013-04-14,,Superbad,https://www.imdb.com/title/tt0829482/,movie,7.6,113,2007,Comedy,495532,2007-08-17,Greg Mottola
+304,tt0800039,2013-04-14,2013-04-14,,Forgetting Sarah Marshall,https://www.imdb.com/title/tt0800039/,movie,7.1,111,2008,"Comedy, Drama, Romance",252128,2008-03-10,Nicholas Stoller
+305,tt1049413,2013-04-14,2013-04-14,,Up,https://www.imdb.com/title/tt1049413/,movie,8.2,96,2009,"Animation, Adventure, Comedy, Family",874572,2009-05-13,"Pete Docter, Bob Peterson"
+306,tt0120363,2013-04-14,2013-04-14,,Toy Story 2,https://www.imdb.com/title/tt0120363/,movie,7.9,92,1999,"Animation, Adventure, Comedy, Family, Fantasy",493813,1999-11-13,"John Lasseter, Ash Brannon, Lee Unkrich"
+307,tt0399295,2013-04-14,2013-04-14,,Lord of War,https://www.imdb.com/title/tt0399295/,movie,7.6,122,2005,"Action, Crime, Drama, Thriller",282764,2005-09-16,Andrew Niccol
+308,tt0926084,2013-04-14,2013-04-14,,Harry Potter and the Deathly Hallows: Part 1,https://www.imdb.com/title/tt0926084/,movie,7.7,146,2010,"Adventure, Family, Fantasy, Mystery",440384,2010-11-11,David Yates
+309,tt0482571,2013-04-14,2013-04-14,,The Prestige,https://www.imdb.com/title/tt0482571/,movie,8.5,130,2006,"Drama, Mystery, Sci-Fi, Thriller",1101434,2006-10-17,Christopher Nolan
+310,tt0144084,2013-04-14,2013-04-14,,American Psycho,https://www.imdb.com/title/tt0144084/,movie,7.6,101,2000,"Crime, Drama",448095,2000-01-21,Mary Harron
+311,tt0078346,2013-04-14,2013-04-14,,Superman,https://www.imdb.com/title/tt0078346/,movie,7.3,143,1978,"Action, Adventure, Drama, Sci-Fi",151392,1978-12-10,Richard Donner
+312,tt0096895,2013-04-14,2013-04-14,,Batman,https://www.imdb.com/title/tt0096895/,movie,7.5,126,1989,"Action, Adventure",321838,1989-06-19,Tim Burton
+313,tt0361862,2013-04-14,2013-04-14,,The Machinist,https://www.imdb.com/title/tt0361862/,movie,7.7,101,2004,"Drama, Thriller",337911,2004-01-18,Brad Anderson
+314,tt0238380,2013-04-14,2013-04-14,,Equilibrium,https://www.imdb.com/title/tt0238380/,movie,7.4,107,2002,"Action, Drama, Sci-Fi, Thriller",300894,2002-12-06,Kurt Wimmer
+315,tt1033575,2013-04-14,2013-04-14,,The Descendants,https://www.imdb.com/title/tt1033575/,movie,7.3,115,2011,"Comedy, Drama",226011,2011-09-02,Alexander Payne
+316,tt0780536,2013-04-14,2013-04-14,,In Bruges,https://www.imdb.com/title/tt0780536/,movie,7.9,107,2008,"Comedy, Crime, Drama, Thriller",371568,2008-01-17,Martin McDonagh
+317,tt0114746,2013-04-14,2013-04-14,,Twelve Monkeys,https://www.imdb.com/title/tt0114746/,movie,8.0,129,1995,"Mystery, Sci-Fi, Thriller",549849,1995-12-08,Terry Gilliam
+318,tt0315733,2013-04-14,2013-04-14,,21 Grams,https://www.imdb.com/title/tt0315733/,movie,7.7,124,2003,"Crime, Drama, Thriller",216031,2003-09-05,Alejandro G. Iñárritu
+319,tt0163651,2013-04-14,2013-04-14,,American Pie,https://www.imdb.com/title/tt0163651/,movie,7.0,95,1999,Comedy,359107,1999-07-07,"Paul Weitz, Chris Weitz"
+320,tt0765429,2013-04-14,2013-04-14,,American Gangster,https://www.imdb.com/title/tt0765429/,movie,7.8,157,2007,"Biography, Crime, Drama, Thriller",374271,2007-10-19,Ridley Scott
+321,tt0302886,2013-04-14,2013-04-14,,Old School,https://www.imdb.com/title/tt0302886/,movie,7.1,88,2003,Comedy,206916,2003-02-13,Todd Phillips
+322,tt0420223,2013-04-14,2013-04-14,,Stranger Than Fiction,https://www.imdb.com/title/tt0420223/,movie,7.6,113,2006,"Comedy, Drama, Fantasy, Romance",210673,2006-09-09,Marc Forster
+323,tt0264464,2013-04-14,2013-04-14,,Catch Me If You Can,https://www.imdb.com/title/tt0264464/,movie,8.1,141,2002,"Biography, Crime, Drama",750870,2002-12-16,Steven Spielberg
+324,tt0093058,2013-04-14,2013-04-14,,Full Metal Jacket,https://www.imdb.com/title/tt0093058/,movie,8.3,116,1987,"Drama, War",630428,1987-06-17,Stanley Kubrick
+325,tt0362227,2013-04-14,2013-04-14,,The Terminal,https://www.imdb.com/title/tt0362227/,movie,7.3,128,2004,"Comedy, Drama, Romance",376485,2004-06-09,Steven Spielberg
+326,tt0162222,2013-04-14,2013-04-14,,Cast Away,https://www.imdb.com/title/tt0162222/,movie,7.8,143,2000,"Adventure, Drama, Romance",486402,2000-12-07,Robert Zemeckis
+327,tt0096874,2013-04-14,2013-04-14,,Back to the Future Part II,https://www.imdb.com/title/tt0096874/,movie,7.8,108,1989,"Adventure, Comedy, Sci-Fi",442991,1989-11-20,Robert Zemeckis
+328,tt0257044,2013-04-14,2013-04-14,,Road to Perdition,https://www.imdb.com/title/tt0257044/,movie,7.7,117,2002,"Crime, Drama, Thriller",232721,2002-07-09,Sam Mendes
+329,tt0898367,2013-04-14,2013-04-14,,The Road,https://www.imdb.com/title/tt0898367/,movie,7.2,111,2009,Drama,212240,2009-09-03,John Hillcoat
+330,tt0477348,2013-04-14,2013-04-14,,No Country for Old Men,https://www.imdb.com/title/tt0477348/,movie,8.1,122,2007,"Crime, Drama, Thriller",790881,2007-05-19,"Ethan Coen, Joel Coen"
+331,tt0119822,2013-04-14,2013-04-14,,As Good as It Gets,https://www.imdb.com/title/tt0119822/,movie,7.7,139,1997,"Comedy, Drama, Romance",260380,1997-12-06,James L. Brooks
+332,tt0104257,2013-04-14,2013-04-14,,A Few Good Men,https://www.imdb.com/title/tt0104257/,movie,7.7,138,1992,"Drama, Thriller",220120,1992-12-02,Rob Reiner
+333,tt0118655,2013-04-14,2013-04-14,,Austin Powers: International Man of Mystery,https://www.imdb.com/title/tt0118655/,movie,7.0,94,1997,"Adventure, Comedy",211563,1997-04-29,Jay Roach
+334,tt0076752,2013-04-14,2013-04-14,,The Spy Who Loved Me,https://www.imdb.com/title/tt0076752/,movie,7.1,125,1977,"Action, Adventure, Thriller",91748,1977-07-07,Lewis Gilbert
+335,tt0120601,2013-04-14,2013-04-14,,Being John Malkovich,https://www.imdb.com/title/tt0120601/,movie,7.7,113,1999,"Comedy, Drama, Fantasy",294198,1999-09-02,Spike Jonze
+336,tt0112461,2013-04-14,2013-04-14,,The Basketball Diaries,https://www.imdb.com/title/tt0112461/,movie,7.3,102,1995,"Biography, Crime, Drama, Sport",96504,1995-01-27,Scott Kalvert
+337,tt0425112,2013-04-14,2013-04-14,,Hot Fuzz,https://www.imdb.com/title/tt0425112/,movie,7.8,121,2007,"Action, Comedy, Mystery",437460,2007-02-16,Edgar Wright
+338,tt0120611,2013-04-14,2013-04-14,,Blade,https://www.imdb.com/title/tt0120611/,movie,7.1,120,1998,"Action, Horror, Sci-Fi",232697,1998-08-19,Stephen Norrington
+339,tt0083658,2013-04-14,2013-04-14,,Blade Runner,https://www.imdb.com/title/tt0083658/,movie,8.1,117,1982,"Action, Sci-Fi, Thriller",648869,1982-06-25,Ridley Scott
+340,tt0454848,2013-04-14,2013-04-14,,Inside Man,https://www.imdb.com/title/tt0454848/,movie,7.6,129,2006,"Crime, Drama, Mystery, Thriller",320270,2006-03-16,Spike Lee
+341,tt0824747,2013-04-14,2013-04-14,,Changeling,https://www.imdb.com/title/tt0824747/,movie,7.7,141,2008,"Biography, Crime, Drama, History, Mystery, Thriller",226729,2008-05-20,Clint Eastwood
+342,tt0118971,2013-04-14,2013-04-14,,The Devil's Advocate,https://www.imdb.com/title/tt0118971/,movie,7.5,144,1997,"Drama, Mystery, Thriller",309896,1997-10-13,Taylor Hackford
+343,tt0083944,2013-04-14,2013-04-14,,First Blood,https://www.imdb.com/title/tt0083944/,movie,7.7,93,1982,"Action, Adventure",212262,1982-10-22,Ted Kotcheff
+344,tt0093773,2013-04-14,2013-04-14,,Predator,https://www.imdb.com/title/tt0093773/,movie,7.8,107,1987,"Action, Adventure, Sci-Fi, Thriller",353519,1987-06-12,John McTiernan
+345,tt0363163,2013-04-14,2013-04-14,,Der Untergang,https://www.imdb.com/title/tt0363163/,movie,8.2,156,2004,"Biography, Drama, History, War",313466,2004-09-08,Oliver Hirschbiegel
+346,tt0246578,2013-04-14,2013-04-14,,Donnie Darko,https://www.imdb.com/title/tt0246578/,movie,8.0,113,2001,"Drama, Sci-Fi, Thriller",710987,2001-01-19,Richard Kelly
+347,tt0289879,2013-04-14,2013-04-14,,The Butterfly Effect,https://www.imdb.com/title/tt0289879/,movie,7.6,113,2004,"Drama, Sci-Fi, Thriller",430731,2004-01-17,"J. Mackye Gruber, Eric Bress"
+348,tt0120663,2013-04-14,2013-04-14,,Eyes Wide Shut,https://www.imdb.com/title/tt0120663/,movie,7.4,159,1999,"Drama, Mystery, Thriller",280783,1999-07-13,Stanley Kubrick
+349,tt0119116,2013-04-14,2013-04-14,,The Fifth Element,https://www.imdb.com/title/tt0119116/,movie,7.7,126,1997,"Action, Adventure, Sci-Fi",412763,1997-05-07,Luc Besson
+350,tt0119177,2013-04-14,2013-04-14,,Gattaca,https://www.imdb.com/title/tt0119177/,movie,7.8,106,1997,"Drama, Sci-Fi, Thriller",267016,1997-09-07,Andrew Niccol
+351,tt0325710,2013-04-14,2013-04-14,,The Last Samurai,https://www.imdb.com/title/tt0325710/,movie,7.7,154,2003,"Action, Drama, War",378245,2003-11-22,Edward Zwick
+352,tt0047478,2013-04-14,2013-04-14,,Shichinin no samurai,https://www.imdb.com/title/tt0047478/,movie,8.6,207,1954,"Action, Adventure, Drama",293972,1954-04-26,Akira Kurosawa
+353,tt0387564,2013-04-14,2013-04-14,,Saw,https://www.imdb.com/title/tt0387564/,movie,7.6,103,2004,"Horror, Mystery, Thriller",360475,2004-01-19,James Wan
+354,tt0289765,2013-04-14,2013-04-14,,Red Dragon,https://www.imdb.com/title/tt0289765/,movie,7.2,124,2002,"Crime, Drama, Thriller",236326,2002-09-30,Brett Ratner
+355,tt0290334,2013-04-14,2013-04-14,,X2,https://www.imdb.com/title/tt0290334/,movie,7.4,134,2003,"Action, Sci-Fi, Thriller",491673,2003-04-24,Bryan Singer
+356,tt0119174,2013-04-14,2013-04-14,,The Game,https://www.imdb.com/title/tt0119174/,movie,7.8,129,1997,"Drama, Mystery, Thriller",323591,1997-09-03,David Fincher
+357,tt0119217,2013-04-14,2013-04-14,,Good Will Hunting,https://www.imdb.com/title/tt0119217/,movie,8.3,126,1997,"Drama, Romance",795365,1997-12-02,Gus Van Sant
+358,tt0274558,2013-04-14,2013-04-14,,The Hours,https://www.imdb.com/title/tt0274558/,movie,7.5,110,2002,"Drama, Romance",118933,2002-12-15,Stephen Daldry
+359,tt0203009,2013-04-14,2013-04-14,,Moulin Rouge!,https://www.imdb.com/title/tt0203009/,movie,7.6,127,2001,"Drama, Musical, Romance",256281,2001-05-09,Baz Luhrmann
+360,tt0918927,2013-04-14,2013-04-14,,Doubt,https://www.imdb.com/title/tt0918927/,movie,7.5,104,2008,"Drama, Mystery",115987,2008-10-30,John Patrick Shanley
+361,tt0758758,2013-04-14,2013-04-14,,Into the Wild,https://www.imdb.com/title/tt0758758/,movie,8.1,148,2007,"Adventure, Biography, Drama",537732,2007-09-01,Sean Penn
+362,tt0414387,2013-04-14,2013-04-14,,Pride & Prejudice,https://www.imdb.com/title/tt0414387/,movie,7.8,129,2005,"Drama, Romance",236707,2005-07-25,Joe Wright
+363,tt0783233,2013-04-14,2013-04-14,,Atonement,https://www.imdb.com/title/tt0783233/,movie,7.8,123,2007,"Drama, Mystery, Romance, War",233794,2007-08-28,Joe Wright
+364,tt0425210,2013-04-14,2013-04-14,,Lucky Number Slevin,https://www.imdb.com/title/tt0425210/,movie,7.7,110,2006,"Crime, Drama, Mystery, Thriller",291439,2006-02-24,Paul McGuigan
+365,tt0060196,2013-04-14,2013-04-14,,"Il buono, il brutto, il cattivo",https://www.imdb.com/title/tt0060196/,movie,8.8,161,1966,Western,644637,1966-12-23,Sergio Leone
+366,tt0058461,2013-04-14,2013-04-14,,Per un pugno di dollari,https://www.imdb.com/title/tt0058461/,movie,8.0,99,1964,"Drama, Western",183544,1964-09-12,Sergio Leone
+367,tt0059578,2013-04-14,2013-04-14,,Per qualche dollaro in più,https://www.imdb.com/title/tt0059578/,movie,8.3,132,1965,Western,214644,1965-12-18,Sergio Leone
+368,tt0360717,2013-04-14,2013-04-14,,King Kong,https://www.imdb.com/title/tt0360717/,movie,7.2,187,2005,"Action, Adventure, Drama, Romance",374475,2005-12-05,Peter Jackson
+369,tt0328107,2013-04-14,2013-04-14,,Man on Fire,https://www.imdb.com/title/tt0328107/,movie,7.7,146,2004,"Action, Crime, Drama, Thriller",313967,2004-04-21,Tony Scott
+370,tt0327056,2013-04-14,2013-04-14,,Mystic River,https://www.imdb.com/title/tt0327056/,movie,7.9,138,2003,"Crime, Drama, Mystery, Thriller",397236,2003-05-23,Clint Eastwood
+371,tt1013753,2013-04-14,2013-04-14,,Milk,https://www.imdb.com/title/tt1013753/,movie,7.5,128,2008,"Biography, Drama",158420,2008-10-28,Gus Van Sant
+372,tt1458175,2013-04-14,2013-04-14,,The Next Three Days,https://www.imdb.com/title/tt1458175/,movie,7.4,133,2010,"Action, Crime, Drama, Romance, Thriller",172489,2010-11-09,Paul Haggis
+373,tt0230600,2013-04-14,2013-04-14,,The Others,https://www.imdb.com/title/tt0230600/,movie,7.6,101,2001,"Horror, Mystery, Thriller",320689,2001-08-02,Alejandro Amenábar
+374,tt1092026,2013-04-14,2013-04-14,,Paul,https://www.imdb.com/title/tt1092026/,movie,7.0,104,2011,"Adventure, Comedy, Sci-Fi",225164,2011-02-07,Greg Mottola
+375,tt0183649,2013-04-14,2013-04-14,,Phone Booth,https://www.imdb.com/title/tt0183649/,movie,7.0,81,2002,"Crime, Thriller",241091,2002-09-10,Joel Schumacher
+376,tt0047396,2013-04-14,2013-04-14,,Rear Window,https://www.imdb.com/title/tt0047396/,movie,8.4,112,1954,"Mystery, Thriller",412761,1954-08-04,Alfred Hitchcock
+377,tt0054215,2013-04-14,2013-04-14,,Psycho,https://www.imdb.com/title/tt0054215/,movie,8.5,109,1960,"Horror, Mystery, Thriller",558556,1960-06-16,Alfred Hitchcock
+378,tt0040746,2013-04-14,2013-04-14,,Rope,https://www.imdb.com/title/tt0040746/,movie,8.0,80,1948,"Crime, Drama, Mystery, Thriller",118862,1948-08-26,Alfred Hitchcock
+379,tt0332452,2013-04-14,2013-04-14,,Troy,https://www.imdb.com/title/tt0332452/,movie,7.2,163,2004,"Drama, History",463587,2004-05-09,Wolfgang Petersen
+380,tt0427944,2013-04-14,2013-04-14,,Thank You for Smoking,https://www.imdb.com/title/tt0427944/,movie,7.6,92,2005,"Comedy, Drama",208065,2005-09-09,Jason Reitman
+381,tt0409459,2013-04-14,2013-04-14,,Watchmen,https://www.imdb.com/title/tt0409459/,movie,7.6,162,2009,"Action, Drama, Mystery, Sci-Fi",475633,2009-02-23,Zack Snyder
+382,tt0434409,2013-04-14,2013-04-14,,V for Vendetta,https://www.imdb.com/title/tt0434409/,movie,8.2,132,2005,"Action, Drama, Sci-Fi, Thriller",975092,2005-12-11,James McTeigue
+383,tt0397535,2013-04-14,2013-04-14,,Memoirs of a Geisha,https://www.imdb.com/title/tt0397535/,movie,7.4,145,2005,"Drama, Romance",133404,2005-11-29,Rob Marshall
+384,tt0343818,2013-04-14,2013-04-14,,"I, Robot",https://www.imdb.com/title/tt0343818/,movie,7.1,115,2004,"Action, Crime, Drama, Sci-Fi, Thriller",475734,2004-07-07,Alex Proyas
+385,tt0217869,2013-04-14,2013-04-14,,Unbreakable,https://www.imdb.com/title/tt0217869/,movie,7.3,106,2000,"Drama, Mystery, Sci-Fi, Thriller",366822,2000-11-14,M. Night Shyamalan
+386,tt0077631,2013-04-14,2013-04-14,,Grease,https://www.imdb.com/title/tt0077631/,movie,7.2,110,1978,"Musical, Romance",219007,1978-06-13,Randal Kleiser
+387,tt0396171,2013-04-14,2013-04-14,,Perfume: The Story of a Murderer,https://www.imdb.com/title/tt0396171/,movie,7.5,147,2006,"Crime, Drama",224340,2006-09-07,Tom Tykwer
+388,tt0114814,2013-04-14,2013-04-14,,The Usual Suspects,https://www.imdb.com/title/tt0114814/,movie,8.5,106,1995,"Crime, Mystery, Thriller",932986,1995-01-25,Bryan Singer
+389,tt0386032,2013-04-14,2013-04-14,,Sicko,https://www.imdb.com/title/tt0386032/,movie,7.9,123,2007,"Documentary, Drama",72223,2007-05-19,Michael Moore
+390,tt0427312,2013-04-14,2013-04-14,,Grizzly Man,https://www.imdb.com/title/tt0427312/,movie,7.8,103,2005,"Documentary, Biography",49481,2005-01-24,Werner Herzog
+391,tt0098213,2013-04-14,2013-04-14,,Roger & Me,https://www.imdb.com/title/tt0098213/,movie,7.4,91,1989,Documentary,25012,1989-09-01,Michael Moore
+392,tt0094737,2013-04-14,2013-04-14,,Big,https://www.imdb.com/title/tt0094737/,movie,7.3,104,1988,"Comedy, Drama, Fantasy, Romance",185034,1988-06-03,Penny Marshall
+393,tt0080455,2013-04-14,2013-04-14,,The Blues Brothers,https://www.imdb.com/title/tt0080455/,movie,7.9,133,1980,"Adventure, Comedy, Crime, Music, Musical",171793,1980-06-20,John Landis
+394,tt1255953,2013-04-14,2013-04-14,,Incendies,https://www.imdb.com/title/tt1255953/,movie,8.3,131,2010,"Drama, Mystery, War",130553,2010-09-03,Denis Villeneuve
+395,tt0319061,2013-04-14,2013-04-14,,Big Fish,https://www.imdb.com/title/tt0319061/,movie,8.0,125,2003,"Adventure, Drama, Fantasy, Romance",397004,2003-12-04,Tim Burton
+396,tt0929632,2013-04-14,2013-04-14,,Precious,https://www.imdb.com/title/tt0929632/,movie,7.3,110,2009,Drama,101647,2009-01-16,Lee Daniels
+397,tt0469494,2013-04-14,2013-04-14,,There Will Be Blood,https://www.imdb.com/title/tt0469494/,movie,8.2,158,2007,Drama,478187,2007-09-27,Paul Thomas Anderson
+398,tt0292963,2013-04-14,2013-04-14,,Before the Devil Knows You're Dead,https://www.imdb.com/title/tt0292963/,movie,7.3,117,2007,"Crime, Drama, Thriller",91549,2007-09-07,Sidney Lumet
+399,tt0042332,2013-04-14,2013-04-14,,Cinderella,https://www.imdb.com/title/tt0042332/,movie,7.3,74,1950,"Animation, Family, Fantasy, Musical, Romance",136011,1950-02-15,"Clyde Geronimi, Hamilton Luske, Wilfred Jackson"
+400,tt0029583,2013-04-14,2013-04-14,,Snow White and the Seven Dwarfs,https://www.imdb.com/title/tt0029583/,movie,7.6,83,1937,"Animation, Family, Fantasy, Musical, Romance",169811,1937-12-21,"William Cottrell, David Hand, Perce Pearce, Ben Sharpsteen, Wilfred Jackson, Larry Morey"
+401,tt0432283,2013-04-14,2013-04-14,,Fantastic Mr. Fox,https://www.imdb.com/title/tt0432283/,movie,7.8,87,2009,"Animation, Adventure, Comedy, Crime, Drama, Family",182359,2009-10-14,Wes Anderson
+402,tt0107688,2013-04-14,2013-04-14,,The Nightmare Before Christmas,https://www.imdb.com/title/tt0107688/,movie,8.0,76,1993,"Animation, Family, Fantasy, Musical",276791,1993-10-09,Henry Selick
+403,tt0327597,2013-04-14,2013-04-14,,Coraline,https://www.imdb.com/title/tt0327597/,movie,7.7,100,2009,"Animation, Drama, Fantasy, Thriller",183215,2009-02-05,Henry Selick
+404,tt0100802,2013-04-14,2013-04-14,,Total Recall,https://www.imdb.com/title/tt0100802/,movie,7.5,113,1990,"Action, Sci-Fi, Thriller",284908,1990-05-31,Paul Verhoeven
+405,tt0111503,2013-04-14,2013-04-14,,True Lies,https://www.imdb.com/title/tt0111503/,movie,7.2,141,1994,"Action, Comedy, Thriller",225371,1994-07-12,James Cameron
+406,tt0304141,2013-04-14,2013-04-14,,Harry Potter and the Prisoner of Azkaban,https://www.imdb.com/title/tt0304141/,movie,7.9,142,2004,"Adventure, Family, Fantasy, Mystery",506478,2004-05-23,Alfonso Cuarón
+407,tt0440963,2013-04-14,2013-04-14,,The Bourne Ultimatum,https://www.imdb.com/title/tt0440963/,movie,8.0,115,2007,"Action, Mystery, Thriller",586375,2007-07-25,Paul Greengrass
+408,tt0258463,2013-04-14,2013-04-14,,The Bourne Identity,https://www.imdb.com/title/tt0258463/,movie,7.9,119,2002,"Action, Mystery, Thriller",484023,2002-06-06,Doug Liman
+409,tt0372183,2013-04-14,2013-04-14,,The Bourne Supremacy,https://www.imdb.com/title/tt0372183/,movie,7.7,108,2004,"Action, Mystery, Thriller",414777,2004-07-16,Paul Greengrass
+410,tt0097958,2013-04-14,2013-04-14,,National Lampoon's Christmas Vacation,https://www.imdb.com/title/tt0097958/,movie,7.6,97,1989,Comedy,142097,1989-11-30,Jeremiah S. Chechik
+411,tt0063442,2013-04-14,2013-04-14,,Planet of the Apes,https://www.imdb.com/title/tt0063442/,movie,8.0,112,1968,"Adventure, Sci-Fi",158582,1968-02-08,Franklin J. Schaffner
+412,tt0062622,2013-04-14,2013-04-14,,2001: A Space Odyssey,https://www.imdb.com/title/tt0062622/,movie,8.3,149,1968,"Adventure, Sci-Fi",561539,1968-04-02,Stanley Kubrick
+413,tt0085995,2013-04-14,2013-04-14,,National Lampoon's Vacation,https://www.imdb.com/title/tt0085995/,movie,7.4,98,1983,"Adventure, Comedy",89621,1983-07-29,Harold Ramis
+414,tt0080487,2013-04-14,2013-04-14,,Caddyshack,https://www.imdb.com/title/tt0080487/,movie,7.3,98,1980,"Comedy, Sport",99514,1980-07-25,Harold Ramis
+415,tt0844471,2013-04-14,2013-04-14,,Cloudy with a Chance of Meatballs,https://www.imdb.com/title/tt0844471/,movie,6.9,90,2009,"Animation, Adventure, Comedy, Family, Fantasy, Sci-Fi",191909,2009-09-12,"Christopher Miller, Phil Lord"
+416,tt0312004,2013-04-14,2013-04-14,,The Curse of the Were-Rabbit,https://www.imdb.com/title/tt0312004/,movie,7.4,85,2005,"Animation, Adventure, Comedy, Family, Fantasy, Horror, Mystery, Sci-Fi",118934,2005-09-04,"Nick Park, Steve Box"
+417,tt1028532,2013-04-14,2013-04-14,,Hachi: A Dog's Tale,https://www.imdb.com/title/tt1028532/,movie,8.1,93,2009,"Drama, Family",232291,2009-06-13,Lasse Hallström
+418,tt0162661,2013-04-14,2013-04-14,,Sleepy Hollow,https://www.imdb.com/title/tt0162661/,movie,7.3,105,1999,"Fantasy, Horror, Mystery",313168,1999-11-17,Tim Burton
+419,tt0120863,2013-04-14,2013-04-14,,The Thin Red Line,https://www.imdb.com/title/tt0120863/,movie,7.6,170,1998,"Drama, War",163791,1998-12-22,Terrence Malick
+420,tt1623288,2013-04-14,2013-04-14,,ParaNorman,https://www.imdb.com/title/tt1623288/,movie,7.0,92,2012,"Animation, Adventure, Comedy, Family, Fantasy, Mystery",89400,2012-08-03,"Sam Fell, Chris Butler"
+421,tt1142977,2013-04-14,2013-04-14,,Frankenweenie,https://www.imdb.com/title/tt1142977/,movie,6.9,87,2012,"Animation, Comedy, Family, Horror, Sci-Fi",92030,2012-09-20,Tim Burton
+422,tt0095159,2013-04-14,2013-04-14,,A Fish Called Wanda,https://www.imdb.com/title/tt0095159/,movie,7.5,108,1988,"Comedy, Crime",124985,1988-07-07,"Charles Crichton, John Cleese"
+423,tt0071853,2013-04-14,2013-04-14,,Monty Python and the Holy Grail,https://www.imdb.com/title/tt0071853/,movie,8.2,91,1975,"Adventure, Comedy, Fantasy",474312,1975-03-14,"Terry Jones, Terry Gilliam"
+424,tt0079470,2013-04-14,2013-04-14,,Life of Brian,https://www.imdb.com/title/tt0079470/,movie,8.1,94,1979,Comedy,344464,1979-08-17,Terry Jones
+425,tt0085959,2013-04-14,2013-04-14,,The Meaning of Life,https://www.imdb.com/title/tt0085959/,movie,7.6,107,1983,"Comedy, Musical",107697,1983-03-31,"Terry Jones, Terry Gilliam"
+426,tt0181875,2013-04-14,2013-04-14,,Almost Famous,https://www.imdb.com/title/tt0181875/,movie,7.9,122,2000,"Adventure, Comedy, Drama, Music",239465,2000-09-08,Cameron Crowe
+427,tt0103074,2013-04-14,2013-04-14,,Thelma & Louise,https://www.imdb.com/title/tt0103074/,movie,7.5,130,1991,"Adventure, Crime, Drama",126009,1991-05-20,Ridley Scott
+428,tt0084805,2013-04-14,2013-04-14,,Tootsie,https://www.imdb.com/title/tt0084805/,movie,7.4,116,1982,"Comedy, Drama, Romance",91593,1982-12-01,Sydney Pollack
+429,tt0070735,2013-04-14,2013-04-14,,The Sting,https://www.imdb.com/title/tt0070735/,movie,8.3,129,1973,"Comedy, Crime, Drama",226906,1973-12-25,George Roy Hill
+430,tt0332379,2013-04-14,2013-04-14,,The School of Rock,https://www.imdb.com/title/tt0332379/,movie,7.1,109,2003,"Comedy, Music",251938,2003-09-09,Richard Linklater
+431,tt0330373,2013-04-14,2013-04-14,,Harry Potter and the Goblet of Fire,https://www.imdb.com/title/tt0330373/,movie,7.7,157,2005,"Adventure, Family, Fantasy, Mystery",504978,2005-11-06,Mike Newell
+432,tt0436697,2013-04-14,2013-04-14,,The Queen,https://www.imdb.com/title/tt0436697/,movie,7.3,103,2006,"Biography, Drama, History",99632,2006-09-02,Stephen Frears
+433,tt0119349,2013-04-14,2013-04-14,,The Ice Storm,https://www.imdb.com/title/tt0119349/,movie,7.4,112,1997,Drama,51673,1997-05-12,Ang Lee
+434,tt0119164,2013-04-14,2013-04-14,,The Full Monty,https://www.imdb.com/title/tt0119164/,movie,7.2,91,1997,"Comedy, Drama",94513,1997-08-13,Peter Cattaneo
+435,tt0103639,2013-04-14,2013-04-14,,Aladdin,https://www.imdb.com/title/tt0103639/,movie,8.0,90,1992,"Animation, Adventure, Comedy, Family, Fantasy, Musical, Romance",341386,1992-11-08,"Ron Clements, John Musker"
+436,tt0066999,2013-04-14,2013-04-14,,Dirty Harry,https://www.imdb.com/title/tt0066999/,movie,7.7,102,1971,"Action, Crime, Thriller",135072,1971-12-21,Don Siegel
+437,tt0064116,2013-04-14,2013-04-14,,C'era una volta il West,https://www.imdb.com/title/tt0064116/,movie,8.5,165,1968,Western,281169,1968-12-20,Sergio Leone
+438,tt2125608,2013-04-14,2013-04-14,,Searching for Sugar Man,https://www.imdb.com/title/tt2125608/,movie,8.2,86,2012,"Documentary, Biography, Music",60044,2012-01-19,Malik Bendjelloul
+439,tt0067116,2013-04-14,2013-04-14,,The French Connection,https://www.imdb.com/title/tt0067116/,movie,7.7,104,1971,"Action, Crime, Drama, Thriller",102322,1971-10-07,William Friedkin
+440,tt0094012,2013-04-14,2013-04-14,,Spaceballs,https://www.imdb.com/title/tt0094012/,movie,7.1,96,1987,"Adventure, Comedy, Sci-Fi",162727,1987-06-24,Mel Brooks
+441,tt0033467,2013-04-14,2013-04-14,,Citizen Kane,https://www.imdb.com/title/tt0033467/,movie,8.3,119,1941,"Drama, Mystery",373784,1941-05-01,Orson Welles
+442,tt0027977,2013-04-14,2013-04-14,,Modern Times,https://www.imdb.com/title/tt0027977/,movie,8.5,87,1936,"Comedy, Drama, Family, Romance",199492,1936-02-05,Charles Chaplin
+443,tt0015864,2013-04-14,2013-04-14,,The Gold Rush,https://www.imdb.com/title/tt0015864/,movie,8.2,95,1925,"Adventure, Comedy, Drama, Family",92516,1925-06-26,Charles Chaplin
+444,tt0151804,2013-04-14,2013-04-14,,Office Space,https://www.imdb.com/title/tt0151804/,movie,7.7,89,1999,Comedy,231533,1999-02-19,Mike Judge
+445,tt0056869,2013-04-14,2013-04-14,,The Birds,https://www.imdb.com/title/tt0056869/,movie,7.7,119,1963,"Drama, Horror, Mystery, Romance",159779,1963-03-28,Alfred Hitchcock
+446,tt0043014,2013-04-14,2013-04-14,,Sunset Blvd.,https://www.imdb.com/title/tt0043014/,movie,8.4,110,1950,"Drama, Film-Noir",185875,1950-08-10,Billy Wilder
+447,tt0038787,2013-04-14,2013-04-14,,Notorious,https://www.imdb.com/title/tt0038787/,movie,7.9,102,1946,"Drama, Film-Noir, Romance, Thriller",87056,1946-08-15,Alfred Hitchcock
+448,tt0053125,2013-04-14,2013-04-14,,North by Northwest,https://www.imdb.com/title/tt0053125/,movie,8.3,136,1959,"Adventure, Mystery, Thriller",280090,1959-07-01,Alfred Hitchcock
+449,tt0056172,2013-04-14,2013-04-14,,Lawrence of Arabia,https://www.imdb.com/title/tt0056172/,movie,8.3,228,1962,"Adventure, Biography, Drama, History, War",250347,1962-12-10,David Lean
+450,tt0031381,2013-04-14,2013-04-14,,Gone with the Wind,https://www.imdb.com/title/tt0031381/,movie,8.1,238,1939,"Drama, History, Romance, War",271118,1939-12-15,"Sam Wood, George Cukor, Victor Fleming"
+451,tt0166924,2013-04-14,2013-04-14,,Mulholland Dr.,https://www.imdb.com/title/tt0166924/,movie,7.9,147,2001,"Drama, Mystery, Thriller",298542,2001-05-16,David Lynch
+452,tt0056592,2013-04-14,2013-04-14,,To Kill a Mockingbird,https://www.imdb.com/title/tt0056592/,movie,8.3,129,1962,"Crime, Drama",279418,1962-12-20,Robert Mulligan
+453,tt0105323,2013-04-14,2013-04-14,,Scent of a Woman,https://www.imdb.com/title/tt0105323/,movie,8.0,156,1992,Drama,240449,1992-12-23,Martin Brest
+454,tt0038650,2013-04-14,2013-04-14,,It's a Wonderful Life,https://www.imdb.com/title/tt0038650/,movie,8.6,130,1946,"Drama, Family, Fantasy",371411,1946-12-20,Frank Capra
+455,tt0052357,2013-04-14,2013-04-14,,Vertigo,https://www.imdb.com/title/tt0052357/,movie,8.3,128,1958,"Mystery, Romance, Thriller",333087,1958-05-09,Alfred Hitchcock
+456,tt0158983,2013-04-14,2013-04-14,,"South Park: Bigger, Longer & Uncut",https://www.imdb.com/title/tt0158983/,movie,7.7,81,1999,"Animation, Comedy, Fantasy, Musical",185671,1999-06-30,Trey Parker
+457,tt0092965,2013-04-14,2013-04-14,,Empire of the Sun,https://www.imdb.com/title/tt0092965/,movie,7.8,153,1987,"Action, Drama, History, War",108478,1987-12-08,Steven Spielberg
+458,tt0498380,2013-04-14,2013-04-14,,Letters from Iwo Jima,https://www.imdb.com/title/tt0498380/,movie,7.9,141,2006,"Action, Adventure, Drama, History, War",148413,2006-11-15,Clint Eastwood
+459,tt0106977,2013-04-14,2013-04-14,,The Fugitive,https://www.imdb.com/title/tt0106977/,movie,7.8,130,1993,"Action, Crime, Drama, Mystery, Thriller",251591,1993-07-29,Andrew Davis
+460,tt0058385,2013-04-14,2013-04-14,,My Fair Lady,https://www.imdb.com/title/tt0058385/,movie,7.8,170,1964,"Drama, Family, Musical, Romance",81677,1964-10-21,George Cukor
+461,tt0111257,2013-04-14,2013-04-14,,Speed,https://www.imdb.com/title/tt0111257/,movie,7.2,116,1994,"Action, Adventure, Thriller",311196,1994-06-10,Jan de Bont
+462,tt0056801,2013-04-14,2013-04-14,,8½,https://www.imdb.com/title/tt0056801/,movie,8.0,138,1963,Drama,101618,1963-02-13,Federico Fellini
+463,tt0050976,2013-04-14,2013-04-14,,Det sjunde inseglet,https://www.imdb.com/title/tt0050976/,movie,8.2,96,1957,"Drama, Fantasy",148791,1957-02-16,Ingmar Bergman
+464,tt0099810,2013-04-14,2013-04-14,,The Hunt for Red October,https://www.imdb.com/title/tt0099810/,movie,7.6,135,1990,"Action, Adventure, Thriller",168228,1990-03-02,John McTiernan
+465,tt0117500,2013-04-14,2013-04-14,,The Rock,https://www.imdb.com/title/tt0117500/,movie,7.4,136,1996,"Action, Adventure, Thriller",298790,1996-06-07,Michael Bay
+466,tt0075686,2013-04-14,2013-04-14,,Annie Hall,https://www.imdb.com/title/tt0075686/,movie,8.0,93,1977,"Comedy, Romance",241008,1977-03-27,Woody Allen
+467,tt0086190,2013-04-14,2013-04-14,,Star Wars: Episode VI - Return of the Jedi,https://www.imdb.com/title/tt0086190/,movie,8.3,131,1983,"Action, Adventure, Fantasy, Sci-Fi",891688,1983-05-25,Richard Marquand
+468,tt0099088,2013-04-14,2013-04-14,,Back to the Future Part III,https://www.imdb.com/title/tt0099088/,movie,7.4,118,1990,"Adventure, Comedy, Sci-Fi, Western",373274,1990-05-25,Robert Zemeckis
+469,tt0032455,2013-04-14,2013-04-14,,Fantasia,https://www.imdb.com/title/tt0032455/,movie,7.8,125,1940,"Animation, Family, Fantasy, Music",83670,1940-11-13,"Samuel Armstrong, Ben Sharpsteen, Paul Satterfield, Hamilton Luske, James Algar, Jim Handley, David Hand, Ford Beebe Jr., Wilfred Jackson, T. Hee, Bill Roberts, Norman Ferguson"
+470,tt0054331,2013-04-14,2013-04-14,,Spartacus,https://www.imdb.com/title/tt0054331/,movie,7.9,197,1960,"Adventure, Biography, Drama, History, War",116447,1960-10-06,Stanley Kubrick
+471,tt0072684,2013-04-14,2013-04-14,,Barry Lyndon,https://www.imdb.com/title/tt0072684/,movie,8.1,185,1975,"Adventure, Drama, History, War",137368,1975-12-11,Stanley Kubrick
+472,tt0052618,2013-04-14,2013-04-14,,Ben-Hur,https://www.imdb.com/title/tt0052618/,movie,8.1,212,1959,"Adventure, Drama, History",206635,1959-11-18,William Wyler
+473,tt0108550,2013-04-14,2013-04-14,,What's Eating Gilbert Grape,https://www.imdb.com/title/tt0108550/,movie,7.8,118,1993,Drama,202326,1993-10-01,Lasse Hallström
+474,tt0053291,2013-04-14,2013-04-14,,Some Like It Hot,https://www.imdb.com/title/tt0053291/,movie,8.2,121,1959,"Comedy, Music, Romance",227755,1959-03-19,Billy Wilder
+475,tt0046912,2013-04-14,2013-04-14,,Dial M for Murder,https://www.imdb.com/title/tt0046912/,movie,8.2,105,1954,"Crime, Thriller",145113,1954-05-19,Alfred Hitchcock
+476,tt0071877,2013-04-14,2013-04-14,,Murder on the Orient Express,https://www.imdb.com/title/tt0071877/,movie,7.3,128,1974,"Crime, Drama, Mystery",51293,1974-11-21,Sidney Lumet
+477,tt0077416,2013-04-14,2013-04-14,,The Deer Hunter,https://www.imdb.com/title/tt0077416/,movie,8.1,183,1978,"Drama, War",292189,1978-12-08,Michael Cimino
+478,tt0099348,2013-04-14,2013-04-14,,Dances with Wolves,https://www.imdb.com/title/tt0099348/,movie,8.0,181,1990,"Adventure, Drama, Western",226404,1990-10-19,Kevin Costner
+479,tt0023969,2013-04-14,2013-04-14,,Duck Soup,https://www.imdb.com/title/tt0023969/,movie,7.8,69,1933,"Comedy, Musical, War",53244,1933-11-12,Leo McCarey
+480,tt1045658,2013-04-14,2013-04-14,,Silver Linings Playbook,https://www.imdb.com/title/tt1045658/,movie,7.7,122,2012,"Comedy, Drama, Romance",632491,2012-09-08,David O. Russell
+481,tt1228705,2013-04-14,2013-04-14,,Iron Man 2,https://www.imdb.com/title/tt1228705/,movie,7.0,124,2010,"Action, Adventure, Sci-Fi",680710,2010-04-26,Jon Favreau
+482,tt0363547,2013-04-14,2013-04-14,,Dawn of the Dead,https://www.imdb.com/title/tt0363547/,movie,7.3,101,2004,"Action, Horror",224562,2004-03-10,Zack Snyder
+483,tt0063350,2013-04-14,2013-04-14,,Night of the Living Dead,https://www.imdb.com/title/tt0063350/,movie,7.9,96,1968,Horror,108649,1968-10-01,George A. Romero
+484,tt0433383,2013-04-14,2013-04-14,,"Good Night, and Good Luck.",https://www.imdb.com/title/tt0433383/,movie,7.4,93,2005,"Biography, Drama, History",91506,2005-09-01,George Clooney
+485,tt1315981,2013-04-14,2013-04-14,,A Single Man,https://www.imdb.com/title/tt1315981/,movie,7.6,99,2009,"Drama, Romance",101292,2009-09-11,Tom Ford
+486,tt1019452,2013-04-14,2013-04-14,,A Serious Man,https://www.imdb.com/title/tt1019452/,movie,7.0,106,2009,"Comedy, Drama",125026,2009-09-12,"Ethan Coen, Joel Coen"
+487,tt0078841,2013-04-14,2013-04-14,,Being There,https://www.imdb.com/title/tt0078841/,movie,8.0,130,1979,"Comedy, Drama",61896,1979-12-20,Hal Ashby
+488,tt0040522,2013-04-14,2013-04-14,,Ladri di biciclette,https://www.imdb.com/title/tt0040522/,movie,8.3,89,1948,Drama,133184,1948-11-24,Vittorio De Sica
+489,tt0064115,2013-04-14,2013-04-14,,Butch Cassidy and the Sundance Kid,https://www.imdb.com/title/tt0064115/,movie,8.0,110,1969,"Biography, Crime, Drama, Western",192230,1969-09-23,George Roy Hill
+490,tt0061512,2013-04-14,2013-04-14,,Cool Hand Luke,https://www.imdb.com/title/tt0061512/,movie,8.1,127,1967,"Crime, Drama",152676,1967-11-01,Stuart Rosenberg
+491,tt0116282,2013-04-14,2013-04-14,,Fargo,https://www.imdb.com/title/tt0116282/,movie,8.1,98,1996,"Crime, Drama, Thriller",577344,1996-03-08,"Ethan Coen, Joel Coen"
+492,tt0208092,2013-04-14,2013-04-14,,Snatch,https://www.imdb.com/title/tt0208092/,movie,8.3,104,2000,"Comedy, Crime",738027,2000-08-23,Guy Ritchie
+493,tt0119488,2013-04-14,2013-04-14,,L.A. Confidential,https://www.imdb.com/title/tt0119488/,movie,8.2,138,1997,"Crime, Drama, Mystery, Thriller",505048,1997-05-14,Curtis Hanson
+494,tt0045152,2013-04-14,2013-04-14,,Singin' in the Rain,https://www.imdb.com/title/tt0045152/,movie,8.3,103,1952,"Comedy, Musical, Romance",203775,1952-03-27,"Gene Kelly, Stanley Donen"
+495,tt0936501,2013-04-14,2013-04-14,,Taken,https://www.imdb.com/title/tt0936501/,movie,7.8,90,2008,"Action, Thriller",546433,2008-02-27,Pierre Morel
+496,tt0021884,2013-04-14,2013-04-14,,Frankenstein,https://www.imdb.com/title/tt0021884/,movie,7.8,70,1931,"Drama, Horror, Sci-Fi",60679,1931-11-21,James Whale
+497,tt0026138,2013-04-14,2013-04-14,,Bride of Frankenstein,https://www.imdb.com/title/tt0026138/,movie,7.8,75,1935,"Drama, Horror, Sci-Fi",40538,1935-04-19,James Whale
+498,tt0071315,2013-04-14,2013-04-14,,Chinatown,https://www.imdb.com/title/tt0071315/,movie,8.2,130,1974,"Drama, Mystery, Thriller",274211,1974-06-20,Roman Polanski
+499,tt0417741,2013-04-14,2013-04-14,,Harry Potter and the Half-Blood Prince,https://www.imdb.com/title/tt0417741/,movie,7.6,153,2009,"Action, Adventure, Family, Fantasy, Mystery",433821,2009-07-06,David Yates
+500,tt0097441,2013-04-14,2013-04-14,,Glory,https://www.imdb.com/title/tt0097441/,movie,7.8,122,1989,"Biography, Drama, History, War",115129,1989-12-15,Edward Zwick
+501,tt0052311,2013-04-14,2013-04-14,,Touch of Evil,https://www.imdb.com/title/tt0052311/,movie,8.0,95,1958,"Crime, Drama, Film-Noir, Thriller",94263,1958-03-30,Orson Welles
+502,tt0175880,2013-04-14,2013-04-14,,Magnolia,https://www.imdb.com/title/tt0175880/,movie,8.0,188,1999,Drama,275216,1999-12-08,Paul Thomas Anderson
+503,tt0092005,2013-04-14,2013-04-14,,Stand by Me,https://www.imdb.com/title/tt0092005/,movie,8.1,89,1986,"Adventure, Drama",342652,1986-10-27,Rob Reiner
+504,tt0398808,2013-04-14,2013-04-14,,Bridge to Terabithia,https://www.imdb.com/title/tt0398808/,movie,7.1,96,2007,"Drama, Family, Fantasy",135144,2007-02-15,Gabor Csupo
+505,tt0056923,2013-04-14,2013-04-14,,Charade,https://www.imdb.com/title/tt0056923/,movie,7.9,113,1963,"Comedy, Mystery, Romance, Thriller",62321,1963-12-05,Stanley Donen
+506,tt0121766,2013-04-14,2013-04-14,,Star Wars: Episode III - Revenge of the Sith,https://www.imdb.com/title/tt0121766/,movie,7.5,140,2005,"Action, Adventure, Fantasy, Sci-Fi",664478,2005-05-12,George Lucas
+507,tt0305206,2013-04-14,2013-04-14,,American Splendor,https://www.imdb.com/title/tt0305206/,movie,7.4,101,2003,"Biography, Comedy, Drama",46130,2003-01-20,"Shari Springer Berman, Robert Pulcini"
+508,tt0116695,2013-04-14,2013-04-14,,Jerry Maguire,https://www.imdb.com/title/tt0116695/,movie,7.3,139,1996,"Comedy, Drama, Romance, Sport",227811,1996-12-06,Cameron Crowe
+509,tt0842926,2013-04-14,2013-04-14,,The Kids Are All Right,https://www.imdb.com/title/tt0842926/,movie,7.0,106,2010,"Comedy, Drama, Romance",121993,2010-01-25,Lisa Cholodenko
+510,tt0340855,2013-04-14,2013-04-14,,Monster,https://www.imdb.com/title/tt0340855/,movie,7.3,109,2003,"Biography, Crime, Drama, Thriller",127760,2003-11-16,Patty Jenkins
+511,tt0120789,2013-04-14,2013-04-14,,Pleasantville,https://www.imdb.com/title/tt0120789/,movie,7.5,124,1998,"Comedy, Drama, Fantasy",116609,1998-09-17,Gary Ross
+512,tt0468489,2013-04-14,2013-04-14,,Half Nelson,https://www.imdb.com/title/tt0468489/,movie,7.2,106,2006,Drama,81495,2006-01-23,Ryan Fleck
+513,tt0119396,2013-04-14,2013-04-14,,Jackie Brown,https://www.imdb.com/title/tt0119396/,movie,7.5,154,1997,"Crime, Drama, Thriller",295992,1997-12-08,Quentin Tarantino
+514,tt0087800,2013-04-14,2013-04-14,,A Nightmare on Elm Street,https://www.imdb.com/title/tt0087800/,movie,7.5,91,1984,Horror,192405,1984-10-31,Wes Craven
+515,tt0181865,2013-04-14,2013-04-14,,Traffic,https://www.imdb.com/title/tt0181865/,movie,7.6,147,2000,"Crime, Drama, Thriller",188729,2000-12-06,Steven Soderbergh
+516,tt0372784,2013-04-14,2013-04-14,,Batman Begins,https://www.imdb.com/title/tt0372784/,movie,8.2,140,2005,"Action, Adventure",1231234,2005-05-31,Christopher Nolan
+517,tt1182345,2013-04-14,2013-04-14,,Moon,https://www.imdb.com/title/tt1182345/,movie,7.9,97,2009,"Drama, Mystery, Sci-Fi",318749,2009-01-23,Duncan Jones
+518,tt2053425,2013-04-14,2013-04-14,,De rouille et d'os,https://www.imdb.com/title/tt2053425/,movie,7.5,120,2012,"Drama, Romance",60152,2012-05-17,Jacques Audiard
+519,tt0914798,2013-04-14,2013-04-14,,The Boy in the Striped Pyjamas,https://www.imdb.com/title/tt0914798/,movie,7.8,94,2008,"Drama, War",176671,2008-08-28,Mark Herman
+520,tt0085794,2013-04-14,2013-04-14,,The King of Comedy,https://www.imdb.com/title/tt0085794/,movie,7.8,109,1982,"Comedy, Crime, Drama, Thriller",76312,1982-12-18,Martin Scorsese
+521,tt0780511,2013-04-14,2013-04-14,,Everybody's Fine,https://www.imdb.com/title/tt0780511/,movie,7.1,99,2009,"Adventure, Drama",56914,2009-11-03,Kirk Jones
+522,tt0878804,2013-04-14,2013-04-14,,The Blind Side,https://www.imdb.com/title/tt0878804/,movie,7.6,129,2009,"Biography, Drama, Sport",274517,2009-11-17,John Lee Hancock
+523,tt1263670,2013-04-14,2013-04-14,,Crazy Heart,https://www.imdb.com/title/tt1263670/,movie,7.2,112,2009,"Drama, Music, Romance",80915,2009-12-06,Scott Cooper
+524,tt0465538,2013-04-14,2013-04-14,,Michael Clayton,https://www.imdb.com/title/tt0465538/,movie,7.2,119,2007,"Crime, Drama, Mystery, Thriller",150683,2007-08-31,Tony Gilroy
+525,tt0870111,2013-04-14,2013-04-14,,Frost/Nixon,https://www.imdb.com/title/tt0870111/,movie,7.7,122,2008,"Biography, Drama, History",98439,2008-10-15,Ron Howard
+526,tt0373889,2013-04-14,2013-04-14,,Harry Potter and the Order of the Phoenix,https://www.imdb.com/title/tt0373889/,movie,7.5,138,2007,"Action, Adventure, Family, Fantasy, Mystery",469510,2007-06-28,David Yates
+527,tt0976051,2013-04-14,2013-04-14,,The Reader,https://www.imdb.com/title/tt0976051/,movie,7.6,124,2008,"Drama, Romance",221473,2008-12-10,Stephen Daldry
+528,tt1174732,2013-04-14,2013-04-14,,An Education,https://www.imdb.com/title/tt1174732/,movie,7.3,100,2009,Drama,124562,2009-01-18,Lone Scherfig
+529,tt1399683,2013-04-14,2013-04-14,,Winter's Bone,https://www.imdb.com/title/tt1399683/,movie,7.2,100,2010,"Drama, Mystery",130083,2010-01-21,Debra Granik
+530,tt2125435,2013-04-14,2013-04-14,,Beasts of the Southern Wild,https://www.imdb.com/title/tt2125435/,movie,7.3,93,2012,"Adventure, Drama, Fantasy",78340,2012-01-20,Benh Zeitlin
+531,tt0299658,2013-04-14,2013-04-14,,Chicago,https://www.imdb.com/title/tt0299658/,movie,7.1,113,2002,"Comedy, Crime, Musical",205415,2002-12-10,Rob Marshall
+532,tt0449467,2013-04-14,2013-04-14,,Babel,https://www.imdb.com/title/tt0449467/,movie,7.4,143,2006,Drama,277719,2006-05-23,Alejandro G. Iñárritu
+533,tt0379725,2013-04-14,2013-04-14,,Capote,https://www.imdb.com/title/tt0379725/,movie,7.3,114,2005,"Biography, Crime, Drama, History",119467,2005-09-02,Bennett Miller
+534,tt0329575,2013-04-14,2013-04-14,,Seabiscuit,https://www.imdb.com/title/tt0329575/,movie,7.3,140,2003,"Drama, History, Sport",64045,2003-07-22,Gary Ross
+535,tt0280707,2013-04-14,2013-04-14,,Gosford Park,https://www.imdb.com/title/tt0280707/,movie,7.2,131,2001,"Comedy, Drama, Mystery",75625,2001-11-07,Robert Altman
+536,tt0247425,2013-04-14,2013-04-14,,In the Bedroom,https://www.imdb.com/title/tt0247425/,movie,7.4,130,2001,"Crime, Drama",36274,2001-01-19,Todd Field
+537,tt0241303,2013-04-14,2013-04-14,,Chocolat,https://www.imdb.com/title/tt0241303/,movie,7.2,121,2000,"Drama, Romance",171010,2000-12-15,Lasse Hallström
+538,tt0195685,2013-04-14,2013-04-14,,Erin Brockovich,https://www.imdb.com/title/tt0195685/,movie,7.3,131,2000,"Biography, Drama",163248,2000-03-14,Steven Soderbergh
+539,tt0276751,2013-04-14,2013-04-14,,About a Boy,https://www.imdb.com/title/tt0276751/,movie,7.0,101,2002,"Comedy, Drama, Romance",165050,2002-04-26,"Paul Weitz, Chris Weitz"
+540,tt0109831,2013-04-14,2013-04-14,,Four Weddings and a Funeral,https://www.imdb.com/title/tt0109831/,movie,7.0,117,1994,"Comedy, Drama, Romance",130588,1994-01-20,Mike Newell
+541,tt0376541,2013-04-14,2013-04-14,,Closer,https://www.imdb.com/title/tt0376541/,movie,7.2,104,2004,"Drama, Romance",194047,2004-11-22,Mike Nichols
+542,tt0140352,2013-04-14,2013-04-14,,The Insider,https://www.imdb.com/title/tt0140352/,movie,7.8,157,1999,"Biography, Drama, Thriller",152625,1999-10-28,Michael Mann
+543,tt0124315,2013-04-14,2013-04-14,,The Cider House Rules,https://www.imdb.com/title/tt0124315/,movie,7.4,126,1999,"Drama, Romance",89537,1999-09-07,Lasse Hallström
+544,tt0138097,2013-04-14,2013-04-14,,Shakespeare in Love,https://www.imdb.com/title/tt0138097/,movie,7.1,123,1998,"Comedy, Drama, History, Romance",205055,1998-12-03,John Madden
+545,tt0127536,2013-04-14,2013-04-14,,Elizabeth,https://www.imdb.com/title/tt0127536/,movie,7.4,124,1998,"Biography, Drama, History",87707,1998-09-08,Shekhar Kapur
+546,tt0116209,2013-04-14,2013-04-14,,The English Patient,https://www.imdb.com/title/tt0116209/,movie,7.4,162,1996,"Drama, Romance, War",169422,1996-10-31,Anthony Minghella
+547,tt0117631,2013-04-14,2013-04-14,,Shine,https://www.imdb.com/title/tt0117631/,movie,7.7,105,1996,"Biography, Drama, Music, Romance",49331,1996-01-21,Scott Hicks
+548,tt0117589,2013-04-14,2013-04-14,,Secrets & Lies,https://www.imdb.com/title/tt0117589/,movie,8.0,136,1996,Drama,34579,1996-05-10,Mike Leigh
+549,tt0112431,2013-04-14,2013-04-14,,Babe,https://www.imdb.com/title/tt0112431/,movie,6.7,91,1995,"Comedy, Drama, Family",111342,1995-08-04,Chris Noonan
+550,tt0034583,2013-04-15,2013-04-15,,Casablanca,https://www.imdb.com/title/tt0034583/,movie,8.5,102,1942,"Drama, Romance, War",490171,1942-11-26,Michael Curtiz
+551,tt0245429,2013-04-15,2013-04-15,,Sen to Chihiro no kamikakushi,https://www.imdb.com/title/tt0245429/,movie,8.6,125,2001,"Animation, Adventure, Family, Fantasy, Mystery",580970,2001-07-20,Hayao Miyazaki
+552,tt0036775,2013-04-15,2013-04-15,,Double Indemnity,https://www.imdb.com/title/tt0036775/,movie,8.3,107,1944,"Crime, Drama, Film-Noir, Mystery, Thriller",132726,1944-07-03,Billy Wilder
+553,tt0405094,2013-04-15,2013-04-15,,Das Leben der Anderen,https://www.imdb.com/title/tt0405094/,movie,8.4,137,2006,"Drama, Mystery, Thriller",333834,2006-03-15,Florian Henckel von Donnersmarck
+554,tt0364569,2013-04-15,2013-04-15,,Oldeuboi,https://www.imdb.com/title/tt0364569/,movie,8.4,120,2003,"Action, Drama, Mystery, Thriller",475539,2003-11-21,Chan-wook Park
+555,tt0120737,2013-04-15,2013-04-15,,The Lord of the Rings: The Fellowship of the Ring,https://www.imdb.com/title/tt0120737/,movie,8.8,178,2001,"Adventure, Drama, Fantasy",1557116,2001-12-10,Peter Jackson
+556,tt0167261,2013-04-15,2013-04-15,,The Lord of the Rings: The Two Towers,https://www.imdb.com/title/tt0167261/,movie,8.7,179,2002,"Adventure, Drama, Fantasy",1394715,2002-12-05,Peter Jackson
+557,tt0167260,2013-04-15,2013-04-15,,The Lord of the Rings: The Return of the King,https://www.imdb.com/title/tt0167260/,movie,8.9,201,2003,"Adventure, Drama, Fantasy",1545198,2003-12-01,Peter Jackson
+558,tt0800369,2013-04-15,2013-04-15,,Thor,https://www.imdb.com/title/tt0800369/,movie,7.0,115,2011,"Action, Adventure, Fantasy",705949,2011-04-17,Kenneth Branagh
+559,tt0295297,2013-04-15,2013-04-15,,Harry Potter and the Chamber of Secrets,https://www.imdb.com/title/tt0295297/,movie,7.4,161,2002,"Adventure, Family, Fantasy, Mystery",509732,2002-11-03,Chris Columbus
+560,tt0103776,2013-04-15,2013-04-15,,Batman Returns,https://www.imdb.com/title/tt0103776/,movie,7.0,126,1992,"Action, Crime, Fantasy",260192,1992-06-16,Tim Burton
+561,tt1080016,2013-04-15,2013-04-15,,Ice Age: Dawn of the Dinosaurs,https://www.imdb.com/title/tt1080016/,movie,6.9,94,2009,"Animation, Adventure, Comedy, Family",210531,2009-06-26,"Mike Thurmeier, Carlos Saldanha"
+562,tt0120903,2013-04-15,2013-04-15,,X-Men,https://www.imdb.com/title/tt0120903/,movie,7.4,104,2000,"Action, Adventure, Sci-Fi",547958,2000-07-12,Bryan Singer
+563,tt0234215,2013-04-15,2013-04-15,,The Matrix Reloaded,https://www.imdb.com/title/tt0234215/,movie,7.2,138,2003,"Action, Sci-Fi",490109,2003-05-07,"Lilly Wachowski, Lana Wachowski"
+564,tt1706593,2013-04-15,2013-04-15,,Chronicle,https://www.imdb.com/title/tt1706593/,movie,7.0,84,2012,"Drama, Sci-Fi, Thriller",232590,2012-01-28,Josh Trank
+565,tt0084726,2013-04-15,2013-04-15,,Star Trek II: The Wrath of Khan,https://www.imdb.com/title/tt0084726/,movie,7.7,113,1982,"Action, Adventure, Sci-Fi",107248,1982-06-04,Nicholas Meyer
+566,tt0337978,2013-04-15,2013-04-15,,Live Free or Die Hard,https://www.imdb.com/title/tt0337978/,movie,7.1,128,2007,"Action, Thriller",376644,2007-06-12,Len Wiseman
+567,tt0099423,2013-04-15,2013-04-15,,Die Hard 2,https://www.imdb.com/title/tt0099423/,movie,7.2,124,1990,"Action, Thriller",320136,1990-07-02,Renny Harlin
+568,tt0073195,2013-04-15,2013-04-15,,Jaws,https://www.imdb.com/title/tt0073195/,movie,8.0,124,1975,"Adventure, Drama, Thriller",520849,1975-06-20,Steven Spielberg
+569,tt0059742,2013-04-15,2013-04-15,,The Sound of Music,https://www.imdb.com/title/tt0059742/,movie,8.0,172,1965,"Biography, Drama, Family, Musical, Romance",188818,1965-03-02,Robert Wise
+570,tt0299977,2013-04-15,2013-04-15,,Ying xiong,https://www.imdb.com/title/tt0299977/,movie,7.9,107,2002,"Action, Adventure, History",168501,2002-10-24,Yimou Zhang
+571,tt0364569,2013-04-15,2013-04-15,,Oldeuboi,https://www.imdb.com/title/tt0364569/,movie,8.4,120,2003,"Action, Drama, Mystery, Thriller",475539,2003-11-21,Chan-wook Park
+572,tt0317248,2013-04-15,2013-04-15,,Cidade de Deus,https://www.imdb.com/title/tt0317248/,movie,8.6,130,2002,"Crime, Drama",662231,2002-05-18,"Kátia Lund, Fernando Meirelles"
+573,tt0399146,2013-04-15,2013-04-15,,A History of Violence,https://www.imdb.com/title/tt0399146/,movie,7.4,96,2005,"Crime, Drama, Thriller",214568,2005-05-16,David Cronenberg
+574,tt1125849,2013-04-15,2013-04-15,,The Wrestler,https://www.imdb.com/title/tt1125849/,movie,7.9,109,2008,"Drama, Sport",280816,2008-09-05,Darren Aronofsky
+575,tt1436045,2013-04-15,2013-04-15,,Jûsan-nin no shikaku,https://www.imdb.com/title/tt1436045/,movie,7.6,141,2010,"Action, Adventure, Drama",59155,2010-09-09,Takashi Miike
+576,tt0249462,2013-04-15,2013-04-15,,Billy Elliot,https://www.imdb.com/title/tt0249462/,movie,7.7,110,2000,"Drama, Music",118883,2000-05-19,Stephen Daldry
+577,tt0097165,2013-04-15,2013-04-15,,Dead Poets Society,https://www.imdb.com/title/tt0097165/,movie,8.1,128,1989,"Comedy, Drama",386242,1989-06-02,Peter Weir
+578,tt0106677,2013-04-15,2013-04-15,,Dazed and Confused,https://www.imdb.com/title/tt0106677/,movie,7.6,102,1993,Comedy,151566,1993-06-04,Richard Linklater
+579,tt0095765,2013-04-15,2013-04-15,,Nuovo Cinema Paradiso,https://www.imdb.com/title/tt0095765/,movie,8.5,155,1988,Drama,209970,1988-09-29,Giuseppe Tornatore
+580,tt0082096,2013-04-15,2013-04-15,,Das Boot,https://www.imdb.com/title/tt0082096/,movie,8.3,149,1981,"Adventure, Drama, Thriller, War",217091,1981-09-17,Wolfgang Petersen
+581,tt0086879,2013-04-15,2013-04-15,,Amadeus,https://www.imdb.com/title/tt0086879/,movie,8.3,160,1984,"Biography, Drama, History, Music",347149,1984-09-06,Milos Forman
+582,tt0087843,2013-04-15,2013-04-15,,Once Upon a Time in America,https://www.imdb.com/title/tt0087843/,movie,8.4,229,1984,"Crime, Drama",287961,1984-05-20,Sergio Leone
+583,tt0095327,2013-04-15,2013-04-15,,Hotaru no haka,https://www.imdb.com/title/tt0095327/,movie,8.5,89,1988,"Animation, Drama, War",207979,1988-04-16,Isao Takahata
+584,tt0093779,2013-04-15,2013-04-15,,The Princess Bride,https://www.imdb.com/title/tt0093779/,movie,8.1,98,1987,"Adventure, Family, Fantasy, Romance",370208,1987-09-18,Rob Reiner
+585,tt0347149,2013-04-15,2013-04-15,,Hauru no ugoku shiro,https://www.imdb.com/title/tt0347149/,movie,8.2,119,2004,"Animation, Adventure, Family, Fantasy",293481,2004-09-05,Hayao Miyazaki
+586,tt0338564,2013-04-15,2013-04-15,,Mou gaan dou,https://www.imdb.com/title/tt0338564/,movie,8.1,101,2002,"Crime, Drama, Mystery, Thriller",113703,2002-12-12,"Andrew Lau, Alan Mak"
+587,tt1748122,2013-04-15,2013-04-15,,Moonrise Kingdom,https://www.imdb.com/title/tt1748122/,movie,7.8,94,2012,"Comedy, Drama, Romance",299051,2012-05-16,Wes Anderson
+588,tt0265666,2013-04-15,2013-04-15,,The Royal Tenenbaums,https://www.imdb.com/title/tt0265666/,movie,7.6,110,2001,"Comedy, Drama",251321,2001-10-05,Wes Anderson
+589,tt0128445,2013-04-15,2013-04-15,,Rushmore,https://www.imdb.com/title/tt0128445/,movie,7.7,93,1998,"Comedy, Drama",160451,1998-09-17,Wes Anderson
+590,tt0111495,2013-04-15,2013-04-15,,Trois couleurs: Rouge,https://www.imdb.com/title/tt0111495/,movie,8.1,99,1994,"Drama, Mystery, Romance",82814,1994-05-16,Krzysztof Kieslowski
+591,tt0108394,2013-04-15,2013-04-15,,Trois couleurs: Bleu,https://www.imdb.com/title/tt0108394/,movie,7.9,94,1993,"Drama, Music, Mystery, Romance",81005,1993-09-03,Krzysztof Kieslowski
+592,tt0111507,2013-04-15,2013-04-15,,Trois couleurs: Blanc,https://www.imdb.com/title/tt0111507/,movie,7.7,92,1994,"Comedy, Drama, Romance",57782,1994-01-26,Krzysztof Kieslowski
+593,tt0358273,2013-04-15,2013-04-15,,Walk the Line,https://www.imdb.com/title/tt0358273/,movie,7.8,136,2005,"Biography, Drama, Music, Romance",220622,2005-09-04,James Mangold
+594,tt0276919,2013-04-15,2013-04-15,,Dogville,https://www.imdb.com/title/tt0276919/,movie,8.0,178,2003,"Crime, Drama",129691,2003-05-19,Lars von Trier
+595,tt0109445,2013-04-15,2013-04-15,,Clerks,https://www.imdb.com/title/tt0109445/,movie,7.7,92,1994,Comedy,204726,1994-01-31,Kevin Smith
+596,tt0424345,2013-04-15,2013-04-15,,Clerks II,https://www.imdb.com/title/tt0424345/,movie,7.3,97,2006,Comedy,126361,2006-05-26,Kevin Smith
+597,tt0083907,2013-04-15,2013-04-15,,The Evil Dead,https://www.imdb.com/title/tt0083907/,movie,7.5,85,1981,Horror,175358,1981-10-15,Sam Raimi
+598,tt0092991,2013-04-15,2013-04-15,,Evil Dead II,https://www.imdb.com/title/tt0092991/,movie,7.8,84,1987,"Comedy, Horror",139824,1987-03-13,Sam Raimi
+599,tt0106308,2013-04-15,2013-04-15,,Army of Darkness,https://www.imdb.com/title/tt0106308/,movie,7.5,81,1992,"Comedy, Horror",155215,1992-10-09,Sam Raimi
+600,tt0106519,2013-04-15,2013-04-15,,Carlito's Way,https://www.imdb.com/title/tt0106519/,movie,7.9,144,1993,"Crime, Drama, Thriller",189677,1993-11-07,Brian De Palma
+601,tt0118749,2013-04-15,2013-04-15,,Boogie Nights,https://www.imdb.com/title/tt0118749/,movie,7.9,155,1997,Drama,225094,1997-09-11,Paul Thomas Anderson
+602,tt1931533,2013-04-15,2013-04-15,,Seven Psychopaths,https://www.imdb.com/title/tt1931533/,movie,7.2,110,2012,"Comedy, Crime",228519,2012-09-07,Martin McDonagh
+603,tt0080339,2013-04-15,2013-04-15,,Airplane!,https://www.imdb.com/title/tt0080339/,movie,7.7,88,1980,Comedy,196196,1980-07-02,"Jim Abrahams, Jerry Zucker, David Zucker"
+604,tt0307901,2013-04-15,2013-04-15,,25th Hour,https://www.imdb.com/title/tt0307901/,movie,7.6,135,2002,Drama,164472,2002-12-16,Spike Lee
+605,tt0472043,2013-04-15,2013-04-15,,Apocalypto,https://www.imdb.com/title/tt0472043/,movie,7.8,139,2006,"Action, Adventure, Drama, Thriller",275754,2006-12-08,Mel Gibson
+606,tt0097814,2013-04-15,2013-04-15,,Majo no takkyûbin,https://www.imdb.com/title/tt0097814/,movie,7.9,103,1989,"Animation, Adventure, Drama, Family, Fantasy",103430,1989-07-29,Hayao Miyazaki
+607,tt0096438,2013-04-15,2013-04-15,,Who Framed Roger Rabbit,https://www.imdb.com/title/tt0096438/,movie,7.7,104,1988,"Animation, Adventure, Comedy, Crime, Family, Fantasy, Mystery",172499,1988-06-21,Robert Zemeckis
+608,tt0829482,2013-04-15,2013-04-15,,Superbad,https://www.imdb.com/title/tt0829482/,movie,7.6,113,2007,Comedy,495532,2007-08-17,Greg Mottola
+609,tt0486655,2013-04-15,2013-04-15,,Stardust,https://www.imdb.com/title/tt0486655/,movie,7.6,127,2007,"Adventure, Family, Fantasy, Romance",243006,2007-07-29,Matthew Vaughn
+610,tt0120669,2013-04-15,2013-04-15,,Fear and Loathing in Las Vegas,https://www.imdb.com/title/tt0120669/,movie,7.6,118,1998,"Adventure, Comedy, Drama",247457,1998-05-15,Terry Gilliam
+611,tt0314331,2013-04-15,2013-04-15,,Love Actually,https://www.imdb.com/title/tt0314331/,movie,7.6,135,2003,"Comedy, Drama, Romance",400441,2003-11-06,Richard Curtis
+612,tt0443706,2013-04-15,2013-04-15,,Zodiac,https://www.imdb.com/title/tt0443706/,movie,7.7,157,2007,"Crime, Drama, Mystery, Thriller",410339,2007-02-28,David Fincher
+613,tt0089218,2013-04-15,2013-04-15,,The Goonies,https://www.imdb.com/title/tt0089218/,movie,7.8,114,1985,"Adventure, Comedy, Family",225491,1985-06-07,Richard Donner
+614,tt0369339,2013-04-15,2013-04-15,,Collateral,https://www.imdb.com/title/tt0369339/,movie,7.5,120,2004,"Crime, Drama, Thriller",341768,2004-08-02,Michael Mann
+615,tt0114388,2013-04-15,2013-04-15,,Sense and Sensibility,https://www.imdb.com/title/tt0114388/,movie,7.6,136,1995,"Drama, Romance",94965,1995-12-04,Ang Lee
+616,tt0465551,2013-04-15,2013-04-15,,Notes on a Scandal,https://www.imdb.com/title/tt0465551/,movie,7.4,92,2006,"Crime, Drama, Romance, Thriller",72132,2006-12-25,Richard Eyre
+617,tt0171804,2013-04-15,2013-04-15,,Boys Don't Cry,https://www.imdb.com/title/tt0171804/,movie,7.5,118,1999,"Biography, Crime, Drama, Romance",88660,1999-09-02,Kimberly Peirce
+618,tt1866249,2013-04-15,2013-04-15,,The Sessions,https://www.imdb.com/title/tt1866249/,movie,7.2,95,2012,"Biography, Comedy, Drama, Romance",40246,2012-01-23,Ben Lewin
+619,tt0427309,2013-04-15,2013-04-15,,The Great Debaters,https://www.imdb.com/title/tt0427309/,movie,7.6,126,2007,"Biography, Drama, Romance",53912,2007-12-11,Denzel Washington
+620,tt0098635,2013-04-15,2013-04-15,,When Harry Met Sally...,https://www.imdb.com/title/tt0098635/,movie,7.6,95,1989,"Comedy, Drama, Romance",182402,1989-07-12,Rob Reiner
+621,tt0113627,2013-04-15,2013-04-15,,Leaving Las Vegas,https://www.imdb.com/title/tt0113627/,movie,7.5,111,1995,"Drama, Romance",108977,1995-09-15,Mike Figgis

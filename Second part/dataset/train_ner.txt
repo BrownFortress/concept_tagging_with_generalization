@@ -1,0 +1,24796 @@
+who	O
+plays	O
+luke	O
+on	O
+star	O
+wars	O
+new	O
+hope	O
+
+show	O
+credits	O
+for	O
+the	O
+godfather	O
+
+who	O
+was	O
+the	O
+main	O
+actor	TITLE
+in	O
+the	O
+exorcist	O
+
+find	O
+the	O
+female	O
+actress	TITLE
+from	O
+the	O
+movie	O
+she	O
+'s	O
+the	O
+man	O
+
+who	O
+played	O
+dory	O
+on	O
+finding	O
+nemo	O
+
+who	O
+was	O
+the	O
+female	O
+lead	O
+in	O
+resident	O
+evil	O
+
+who	O
+played	O
+guido	O
+in	O
+life	O
+is	O
+beautiful	O
+
+who	O
+was	O
+the	O
+co-star	O
+in	O
+shoot	O
+to	O
+kill	O
+
+find	O
+the	O
+guy	O
+who	O
+plays	O
+charlie	O
+on	O
+charlie	O
+'s	O
+angels	O
+
+cast	O
+and	O
+crew	O
+of	O
+movie	O
+the	O
+campaign	O
+
+cast	O
+and	O
+crew	O
+of	O
+the	O
+campaign	O
+
+who	O
+plays	O
+in	O
+the	O
+movie	O
+the	O
+campaign	O
+
+who	O
+starred	O
+in	O
+the	O
+campaign	O
+
+who	O
+were	O
+the	O
+crew	O
+for	O
+the	O
+campaign	O
+
+who	O
+was	O
+the	O
+lead	O
+man	O
+in	O
+taxi	TITLE
+driver	TITLE
+
+star	O
+of	O
+twilight	TIME
+
+who	O
+stars	O
+in	O
+vulgaria	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+female	O
+actors	O
+who	O
+played	O
+in	O
+lost	O
+
+can	O
+i	O
+see	O
+the	O
+set	O
+list	O
+and	O
+cast	O
+for	O
+life	O
+is	O
+beautiful	O
+
+cast	O
+and	O
+crew	O
+of	O
+life	O
+is	O
+beautiful	O
+
+show	O
+cast	O
+and	O
+crew	O
+for	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+what	O
+'s	O
+the	O
+cast	O
+for	O
+life	O
+is	O
+beautiful	O
+
+who	O
+played	O
+in	O
+life	O
+is	O
+beautiful	O
+
+who	O
+played	O
+in	O
+life	O
+is	O
+beautiful	O
+
+who	O
+was	O
+in	O
+life	O
+is	O
+beautiful	O
+
+who	O
+were	O
+roberto	O
+benigni	O
+'s	O
+costars	O
+on	O
+life	O
+is	O
+beautiful	O
+
+i	O
+am	O
+looking	O
+for	O
+the	O
+actor	TITLE
+that	O
+played	O
+in	O
+pretty	O
+women	O
+
+star	O
+of	O
+troy	O
+
+who	O
+played	O
+robin	O
+in	O
+batman	TITLE
+forever	O
+
+find	O
+the	O
+male	O
+actor	TITLE
+from	O
+dirty	O
+harry	O
+
+show	O
+me	O
+the	O
+actor	TITLE
+of	O
+the	O
+ranam	O
+
+rocky	O
+actor	TITLE
+
+what	O
+actor	TITLE
+played	O
+in	O
+the	O
+amazing	O
+spider	O
+man	O
+
+who	O
+are	O
+the	O
+actors	O
+in	O
+captain	TITLE
+america	COUNTRY
+
+who	O
+starred	O
+in	O
+captain	TITLE
+america	COUNTRY
+
+who	O
+was	O
+in	O
+the	O
+movie	O
+captain	TITLE
+america	COUNTRY
+
+who	O
+were	O
+the	O
+cast	O
+members	O
+in	O
+the	O
+hobbist	O
+
+show	O
+me	O
+the	O
+actor	TITLE
+of	O
+the	O
+movie	O
+varsham	O
+
+which	O
+female	O
+actors	O
+starred	O
+in	O
+hitch	O
+
+can	O
+i	O
+see	O
+the	O
+cast	O
+and	O
+crew	O
+for	O
+the	O
+movie	O
+in	O
+july	DATE
+
+list	O
+cast	O
+and	O
+crew	O
+in	O
+july	DATE
+
+who	O
+stars	O
+in	O
+in	O
+july	DATE
+
+who	O
+stars	O
+in	O
+in	O
+july	DATE
+
+roll	O
+credits	O
+for	O
+top	O
+gun	O
+
+show	O
+me	O
+the	O
+actor	TITLE
+of	O
+the	O
+movie	O
+sirisiri	O
+muvva	O
+
+rocky	O
+2	NUMBER
+actor	TITLE
+
+who	O
+is	O
+chewbakka	O
+
+who	O
+stared	O
+in	O
+i	O
+love	O
+lucy	O
+
+apollo	O
+thirteen	NUMBER
+cast	O
+members	O
+
+can	O
+you	O
+tell	O
+me	O
+more	O
+about	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+the	O
+movie	O
+apollo	O
+thirteen	NUMBER
+
+cast	O
+and	O
+crew	O
+for	O
+apollo	O
+thirteen	NUMBER
+
+castmembers	O
+of	O
+apollo	O
+thirteen	NUMBER
+
+complete	O
+cast	O
+and	O
+crew	O
+of	O
+apollo	O
+thirteen	NUMBER
+
+find	O
+for	O
+information	O
+about	O
+the	O
+cast	O
+of	O
+appolo	O
+thirteen	NUMBER
+
+find	O
+info	O
+on	O
+the	O
+crew	O
+of	O
+apollo	O
+thirteen	NUMBER
+
+give	O
+me	O
+more	O
+facts	O
+about	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+the	O
+movie	O
+apollo	O
+thirteen	NUMBER
+
+i	O
+need	O
+to	O
+know	O
+in	O
+detail	O
+about	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+the	O
+movie	O
+apollo	O
+thirteen	NUMBER
+
+i	O
+want	O
+to	O
+find	O
+information	O
+about	O
+the	O
+cast	O
+of	O
+apollo	O
+thirteen	NUMBER
+
+show	O
+me	O
+more	O
+information	O
+about	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+the	O
+movie	O
+apollo	O
+thirteen	NUMBER
+
+what	O
+actors	O
+were	O
+in	O
+dirty	O
+dancing	O
+
+show	O
+me	O
+the	O
+actors	O
+in	O
+captain	TITLE
+america	COUNTRY
+
+show	O
+me	O
+gilda	O
+'s	O
+credits	O
+
+i	O
+can	O
+'	O
+t	O
+remember	O
+the	O
+lead	O
+guy	O
+in	O
+the	O
+avengers	O
+
+show	O
+cast	O
+list	O
+for	O
+the	O
+avergers	O
+
+who	O
+plays	O
+nemo	O
+in	O
+finding	O
+nemo	O
+
+find	O
+cast	O
+and	O
+crew	O
+for	O
+the	O
+movie	O
+finding	O
+nemo	O
+
+show	O
+me	O
+the	O
+cast	O
+and	O
+crew	O
+for	O
+finding	O
+nemo	O
+
+show	O
+me	O
+the	O
+cast	O
+of	O
+finding	O
+nemo	O
+
+who	O
+are	O
+the	O
+main	O
+voices	O
+in	O
+finding	O
+nemo	O
+
+who	O
+starred	O
+in	O
+finding	O
+nemo	O
+
+who	O
+stars	O
+in	O
+finding	O
+nemo	O
+
+who	O
+was	O
+the	O
+main	O
+character	O
+in	O
+men	O
+in	O
+black	O
+3	NUMBER
+
+can	O
+i	O
+see	O
+the	O
+credits	O
+for	O
+dirty	O
+dancing	O
+
+cast	O
+of	O
+dirty	O
+dancing	O
+
+find	O
+cast	O
+and	O
+crew	O
+for	O
+dirty	O
+dancing	O
+
+search	O
+cast	O
+and	O
+crew	O
+for	O
+dirty	O
+dancing	O
+
+search	O
+for	O
+the	O
+cast	O
+and	O
+crew	O
+for	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+show	O
+me	O
+the	O
+cast	O
+and	O
+list	O
+for	O
+dirty	O
+dancing	O
+
+who	O
+starred	O
+in	O
+dirty	O
+dancing	O
+
+who	O
+starred	O
+in	O
+dirty	O
+dancing	O
+
+who	O
+were	O
+the	O
+stars	O
+of	O
+dirty	O
+dancing	O
+
+who	O
+was	O
+the	O
+male	O
+star	O
+of	O
+titanic	O
+
+who	O
+starred	O
+in	O
+taxi	O
+
+who	O
+played	O
+in	O
+the	O
+oranges	O
+
+actors	O
+for	O
+life	O
+is	O
+beautiful	O
+
+who	O
+are	O
+the	O
+lead	O
+actors	O
+in	O
+life	O
+is	O
+beautiful	O
+
+find	O
+the	O
+male	O
+actor	TITLE
+from	O
+the	O
+movie	O
+born	O
+free	O
+
+actor	TITLE
+from	O
+iron	O
+man	O
+
+shows	O
+actors	O
+in	O
+shoot	O
+to	O
+kill	O
+
+which	O
+actors	O
+starred	O
+in	O
+hitch	O
+
+who	O
+are	O
+all	O
+of	O
+the	O
+actors	O
+in	O
+hitch	O
+
+who	O
+was	O
+the	O
+lead	O
+actor	TITLE
+in	O
+hitch	O
+
+who	O
+starred	O
+in	O
+dark	O
+knight	O
+rising	O
+
+who	O
+played	O
+nick	O
+fury	O
+in	O
+the	O
+avengers	O
+
+who	O
+was	O
+the	O
+lead	O
+actor	TITLE
+in	O
+the	O
+avengers	O
+
+what	O
+was	O
+the	O
+cast	O
+of	O
+black	O
+swan	O
+
+who	O
+acted	O
+in	O
+black	O
+swan	O
+
+who	O
+was	O
+in	O
+black	O
+swan	O
+
+who	O
+was	O
+the	O
+lead	O
+in	O
+black	O
+swan	O
+
+actors	O
+in	O
+star	O
+wars	O
+four	NUMBER
+
+what	O
+was	O
+the	O
+actor	TITLE
+who	O
+played	O
+esme	O
+in	O
+twilight	TIME
+
+who	O
+played	O
+esme	O
+in	O
+twilight	TIME
+
+who	O
+starred	O
+in	O
+the	O
+parent	O
+trap	O
+
+cast	O
+and	O
+crew	O
+for	O
+hitch	O
+
+cast	O
+and	O
+crew	O
+of	O
+hitch	O
+
+cast	O
+hitch	O
+
+hitch	O
+crew	O
+
+list	O
+cast	O
+hitch	O
+
+show	O
+me	O
+hitch	O
+'s	O
+cast	O
+
+show	O
+the	O
+cast	O
+of	O
+hitch	O
+
+what	O
+actors	O
+appeared	O
+in	O
+the	O
+movie	O
+hitch	O
+
+what	O
+actors	O
+played	O
+in	O
+the	O
+movies	O
+hitch	O
+
+what	O
+was	O
+the	O
+cast	O
+of	O
+hitch	O
+
+who	O
+starred	O
+in	O
+hitch	O
+
+who	O
+starred	O
+in	O
+the	O
+movie	O
+hitch	O
+
+who	O
+stars	O
+in	O
+hitch	O
+
+who	O
+was	O
+in	O
+hitch	O
+
+who	O
+was	O
+in	O
+the	O
+movie	O
+hitch	O
+
+who	O
+was	O
+the	O
+star	O
+in	O
+hitch	O
+
+voice	TITLE
+actor	TITLE
+for	O
+homer	O
+simpson	O
+
+who	O
+is	O
+in	O
+the	O
+movie	O
+two	NUMBER
+can	O
+play	O
+that	O
+game	O
+
+actress	TITLE
+from	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+are	O
+the	O
+lead	O
+actors	O
+in	O
+this	O
+movie	O
+
+show	O
+me	O
+information	O
+on	O
+the	O
+cast	O
+and	O
+crew	O
+of	O
+pitchperfect	O
+
+actors	O
+in	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+can	O
+i	O
+see	O
+the	O
+cast	O
+and	O
+crew	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+cast	O
+and	O
+crew	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+cast	O
+and	O
+crew	O
+for	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+who	O
+stars	O
+on	O
+the	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+who	O
+is	O
+in	O
+movie	O
+
+who	O
+is	O
+in	O
+movie	O
+
+who	O
+is	O
+in	O
+movie	O
+
+who	O
+acts	O
+in	O
+forager	O
+
+who	O
+stars	O
+in	O
+forager	O
+
+who	O
+is	O
+the	O
+cast	O
+and	O
+crew	O
+for	O
+now	DATE
+forager	O
+
+who	O
+was	O
+in	O
+now	DATE
+
+actor	TITLE
+from	O
+modern	O
+family	O
+
+list	O
+the	O
+actors	O
+in	O
+forager	O
+
+cast	O
+and	O
+crew	O
+of	O
+go	O
+
+who	O
+starred	O
+in	O
+go	O
+
+who	O
+was	O
+the	O
+lead	O
+actress	TITLE
+in	O
+the	O
+hunger	O
+games	O
+
+show	O
+cast	O
+of	O
+movie	O
+request	O
+
+what	O
+is	O
+the	O
+cast	O
+in	O
+resident	O
+evil	O
+retribution	O
+
+list	O
+me	O
+the	O
+actors	O
+for	O
+top	O
+gun	O
+
+who	O
+was	O
+the	O
+tin	O
+man	O
+in	O
+wizard	O
+of	O
+oz	O
+
+actress	TITLE
+in	O
+hum	O
+tum	O
+
+who	O
+was	O
+the	O
+actor	TITLE
+in	O
+movie	O
+hum	O
+tum	O
+
+who	O
+is	O
+in	O
+barfi	O
+
+who	O
+was	O
+the	O
+lead	O
+woman	O
+in	O
+the	O
+savages	O
+
+find	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+played	O
+jack	O
+in	O
+the	O
+movie	O
+titanic	O
+
+the	O
+name	O
+of	O
+the	O
+male	O
+lead	O
+in	O
+the	O
+movie	O
+titanic	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+lead	O
+actor	TITLE
+in	O
+the	O
+titanic	O
+
+show	O
+me	O
+who	O
+played	O
+what	O
+role	O
+in	O
+go	O
+
+i	O
+can	O
+not	O
+remember	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+in	O
+pretty	O
+women	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+was	O
+in	O
+the	O
+parent	O
+trap	O
+
+find	O
+name	O
+of	O
+main	O
+actor	TITLE
+in	O
+the	O
+movie	O
+the	O
+help	O
+
+looking	O
+for	O
+names	O
+of	O
+crew	O
+members	O
+of	O
+apollo	O
+thirteen	NUMBER
+
+i	O
+can	O
+'	O
+t	O
+figure	O
+out	O
+the	O
+name	O
+of	O
+the	O
+lead	O
+guy	O
+in	O
+the	O
+avengers	O
+
+what	O
+were	O
+the	O
+names	O
+of	O
+the	O
+ladies	O
+in	O
+facts	O
+of	O
+life	O
+
+how	O
+old	O
+is	O
+steven	O
+spielberg	O
+
+when	O
+steven	O
+spielberg	O
+born	O
+
+what	O
+is	O
+tom	O
+cruise	O
+'s	O
+birthday	O
+
+when	O
+was	O
+tom	O
+cruise	O
+born	O
+
+when	O
+is	O
+will	O
+ferrell	O
+'s	O
+birthday	O
+
+how	O
+old	O
+is	O
+kristen	O
+stewart	O
+
+how	O
+much	O
+did	O
+it	O
+cost	O
+to	O
+produce	O
+the	O
+dark	O
+night	TIME
+
+how	O
+much	O
+did	O
+the	O
+dark	O
+night	TIME
+cost	O
+to	O
+produce	O
+
+what	O
+was	O
+the	O
+dark	O
+night	TIME
+budget	O
+
+the	O
+godfather	O
+'s	O
+budget	O
+
+budget	O
+for	O
+the	O
+blind	O
+side	O
+
+i	O
+want	O
+to	O
+look	O
+up	O
+the	O
+budget	O
+of	O
+freedom	O
+writers	O
+
+i	O
+would	O
+like	O
+to	O
+look	O
+up	O
+the	O
+budget	O
+of	O
+freedom	O
+writers	O
+
+look	O
+for	O
+the	O
+budget	O
+of	O
+freedom	O
+writers	O
+
+how	O
+much	O
+was	O
+hunger	O
+games	O
+made	O
+for	O
+
+how	O
+much	O
+was	O
+the	O
+budget	O
+for	O
+the	O
+hunger	O
+games	O
+
+how	O
+much	O
+did	O
+black	O
+swan	O
+cost	O
+
+how	O
+much	O
+did	O
+hollywood	O
+pay	O
+for	O
+black	O
+swan	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+black	O
+swan	O
+
+what	O
+were	O
+production	O
+costs	O
+for	O
+black	O
+swan	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+wrong	O
+turn	O
+
+search	O
+for	O
+the	O
+budget	O
+of	O
+step	O
+up	O
+
+budget	O
+for	O
+titanic	O
+
+budget	O
+for	O
+titanic	O
+
+budget	O
+for	O
+titanic	O
+movie	O
+
+how	O
+much	O
+did	O
+titanic	O
+cost	O
+to	O
+make	O
+
+how	O
+much	O
+was	O
+the	O
+total	O
+budget	O
+for	O
+the	O
+titanic	O
+
+what	O
+was	O
+titanic	O
+'s	O
+budget	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+courageous	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+facing	O
+the	O
+giants	O
+
+budget	O
+of	O
+heroine	O
+
+finding	O
+the	O
+buget	O
+of	O
+heroine	O
+
+looking	O
+of	O
+movie	O
+heroine	O
+'s	O
+budget	O
+
+what	O
+is	O
+the	O
+buget	O
+of	O
+movie	O
+heroine	O
+
+how	O
+much	O
+did	O
+it	O
+cost	O
+to	O
+make	O
+jurassic	O
+park	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+jurassic	O
+park	O
+
+how	O
+much	O
+did	O
+james	O
+cameron	O
+have	O
+to	O
+spend	O
+to	O
+make	O
+avatar	O
+
+avatar	O
+must	O
+have	O
+cost	O
+a	O
+bundle	O
+
+did	O
+the	O
+avatar	O
+movie	O
+have	O
+a	O
+budget	O
+for	O
+spending	O
+
+get	O
+me	O
+info	O
+on	O
+the	O
+budget	O
+for	O
+avatar	O
+
+how	O
+much	O
+did	O
+it	O
+cost	O
+to	O
+make	O
+avatar	O
+
+how	O
+much	O
+did	O
+the	O
+studio	O
+spend	O
+to	O
+make	O
+avatar	O
+
+how	O
+much	O
+money	O
+was	O
+budgeted	O
+for	O
+the	O
+avatar	O
+movie	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+budget	O
+of	O
+the	O
+movie	O
+avatar	O
+
+i	O
+want	O
+to	O
+know	O
+the	O
+avatar	O
+'s	O
+budget	O
+
+list	O
+the	O
+budget	O
+for	O
+avatar	O
+
+show	O
+me	O
+what	O
+was	O
+the	O
+budget	O
+of	O
+the	O
+movie	O
+avatar	O
+
+what	O
+did	O
+the	O
+movie	O
+avatar	O
+cost	O
+to	O
+make	O
+
+what	O
+was	O
+avatar	O
+'s	O
+budget	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+avatar	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+avatar	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+avatar	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+the	O
+movie	O
+avatar	O
+
+what	O
+was	O
+the	O
+budget	O
+of	O
+the	O
+movie	O
+avatar	O
+
+how	O
+much	O
+did	O
+the	O
+movie	O
+avatar	O
+cost	O
+
+how	O
+much	O
+money	O
+was	O
+spent	O
+on	O
+batman	TITLE
+
+tell	O
+me	O
+the	O
+budget	O
+for	O
+the	O
+movie	O
+batman	TITLE
+
+how	O
+much	O
+did	O
+batman	TITLE
+begins	O
+cost	O
+
+how	O
+much	O
+was	O
+it	O
+to	O
+make	O
+the	O
+film	O
+batman	TITLE
+begins	O
+
+budget	O
+for	O
+the	O
+avengers	O
+
+how	O
+much	O
+did	O
+it	O
+take	O
+to	O
+make	O
+the	O
+avengers	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+the	O
+avengers	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+citizen	O
+kane	O
+
+find	O
+out	O
+the	O
+budget	O
+of	O
+cujo	O
+
+budget	O
+for	O
+gone	O
+with	O
+the	O
+wind	O
+
+gone	O
+with	O
+the	O
+wind	O
+'s	O
+budget	O
+information	O
+please	O
+
+gone	O
+with	O
+the	O
+wind	O
+'s	O
+budget	O
+
+show	O
+me	O
+the	O
+budget	O
+for	O
+the	O
+movie	O
+
+budget	O
+for	O
+the	O
+hulk	O
+
+budget	O
+request	O
+for	O
+my	O
+big	O
+fat	O
+greek	NATIONALITY
+wedding	O
+
+find	O
+the	O
+budget	O
+of	O
+my	O
+big	O
+fat	O
+greek	NATIONALITY
+wedding	O
+
+how	O
+much	O
+did	O
+my	O
+big	O
+fat	O
+greek	NATIONALITY
+wedding	O
+cost	O
+
+what	O
+was	O
+the	O
+budget	O
+of	O
+my	O
+big	O
+fat	O
+greek	NATIONALITY
+wedding	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+old	O
+school	O
+
+what	O
+was	O
+the	O
+bourne	O
+identity	O
+'s	O
+budget	O
+
+how	O
+much	O
+did	O
+it	O
+cost	O
+to	O
+produce	O
+the	O
+deer	O
+hunter	TITLE
+
+provide	O
+the	O
+cost	O
+for	O
+producing	O
+the	O
+deer	O
+hunter	TITLE
+
+will	O
+you	O
+show	O
+the	O
+cost	O
+to	O
+produce	O
+the	O
+deer	O
+hunter	TITLE
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+the	O
+hobbit	O
+
+can	O
+i	O
+see	O
+what	O
+the	O
+lion	O
+king	TITLE
+'s	O
+budget	O
+was	O
+
+show	O
+me	O
+the	O
+lion	O
+king	TITLE
+'s	O
+budget	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+passion	O
+of	O
+the	O
+christ	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+top	O
+gun	O
+
+what	O
+was	O
+top	O
+gun	O
+'s	O
+budget	O
+
+who	O
+does	O
+ellen	O
+degeneres	O
+play	O
+in	O
+finding	O
+nemo	O
+
+what	O
+character	O
+did	O
+tom	O
+hanks	O
+play	O
+in	O
+apollo	O
+thirteen	NUMBER
+
+lion	O
+king	TITLE
+characters	O
+
+what	O
+character	O
+did	O
+will	O
+smith	O
+play	O
+in	O
+hitch	O
+
+what	O
+role	O
+did	O
+sarah	O
+polley	O
+play	O
+in	O
+go	O
+
+what	O
+was	O
+kevin	O
+james	O
+role	O
+in	O
+hitch	O
+
+who	O
+directed	O
+the	O
+music	O
+in	O
+gone	O
+with	O
+the	O
+wind	O
+
+show	O
+me	O
+the	O
+music	O
+composer	TITLE
+for	O
+the	O
+movie	O
+
+who	O
+directed	O
+the	O
+musical	O
+score	O
+in	O
+barfi	O
+
+how	O
+many	O
+films	O
+did	O
+ed	O
+harris	O
+do	O
+with	O
+tom	O
+hanks	O
+
+how	O
+many	O
+movies	O
+were	O
+released	O
+on	O
+nine	NUMBER
+twenty	TIME
+eight	TIME
+twelve	TIME
+
+how	O
+many	O
+movies	O
+were	O
+filmed	O
+in	O
+asia	O
+
+how	O
+many	O
+films	O
+directed	O
+by	O
+barbra	O
+streisand	O
+have	O
+been	O
+shot	O
+in	O
+the	O
+czech	COUNTRY
+republic	COUNTRY
+
+how	O
+many	O
+movies	O
+has	O
+albert	O
+ruddy	O
+produced	O
+
+how	O
+many	O
+movies	O
+has	O
+lionsgate	O
+done	O
+
+how	O
+many	O
+movies	O
+did	O
+richard	O
+lester	O
+direct	O
+
+how	O
+many	O
+films	O
+has	O
+taye	O
+diggs	O
+been	O
+in	O
+
+how	O
+many	O
+movies	O
+has	O
+ray	O
+stark	O
+produced	O
+
+how	O
+many	O
+producers	O
+did	O
+the	O
+movie	O
+the	O
+hitch	O
+have	O
+
+how	O
+many	O
+movies	O
+has	O
+charles	O
+vidor	O
+directed	O
+
+how	O
+many	O
+movies	O
+has	O
+kristen	O
+stewart	O
+made	O
+
+i	O
+wonder	O
+how	O
+many	O
+movies	O
+alfred	O
+hitchcock	O
+was	O
+in	O
+that	O
+he	O
+directed	O
+
+how	O
+many	O
+movies	O
+has	O
+steven	O
+spielberg	O
+directed	O
+
+how	O
+many	O
+films	O
+did	O
+robert	O
+wise	O
+direct	O
+
+how	O
+many	O
+movies	O
+has	O
+tom	O
+cruise	O
+starred	O
+in	O
+
+how	O
+many	O
+movies	O
+did	O
+scorsese	O
+direct	O
+
+how	O
+many	O
+movies	O
+has	O
+angelina	O
+jolie	O
+been	O
+in	O
+
+how	O
+many	O
+movies	O
+did	O
+victor	O
+fleming	O
+direct	O
+
+how	O
+many	O
+movies	O
+has	O
+woody	O
+allen	O
+directed	O
+
+how	O
+many	O
+movies	O
+has	O
+darla	O
+anderson	O
+produced	O
+
+how	O
+many	O
+films	O
+did	O
+alfred	O
+hitchcock	O
+direct	O
+
+how	O
+many	O
+movies	O
+did	O
+hitchcock	O
+direct	O
+
+how	O
+many	O
+movies	O
+has	O
+tom	O
+hanks	O
+starred	O
+in	O
+
+how	O
+many	O
+woody	O
+allen	O
+movies	O
+starred	O
+diane	O
+keaton	O
+
+how	O
+many	O
+films	O
+has	O
+ed	O
+harris	O
+starred	O
+in	O
+
+how	O
+many	O
+movies	O
+are	O
+made	O
+in	O
+the	O
+united	COUNTRY
+states	COUNTRY
+
+where	O
+was	O
+footnote	O
+made	O
+
+what	O
+country	O
+did	O
+the	O
+flowers	O
+of	O
+war	CAUSE_OF_DEATH
+come	O
+from	O
+
+country	O
+of	O
+le	O
+havre	O
+
+what	O
+country	O
+does	O
+the	O
+movie	O
+kati	O
+patang	O
+comes	O
+from	O
+
+show	O
+me	O
+the	O
+name	O
+of	O
+the	O
+country	O
+for	O
+the	O
+movie	O
+thoda	O
+pyaar	O
+thoda	O
+magic	O
+
+can	O
+you	O
+tell	O
+me	O
+which	O
+country	O
+the	O
+movie	O
+kati	O
+patang	O
+comes	O
+from	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+name	O
+of	O
+the	O
+country	O
+to	O
+which	O
+the	O
+movie	O
+kati	O
+patang	O
+belongs	O
+to	O
+
+show	O
+me	O
+the	O
+name	O
+of	O
+the	O
+country	O
+from	O
+which	O
+the	O
+movie	O
+kati	O
+patang	O
+comes	O
+
+can	O
+you	O
+tell	O
+me	O
+which	O
+country	O
+does	O
+thoda	O
+pyaar	O
+thoda	O
+magic	O
+belongs	O
+to	O
+
+give	O
+me	O
+the	O
+name	O
+of	O
+the	O
+country	O
+for	O
+the	O
+movie	O
+thoda	O
+pyaar	O
+thoda	O
+magic	O
+
+i	O
+need	O
+to	O
+know	O
+which	O
+country	O
+does	O
+the	O
+movie	O
+thoda	O
+pyaar	O
+thoda	O
+magic	O
+belongs	O
+to	O
+
+country	O
+that	O
+made	O
+a	O
+separation	O
+
+what	O
+country	O
+is	O
+godzilla	O
+
+country	O
+of	O
+weekend	DATE
+
+i	O
+would	O
+like	O
+to	O
+search	O
+for	O
+what	O
+country	O
+cell	O
+21	NUMBER
+is	O
+from	O
+
+look	O
+for	O
+what	O
+country	O
+cell	O
+21	NUMBER
+is	O
+from	O
+
+what	O
+country	O
+is	O
+cell	O
+21	NUMBER
+from	O
+
+what	O
+country	O
+did	O
+black	O
+beauty	O
+come	O
+from	O
+
+i	O
+need	O
+to	O
+know	O
+where	O
+trainspotting	O
+comes	O
+from	O
+
+tell	O
+me	O
+where	O
+is	O
+trainspotting	O
+from	O
+
+which	O
+country	O
+made	O
+elizabeth	O
+
+where	O
+was	O
+trainspotting	O
+made	O
+
+what	O
+country	O
+did	O
+shindler	O
+'s	O
+list	O
+come	O
+from	O
+
+which	O
+country	O
+is	O
+this	O
+movie	O
+from	O
+
+show	O
+me	O
+where	O
+black	O
+swan	O
+is	O
+from	O
+
+where	O
+was	O
+black	O
+swan	O
+produced	O
+
+what	O
+is	O
+the	O
+origin	O
+of	O
+casa	O
+blanca	O
+
+origin	O
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+lion	O
+king	TITLE
+filmed	O
+at	O
+
+where	O
+was	O
+rocky	O
+four	NUMBER
+filmed	O
+
+origin	O
+of	O
+spanglish	O
+
+movie	O
+made	O
+where	O
+
+what	O
+country	O
+is	O
+movie	O
+from	O
+
+in	O
+what	O
+country	O
+was	O
+movie	O
+made	O
+
+where	O
+was	O
+movie	O
+made	O
+
+is	O
+this	O
+a	O
+foreign	O
+film	O
+
+is	O
+this	O
+a	O
+foreign	O
+film	O
+
+what	O
+country	O
+was	O
+kinky	O
+boots	O
+made	O
+in	O
+
+what	O
+country	O
+is	O
+outside	O
+the	O
+law	O
+from	O
+
+what	O
+country	O
+produced	O
+the	O
+movie	O
+mirror	O
+
+what	O
+country	O
+does	O
+mirror	O
+come	O
+from	O
+
+what	O
+country	O
+does	O
+les	O
+miserable	O
+come	O
+from	O
+
+what	O
+is	O
+the	O
+origin	O
+country	O
+of	O
+mirror	O
+
+in	O
+what	O
+country	O
+was	O
+the	O
+movie	O
+mirror	O
+produced	O
+
+where	O
+was	O
+the	O
+movie	O
+mirror	O
+produced	O
+
+when	O
+can	O
+i	O
+see	O
+top	O
+gun	O
+
+when	O
+was	O
+top	O
+gun	O
+released	O
+
+when	O
+does	O
+top	O
+gun	O
+come	O
+out	O
+
+when	O
+the	O
+movie	O
+top	O
+gun	O
+was	O
+released	O
+
+when	O
+did	O
+richard	O
+lester	O
+start	O
+directing	O
+
+when	O
+was	O
+in	O
+july	DATE
+released	O
+
+give	O
+me	O
+the	O
+release	O
+date	O
+for	O
+the	O
+little	O
+mermaid	O
+
+what	O
+date	O
+was	O
+spider	O
+released	O
+
+can	O
+you	O
+tell	O
+me	O
+when	O
+24	NUMBER
+will	O
+be	O
+released	O
+
+do	O
+you	O
+know	O
+when	O
+24	NUMBER
+will	O
+be	O
+released	O
+
+i	O
+want	O
+to	O
+know	O
+when	O
+24	NUMBER
+will	O
+be	O
+released	O
+
+when	O
+will	O
+24	NUMBER
+be	O
+released	O
+
+how	O
+will	O
+i	O
+know	O
+when	O
+the	O
+movie	O
+gone	O
+with	O
+the	O
+wind	O
+will	O
+be	O
+released	O
+
+please	O
+tell	O
+me	O
+when	O
+was	O
+the	O
+movie	O
+gone	O
+with	O
+the	O
+wind	O
+released	O
+
+please	O
+tell	O
+me	O
+when	O
+will	O
+the	O
+movie	O
+gone	O
+with	O
+the	O
+wind	O
+will	O
+be	O
+released	O
+
+when	O
+will	O
+the	O
+movie	O
+gone	O
+with	O
+the	O
+wind	O
+be	O
+released	O
+
+do	O
+you	O
+know	O
+when	O
+this	O
+movie	O
+is	O
+available	O
+
+what	O
+year	DURATION
+was	O
+the	O
+movie	O
+released	O
+
+which	O
+decade	DURATION
+did	O
+the	O
+movie	O
+come	O
+out	O
+
+which	O
+month	DURATION
+was	O
+the	O
+movie	O
+released	O
+
+release	O
+day	DURATION
+for	O
+the	O
+movie	O
+
+may	O
+i	O
+have	O
+the	O
+date	O
+of	O
+release	O
+for	O
+this	O
+movie	O
+
+release	O
+date	O
+for	O
+the	O
+vow	O
+
+when	O
+was	O
+black	O
+beauty	O
+released	O
+
+titanic	O
+release	O
+date	O
+
+when	O
+did	O
+lionsgate	O
+start	O
+making	O
+movies	O
+
+search	O
+when	O
+the	O
+birds	O
+will	O
+be	O
+released	O
+
+what	O
+year	DURATION
+did	O
+spielberg	O
+start	O
+directing	O
+movies	O
+
+the	O
+godfather	O
+came	O
+out	O
+when	O
+
+when	O
+can	O
+i	O
+see	O
+the	O
+great	O
+gatsby	O
+
+when	O
+will	O
+the	O
+great	O
+gatsby	O
+be	O
+out	O
+
+when	O
+will	O
+the	O
+great	O
+gatsby	O
+be	O
+released	O
+
+when	O
+will	O
+jaws	O
+be	O
+released	O
+
+when	O
+will	O
+the	O
+hobbit	O
+be	O
+released	O
+
+what	O
+year	DURATION
+was	O
+the	O
+hobbit	O
+relased	O
+
+what	O
+year	DURATION
+did	O
+the	O
+movie	O
+grease	O
+open	O
+
+movie	O
+little	O
+women	O
+release	O
+date	O
+is	O
+when	O
+
+release	O
+date	O
+for	O
+little	O
+women	O
+
+when	O
+was	O
+the	O
+movie	O
+title	O
+little	O
+women	O
+released	O
+
+can	O
+you	O
+please	O
+tell	O
+me	O
+when	O
+was	O
+karate	O
+kid	O
+released	O
+
+karate	O
+kid	O
+release	O
+date	O
+
+find	O
+release	O
+date	O
+for	O
+karate	O
+kid	O
+
+when	O
+did	O
+dirty	O
+dancing	O
+come	O
+out	O
+
+when	O
+was	O
+dirty	O
+dancing	O
+released	O
+
+what	O
+year	DURATION
+was	O
+dirty	O
+dancing	O
+released	O
+
+when	O
+was	O
+dirty	O
+dancing	O
+released	O
+
+when	O
+was	O
+overboard	O
+released	O
+
+what	O
+year	DURATION
+did	O
+moon	O
+over	O
+parador	O
+come	O
+out	O
+
+release	O
+date	O
+for	O
+batman	TITLE
+
+when	O
+did	O
+jurassic	O
+park	O
+get	O
+released	O
+
+lion	O
+king	TITLE
+release	O
+yr	DURATION
+
+when	O
+was	O
+while	O
+you	O
+were	O
+sleeping	O
+released	O
+
+what	O
+year	DURATION
+was	O
+ed	O
+harris	O
+in	O
+in	O
+apollo	O
+thirteen	NUMBER
+
+what	O
+was	O
+the	O
+date	O
+when	O
+welcome	O
+to	O
+the	O
+dollhouse	O
+was	O
+released	O
+
+release	O
+date	O
+for	O
+toy	O
+story	O
+
+what	O
+was	O
+the	O
+relase	O
+date	O
+for	O
+men	O
+in	O
+black	O
+
+when	O
+was	O
+life	O
+is	O
+beautiful	O
+released	O
+
+when	O
+was	O
+life	O
+is	O
+beautiful	O
+released	O
+
+when	O
+life	O
+is	O
+beautiful	O
+was	O
+released	O
+
+what	O
+is	O
+possessed	O
+realese	O
+date	O
+
+look	O
+up	O
+the	O
+release	O
+date	O
+of	O
+resident	O
+evil	O
+
+what	O
+is	O
+resident	O
+evil	O
+'s	O
+release	O
+date	O
+
+when	O
+did	O
+resident	O
+evil	O
+come	O
+out	O
+
+when	O
+did	O
+resident	O
+evil	O
+debut	O
+in	O
+theaters	O
+
+when	O
+did	O
+theaters	O
+show	O
+resident	O
+evil	O
+
+when	O
+was	O
+the	O
+release	O
+date	O
+for	O
+the	O
+movie	O
+resident	O
+evil	O
+
+when	O
+was	O
+resident	O
+evil	O
+first	ORDINAL
+in	O
+theatres	O
+
+when	O
+was	O
+the	O
+scooby	O
+do	O
+movie	O
+released	O
+
+when	O
+was	O
+finding	O
+nemo	O
+released	O
+
+release	O
+date	O
+for	O
+finding	O
+nemo	O
+
+when	O
+was	O
+finding	O
+nemo	O
+released	O
+
+when	O
+was	O
+finding	O
+nemo	O
+released	O
+
+in	O
+which	O
+date	O
+varsham	O
+movie	O
+released	O
+
+in	O
+which	O
+month	DURATION
+varsham	O
+movie	O
+released	O
+
+release	O
+twilight	TIME
+
+frankenstein	O
+release	O
+
+frankenstein	O
+release	O
+date	O
+
+when	O
+will	O
+the	O
+movie	O
+frankenstein	O
+be	O
+released	O
+
+when	O
+was	O
+hum	O
+tum	O
+relesed	O
+
+i	O
+want	O
+to	O
+know	O
+when	O
+step	O
+up	O
+was	O
+released	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+when	O
+the	O
+movie	O
+step	O
+up	O
+was	O
+released	O
+
+when	O
+was	O
+step	O
+up	O
+released	O
+
+when	O
+was	O
+the	O
+movie	O
+step	O
+up	O
+released	O
+
+when	O
+did	O
+happiness	O
+get	O
+released	O
+
+when	O
+will	O
+paranormal	O
+activity	O
+be	O
+released	O
+
+avatar	O
+realease	O
+date	O
+
+avatar	O
+release	O
+
+what	O
+was	O
+the	O
+release	O
+date	O
+for	O
+avatar	O
+
+when	O
+did	O
+the	O
+movie	O
+avatar	O
+get	O
+released	O
+
+when	O
+avatar	O
+released	O
+
+when	O
+was	O
+avatar	O
+released	O
+
+i	O
+need	O
+to	O
+know	O
+when	O
+was	O
+the	O
+movie	O
+avatar	O
+released	O
+
+what	O
+day	DURATION
+avatar	O
+released	O
+
+what	O
+was	O
+the	O
+release	O
+date	O
+of	O
+the	O
+movie	O
+avatar	O
+
+when	O
+was	O
+avatar	O
+released	O
+
+what	O
+date	O
+was	O
+avatar	O
+released	O
+
+when	O
+was	O
+black	O
+swan	O
+in	O
+the	O
+theatre	O
+
+when	O
+was	O
+black	O
+swan	O
+released	O
+
+how	O
+long	O
+has	O
+black	O
+swan	O
+been	O
+out	O
+
+find	O
+release	O
+date	O
+of	O
+the	O
+help	O
+
+when	O
+can	O
+the	O
+help	O
+be	O
+released	O
+
+tell	O
+me	O
+when	O
+compliance	O
+came	O
+out	O
+
+when	O
+is	O
+sinister	O
+hitting	O
+theaters	O
+
+release	O
+date	O
+for	O
+the	O
+hunger	O
+games	O
+
+when	O
+was	O
+the	O
+first	ORDINAL
+hunger	O
+games	O
+shown	O
+
+when	O
+was	O
+avengers	O
+released	O
+
+when	O
+was	O
+lawless	O
+released	O
+
+release	O
+date	O
+of	O
+snow	O
+white	O
+and	O
+the	O
+huntsman	O
+
+release	O
+date	O
+for	O
+amazing	O
+spiderman	O
+
+when	O
+will	O
+the	O
+next	O
+amazing	O
+spiderman	O
+come	O
+out	O
+
+when	O
+was	O
+the	O
+amazing	O
+spiderman	O
+released	O
+in	O
+the	O
+movie	O
+theatres	O
+
+search	O
+for	O
+the	O
+release	O
+date	O
+of	O
+vulgaria	O
+
+when	O
+did	O
+vulgaria	O
+come	O
+out	O
+
+when	O
+was	O
+the	O
+movie	O
+vulgaria	O
+released	O
+
+what	O
+date	O
+did	O
+vulgaria	O
+open	O
+
+when	O
+did	O
+dredd	O
+come	O
+out	O
+
+what	O
+year	DURATION
+was	O
+the	O
+godfather	O
+released	O
+
+release	O
+date	O
+for	O
+the	O
+watch	O
+
+when	O
+was	O
+paranorman	O
+be	O
+released	O
+
+what	O
+year	DURATION
+was	O
+the	O
+campaign	O
+released	O
+
+when	O
+was	O
+the	O
+campaign	O
+released	O
+
+when	O
+was	O
+expendables	O
+2	NUMBER
+released	O
+
+when	O
+is	O
+the	O
+release	O
+date	O
+of	O
+resident	O
+evil	O
+:	O
+retribution	O
+
+what	O
+is	O
+the	O
+calendar	O
+date	O
+release	O
+for	O
+looper	TITLE
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+release	O
+date	O
+of	O
+the	O
+movie	O
+barfi	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+release	O
+date	O
+of	O
+the	O
+movie	O
+barfi	O
+
+what	O
+is	O
+the	O
+release	O
+date	O
+of	O
+the	O
+movie	O
+barfi	O
+
+show	O
+me	O
+the	O
+release	O
+date	O
+of	O
+the	O
+movie	O
+barfi	O
+
+find	O
+the	O
+release	O
+date	O
+for	O
+heroine	O
+
+please	O
+find	O
+the	O
+release	O
+date	O
+of	O
+heroine	O
+
+what	O
+is	O
+the	O
+release	O
+date	O
+of	O
+heroine	O
+
+when	O
+was	O
+herione	O
+released	O
+
+when	O
+was	O
+the	O
+movie	O
+heroine	O
+released	O
+
+when	O
+was	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+released	O
+
+when	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+showing	O
+
+what	O
+is	O
+the	O
+release	O
+date	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+is	O
+iron	O
+man	O
+3	NUMBER
+in	O
+theatres	O
+yet	O
+
+when	O
+is	O
+iron	O
+man	O
+3	NUMBER
+coming	O
+out	O
+
+when	O
+will	O
+iron	O
+man	O
+3	NUMBER
+be	O
+out	O
+in	O
+movie	O
+theatres	O
+
+show	O
+me	O
+movies	O
+listed	O
+by	O
+directors	O
+
+director	TITLE
+for	O
+gone	O
+with	O
+the	O
+wind	O
+
+show	O
+me	O
+the	O
+directors	O
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+are	O
+the	O
+directors	O
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+directed	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+directed	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+directed	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+directed	O
+the	O
+movie	O
+
+show	O
+me	O
+details	O
+about	O
+the	O
+directors	O
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+directed	O
+black	O
+swan	O
+
+who	O
+'s	O
+the	O
+director	TITLE
+of	O
+pi	O
+
+who	O
+made	O
+batman	TITLE
+the	O
+dark	O
+knight	O
+
+tell	O
+me	O
+about	O
+inception	O
+'s	O
+director	TITLE
+
+show	O
+me	O
+the	O
+director	TITLE
+of	O
+the	O
+film	O
+the	O
+dark	O
+knight	O
+
+tell	O
+me	O
+the	O
+director	TITLE
+of	O
+the	O
+film	O
+the	O
+dark	O
+knight	O
+
+who	O
+directed	O
+the	O
+movie	O
+the	O
+dark	O
+knight	O
+
+who	O
+filmed	O
+the	O
+dark	O
+knight	O
+
+who	O
+is	O
+the	O
+person	O
+that	O
+directed	O
+the	O
+film	O
+the	O
+dark	O
+knight	O
+
+which	O
+director	TITLE
+directed	O
+a	O
+hard	O
+day	DURATION
+'s	O
+night	TIME
+
+who	O
+directed	O
+a	O
+hard	O
+day	DURATION
+'s	O
+night	TIME
+
+who	O
+directed	O
+a	O
+hard	O
+day	DURATION
+'s	O
+night	TIME
+
+who	O
+directed	O
+hard	O
+days	DATE
+night	DATE
+
+who	O
+directed	O
+cast	O
+away	O
+
+show	O
+me	O
+the	O
+director	TITLE
+of	O
+forest	O
+gump	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+forest	O
+gump	O
+
+who	O
+is	O
+director	TITLE
+of	O
+sleepless	O
+in	O
+seattle	O
+
+who	O
+directed	O
+the	O
+movie	O
+opening	O
+night	TIME
+
+who	O
+directed	O
+the	O
+movie	O
+men	O
+in	O
+black	O
+3	NUMBER
+
+who	O
+was	O
+the	O
+director	TITLE
+in	O
+men	O
+in	O
+black	O
+3	NUMBER
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+director	TITLE
+of	O
+the	O
+titanic	O
+
+director	TITLE
+for	O
+titanic	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+titanic	O
+
+display	O
+director	TITLE
+of	O
+the	O
+movie	O
+avengers	O
+
+director	TITLE
+of	O
+the	O
+avengers	O
+
+search	O
+director	TITLE
+of	O
+the	O
+exorcist	O
+
+find	O
+the	O
+director	TITLE
+for	O
+the	O
+social	O
+network	O
+
+find	O
+the	O
+director	TITLE
+of	O
+big	O
+
+who	O
+is	O
+the	O
+director	TITLE
+of	O
+ghost	O
+busters	O
+
+find	O
+the	O
+director	TITLE
+for	O
+pretty	O
+woman	O
+
+who	O
+made	O
+godzilla	O
+
+rocky	O
+director	TITLE
+
+who	O
+directed	O
+hope	O
+floats	O
+
+avatar	O
+was	O
+directed	O
+by	O
+whom	O
+
+director	TITLE
+of	O
+avatar	O
+
+which	O
+director	TITLE
+directed	O
+avatar	O
+
+who	O
+did	O
+avatar	O
+
+who	O
+directed	O
+avatar	O
+
+who	O
+directed	O
+avatar	O
+
+who	O
+directed	O
+avatar	O
+
+who	O
+directed	O
+the	O
+film	O
+avatar	O
+
+who	O
+directed	O
+the	O
+movie	O
+called	O
+avatar	O
+
+who	O
+made	O
+the	O
+movie	O
+avatar	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+avatar	O
+
+who	O
+directed	O
+star	O
+wars	O
+four	NUMBER
+
+who	O
+directed	O
+the	O
+movie	O
+in	O
+july	DATE
+
+who	O
+made	O
+steel	O
+magnolias	O
+
+the	O
+silence	O
+of	O
+the	O
+lambs	O
+director	TITLE
+
+director	TITLE
+of	O
+the	O
+incredibles	O
+
+gilda	O
+director	TITLE
+
+list	O
+gilda	O
+director	TITLE
+
+search	O
+director	TITLE
+for	O
+gilda	O
+
+search	O
+gilda	O
+director	TITLE
+
+the	O
+movie	O
+gilda	O
+director	TITLE
+
+who	O
+directed	O
+gilda	O
+
+who	O
+directed	O
+gilda	O
+
+who	O
+directed	O
+gilda	O
+
+who	O
+directed	O
+the	O
+movie	O
+gilda	O
+
+goodfellas	O
+director	TITLE
+
+who	O
+made	O
+field	O
+of	O
+dreams	O
+
+who	O
+made	O
+the	O
+movie	O
+field	O
+of	O
+dreams	O
+
+who	O
+made	O
+the	O
+movie	O
+field	O
+of	O
+dreams	O
+possible	O
+
+can	O
+i	O
+please	O
+see	O
+more	O
+details	O
+for	O
+the	O
+director	TITLE
+of	O
+finding	O
+nemo	O
+
+find	O
+the	O
+director	TITLE
+for	O
+finding	O
+nemo	O
+
+i	O
+want	O
+to	O
+know	O
+the	O
+director	TITLE
+of	O
+finding	O
+nemo	O
+
+i	O
+want	O
+to	O
+know	O
+who	O
+directed	O
+finding	O
+nemo	O
+
+show	O
+me	O
+finding	O
+nemo	O
+director	TITLE
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+finding	O
+nemo	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+film	O
+finding	O
+nemo	O
+
+who	O
+directed	O
+hitch	O
+
+who	O
+made	O
+hitch	O
+
+director	TITLE
+for	O
+anne	O
+of	O
+green	O
+gables	O
+
+search	O
+director	TITLE
+of	O
+the	O
+movie	O
+platoon	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+movie	O
+varsham	O
+
+who	O
+directed	O
+grizzly	O
+man	O
+
+who	O
+directed	O
+to	O
+kill	O
+a	O
+mockingbird	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+e	O
+t	O
+
+find	O
+the	O
+director	TITLE
+for	O
+et	O
+
+who	O
+made	O
+et	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+jaws	O
+
+look	O
+up	O
+info	O
+about	O
+jurassic	O
+park	O
+'s	O
+director	TITLE
+
+who	O
+directed	O
+jurassic	O
+park	O
+
+who	O
+directed	O
+jurassic	O
+park	O
+
+who	O
+directed	O
+jurassic	O
+park	O
+
+old	O
+man	O
+director	TITLE
+
+can	O
+you	O
+find	O
+out	O
+who	O
+directed	O
+the	O
+movie	O
+batman	TITLE
+
+can	O
+you	O
+tell	O
+me	O
+who	O
+is	O
+the	O
+director	TITLE
+of	O
+batman	TITLE
+
+who	O
+directed	O
+batman	TITLE
+
+who	O
+is	O
+the	O
+director	TITLE
+of	O
+batman	TITLE
+
+looper	TITLE
+directors	O
+
+who	O
+directed	O
+the	O
+perfect	O
+storm	CAUSE_OF_DEATH
+
+who	O
+directed	O
+dirty	O
+dancing	O
+
+director	TITLE
+for	O
+pride	O
+and	O
+prejudice	O
+
+who	O
+directed	O
+the	O
+movie	O
+the	O
+thing	O
+called	O
+love	O
+
+director	TITLE
+of	O
+twilight	TIME
+
+twilight	TIME
+was	O
+directed	O
+by	O
+whom	O
+
+who	O
+else	O
+directs	O
+zombie	O
+movies	O
+
+director	TITLE
+of	O
+hum	O
+tum	O
+
+director	TITLE
+of	O
+the	O
+movie	O
+hum	O
+tum	O
+
+find	O
+the	O
+director	TITLE
+of	O
+hum	O
+tum	O
+
+look	O
+for	O
+the	O
+director	TITLE
+of	O
+hum	O
+tum	O
+
+director	TITLE
+of	O
+the	O
+cabin	O
+in	O
+the	O
+woods	O
+
+i	O
+am	O
+interested	O
+in	O
+who	O
+directed	O
+cabin	O
+in	O
+the	O
+woods	O
+
+show	O
+me	O
+who	O
+directed	O
+cabin	O
+in	O
+the	O
+woods	O
+
+who	O
+directed	O
+the	O
+movie	O
+cabin	O
+in	O
+the	O
+woods	O
+
+who	O
+directed	O
+soul	O
+surfer	O
+
+who	O
+directed	O
+the	O
+sandlot	O
+
+which	O
+director	TITLE
+made	O
+a	O
+comedy	O
+
+director	TITLE
+of	O
+halloween	DATE
+
+find	O
+the	O
+director	TITLE
+of	O
+step	O
+up	O
+
+search	O
+for	O
+the	O
+director	TITLE
+of	O
+step	O
+up	O
+
+search	O
+for	O
+the	O
+director	TITLE
+of	O
+step	O
+up	O
+
+i	O
+need	O
+to	O
+know	O
+who	O
+directed	O
+black	O
+swan	O
+
+i	O
+want	O
+to	O
+look	O
+for	O
+the	O
+director	TITLE
+of	O
+freedom	O
+writers	O
+
+i	O
+would	O
+like	O
+to	O
+look	O
+for	O
+the	O
+director	TITLE
+of	O
+freedom	O
+writers	O
+
+who	O
+directed	O
+the	O
+movie	O
+titanic	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+the	O
+mechanic	TITLE
+
+find	O
+the	O
+director	TITLE
+of	O
+mask	O
+
+director	TITLE
+of	O
+the	O
+hulk	O
+
+did	O
+robert	O
+wise	O
+direct	O
+the	O
+sound	O
+of	O
+music	O
+
+was	O
+robert	O
+wise	O
+the	O
+only	O
+director	TITLE
+of	O
+the	O
+sound	O
+of	O
+music	O
+
+who	O
+directed	O
+the	O
+sound	O
+of	O
+music	O
+
+who	O
+directed	O
+the	O
+sound	O
+of	O
+music	O
+
+who	O
+directed	O
+the	O
+sound	O
+of	O
+music	O
+
+what	O
+director	TITLE
+shot	O
+the	O
+1st	ORDINAL
+lord	O
+of	O
+the	O
+rings	O
+film	O
+
+who	O
+directed	O
+return	O
+
+who	O
+is	O
+the	O
+director	TITLE
+of	O
+return	O
+
+search	O
+for	O
+the	O
+name	O
+of	O
+the	O
+director	TITLE
+of	O
+return	O
+
+what	O
+was	O
+the	O
+name	O
+of	O
+the	O
+director	TITLE
+in	O
+men	O
+in	O
+black	O
+3	NUMBER
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+avengers	O
+
+find	O
+the	O
+name	O
+of	O
+the	O
+director	TITLE
+of	O
+chips	O
+
+name	O
+of	O
+director	TITLE
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+name	O
+the	O
+director	TITLE
+of	O
+sleepless	O
+in	O
+seattle	O
+
+find	O
+name	O
+of	O
+director	TITLE
+of	O
+the	O
+movie	O
+platoon	O
+
+get	O
+me	O
+the	O
+name	O
+of	O
+who	O
+directed	O
+the	O
+master	O
+
+what	O
+is	O
+the	O
+director	TITLE
+'s	O
+name	O
+of	O
+lord	O
+of	O
+the	O
+rings	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+person	O
+who	O
+made	O
+et	O
+
+rocky	O
+director	TITLE
+'s	O
+name	O
+
+what	O
+type	O
+of	O
+movie	O
+is	O
+gilda	O
+
+what	O
+types	O
+of	O
+movies	O
+does	O
+lionsgate	O
+produce	O
+
+what	O
+kind	O
+of	O
+movie	O
+is	O
+black	O
+swan	O
+
+what	O
+genre	O
+is	O
+the	O
+hunger	O
+games	O
+
+genre	O
+for	O
+transformers	O
+
+what	O
+genre	O
+is	O
+looper	TITLE
+
+what	O
+genre	O
+is	O
+the	O
+movie	O
+looper	TITLE
+
+what	O
+genre	O
+is	O
+rambo	O
+
+what	O
+genre	O
+is	O
+the	O
+jaws	O
+movies	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+genre	O
+for	O
+1000	DATE
+words	O
+
+i	O
+am	O
+interested	O
+in	O
+the	O
+genre	O
+for	O
+1000	DATE
+words	O
+
+what	O
+type	O
+of	O
+movie	O
+is	O
+parenthood	O
+
+give	O
+me	O
+the	O
+genre	O
+of	O
+the	O
+movie	O
+lawless	O
+
+what	O
+genre	O
+is	O
+the	O
+movie	O
+lawless	O
+
+what	O
+is	O
+the	O
+genre	O
+of	O
+the	O
+movie	O
+lawless	O
+
+what	O
+genre	O
+is	O
+the	O
+movie	O
+in	O
+july	DATE
+
+genre	O
+for	O
+gone	O
+with	O
+the	O
+wind	O
+
+how	O
+is	O
+the	O
+movie	O
+classified	O
+
+what	O
+genre	O
+is	O
+the	O
+movie	O
+
+what	O
+is	O
+the	O
+movie	O
+category	O
+
+how	O
+would	O
+you	O
+describe	O
+the	O
+movie	O
+
+type	O
+of	O
+movie	O
+
+what	O
+is	O
+the	O
+classification	O
+of	O
+movie	O
+
+what	O
+is	O
+the	O
+genre	O
+for	O
+movie	O
+
+what	O
+is	O
+the	O
+movie	O
+genre	O
+
+what	O
+kind	O
+of	O
+movie	O
+
+what	O
+type	O
+of	O
+movie	O
+is	O
+this	O
+
+i	O
+would	O
+like	O
+look	O
+up	O
+the	O
+genre	O
+step	O
+up	O
+is	O
+in	O
+
+search	O
+for	O
+the	O
+genre	O
+step	O
+up	O
+in	O
+
+what	O
+genre	O
+is	O
+step	O
+up	O
+in	O
+
+what	O
+genre	O
+is	O
+calendar	O
+girls	O
+in	O
+
+what	O
+is	O
+the	O
+genre	O
+for	O
+the	O
+patriot	O
+
+what	O
+genre	O
+is	O
+network	O
+in	O
+
+find	O
+out	O
+the	O
+genre	O
+for	O
+the	O
+movie	O
+rebel	O
+
+genre	O
+for	O
+the	O
+avengers	O
+
+can	O
+you	O
+tell	O
+me	O
+what	O
+genre	O
+the	O
+movie	O
+avatar	O
+falls	O
+in	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+genre	O
+of	O
+the	O
+movie	O
+avatar	O
+
+show	O
+me	O
+the	O
+genre	O
+of	O
+the	O
+movie	O
+avatar	O
+
+what	O
+genre	O
+is	O
+superman	O
+
+pretty	O
+girl	O
+movie	O
+genre	O
+
+pretty	O
+girl	O
+what	O
+is	O
+the	O
+movie	O
+'s	O
+genre	O
+
+what	O
+genre	O
+is	O
+pretty	O
+girl	O
+
+what	O
+genre	O
+is	O
+the	O
+movie	O
+pretty	O
+girl	O
+
+find	O
+out	O
+what	O
+kind	O
+of	O
+movie	O
+grease	O
+is	O
+
+i	O
+d	O
+like	O
+to	O
+know	O
+the	O
+genre	O
+of	O
+the	O
+film	O
+grease	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+genre	O
+of	O
+grease	O
+
+what	O
+kind	O
+of	O
+movie	O
+is	O
+grease	O
+
+find	O
+out	O
+the	O
+genre	O
+for	O
+the	O
+movie	O
+annamayya	O
+
+what	O
+movie	O
+category	O
+is	O
+friday	DATE
+the	DATE
+13th	DATE
+
+tell	O
+me	O
+what	O
+genre	O
+the	O
+tommyknockers	O
+is	O
+
+what	O
+genre	O
+is	O
+the	O
+hangover	O
+
+what	O
+catergory	O
+is	O
+ted	O
+in	O
+
+what	O
+genre	O
+is	O
+ted	O
+considered	O
+
+what	O
+type	O
+of	O
+movie	O
+is	O
+ted	O
+considered	O
+to	O
+be	O
+
+genre	O
+for	O
+while	O
+you	O
+were	O
+sleeping	O
+
+what	O
+genre	O
+is	O
+finding	O
+nemo	O
+
+which	O
+language	O
+is	O
+used	O
+in	O
+the	O
+movie	O
+
+language	O
+of	O
+sound	O
+of	O
+music	O
+
+what	O
+language	O
+is	O
+this	O
+film	O
+
+what	O
+are	O
+the	O
+different	O
+languages	O
+this	O
+movie	O
+come	O
+in	O
+
+what	O
+foreign	O
+language	O
+is	O
+spoken	O
+in	O
+movie	O
+
+what	O
+language	O
+is	O
+movie	O
+in	O
+
+what	O
+language	O
+is	O
+the	O
+movie	O
+in	O
+
+what	O
+language	O
+is	O
+the	O
+movie	O
+in	O
+
+language	O
+of	O
+anna	PERSON
+karinia	PERSON
+
+language	O
+of	O
+godzilla	O
+movie	O
+
+language	O
+of	O
+hamlet	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+language	O
+of	O
+the	O
+movie	O
+hero	O
+
+i	O
+need	O
+to	O
+know	O
+what	O
+is	O
+the	O
+language	O
+of	O
+the	O
+movie	O
+hero	O
+
+tell	O
+me	O
+what	O
+is	O
+the	O
+language	O
+of	O
+the	O
+movie	O
+hero	O
+
+language	O
+of	O
+bullhead	O
+
+what	O
+language	O
+is	O
+shindler	O
+'s	O
+list	O
+in	O
+
+what	O
+language	O
+did	O
+the	O
+characters	O
+speak	O
+in	O
+black	O
+swan	O
+
+what	O
+language	O
+is	O
+black	O
+swan	O
+
+please	O
+find	O
+what	O
+language	O
+the	O
+chaser	TITLE
+is	O
+in	O
+
+what	O
+language	O
+is	O
+the	O
+chaser	TITLE
+in	O
+
+look	O
+up	O
+what	O
+language	O
+the	O
+chaser	TITLE
+is	O
+in	O
+
+ondskan	O
+'s	O
+language	O
+
+what	O
+language	O
+is	O
+la	O
+havre	O
+in	O
+
+what	O
+foreign	O
+language	O
+is	O
+the	O
+movie	O
+belle	O
+available	O
+to	O
+view	O
+in	O
+
+what	O
+language	O
+can	O
+i	O
+watch	O
+the	O
+movie	O
+the	O
+professional	O
+
+what	O
+language	O
+is	O
+the	O
+professional	O
+in	O
+
+how	O
+do	O
+they	O
+speak	O
+in	O
+the	O
+movie	O
+the	O
+professional	O
+
+what	O
+language	O
+is	O
+spoken	O
+in	O
+indochine	O
+
+language	O
+of	O
+the	O
+film	O
+revanche	O
+
+what	O
+language	O
+was	O
+aguirre	O
+wrath	O
+of	O
+god	O
+in	O
+
+what	O
+language	O
+is	O
+passion	O
+of	O
+the	O
+christ	O
+in	O
+
+i	O
+want	O
+to	O
+know	O
+in	O
+what	O
+language	O
+was	O
+ju	O
+on	O
+filmed	O
+
+i	O
+want	O
+to	O
+know	O
+the	O
+original	O
+language	O
+of	O
+ju	O
+on	O
+
+tell	O
+me	O
+the	O
+language	O
+of	O
+ju	O
+on	O
+
+what	O
+language	O
+is	O
+ju	O
+on	O
+on	O
+
+what	O
+language	O
+is	O
+the	O
+movie	O
+elling	O
+in	O
+
+language	O
+of	O
+a	O
+separation	O
+
+what	O
+s	O
+the	O
+language	O
+of	O
+moscow	O
+does	O
+not	O
+believe	O
+in	O
+tears	O
+
+what	O
+is	O
+the	O
+language	O
+of	O
+the	O
+movie	O
+aankhen	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+language	O
+of	O
+the	O
+movie	O
+aankhen	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+films	O
+produced	O
+by	O
+steven	O
+spielberg	O
+
+can	O
+you	O
+tell	O
+me	O
+names	O
+of	O
+some	O
+movies	O
+by	O
+director	TITLE
+martin	O
+scorsese	O
+
+find	O
+movie	O
+titles	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+movies	O
+made	O
+in	O
+the	O
+united	COUNTRY
+states	COUNTRY
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+names	O
+of	O
+all	O
+the	O
+movies	O
+which	O
+have	O
+been	O
+directed	O
+by	O
+james	O
+cameron	O
+
+what	O
+are	O
+the	O
+titles	O
+of	O
+all	O
+the	O
+movies	O
+that	O
+george	O
+lucas	O
+produced	O
+
+names	O
+of	O
+romantic	O
+indian	NATIONALITY
+films	O
+
+can	O
+you	O
+show	O
+me	O
+names	O
+of	O
+some	O
+indian	NATIONALITY
+romantic	O
+movies	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+names	O
+of	O
+some	O
+indian	NATIONALITY
+movies	O
+
+japanese	NATIONALITY
+movie	O
+titles	O
+
+can	O
+you	O
+give	O
+me	O
+names	O
+of	O
+some	O
+movies	O
+having	O
+pg	O
+thirteen	NUMBER
+rating	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+names	O
+of	O
+some	O
+movies	O
+with	O
+pg	O
+thirteen	NUMBER
+rating	O
+
+show	O
+me	O
+names	O
+of	O
+some	O
+romantic	O
+movies	O
+having	O
+a	O
+pg	O
+thirteen	NUMBER
+rating	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+movies	O
+with	O
+zombies	O
+in	O
+them	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+names	O
+of	O
+all	O
+the	O
+movies	O
+produced	O
+by	O
+william	O
+packer	TITLE
+
+stephen	O
+king	TITLE
+directed	O
+what	O
+movie	O
+
+what	O
+movies	O
+did	O
+stephen	O
+king	TITLE
+direct	O
+
+watch	O
+the	O
+last	O
+james	O
+cameron	O
+movie	O
+
+find	O
+movies	O
+by	O
+release	O
+date	O
+
+show	O
+movie	O
+ratings	O
+
+movie	O
+ratings	O
+
+richard	O
+lester	O
+produced	O
+what	O
+other	O
+movies	O
+
+show	O
+me	O
+westerns	O
+
+was	O
+kevin	O
+bacon	O
+in	O
+apollo	O
+thirteen	NUMBER
+
+i	O
+need	O
+movie	O
+information	O
+for	O
+life	O
+is	O
+beautiful	O
+
+life	O
+is	O
+beautiful	O
+movie	O
+page	O
+
+i	O
+want	O
+to	O
+know	O
+more	O
+about	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+i	O
+would	O
+like	O
+info	O
+on	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+search	O
+for	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+what	O
+are	O
+the	O
+particulars	O
+for	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+can	O
+i	O
+see	O
+more	O
+info	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+can	O
+you	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+please	O
+
+display	O
+information	O
+for	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+
+find	O
+movies	O
+about	O
+dancing	O
+
+i	O
+want	O
+to	O
+look	O
+up	O
+movies	O
+about	O
+dancing	O
+
+look	O
+up	O
+movies	O
+about	O
+dancing	O
+
+search	O
+for	O
+movies	O
+about	O
+dancing	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+will	O
+ferrell	O
+films	O
+
+i	O
+want	O
+to	O
+see	O
+any	O
+movies	O
+will	O
+ferrell	O
+has	O
+been	O
+in	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+will	O
+ferrell	O
+movies	O
+
+list	O
+will	O
+ferrell	O
+films	O
+
+movies	O
+will	O
+ferrell	O
+played	O
+in	O
+
+what	O
+are	O
+some	O
+films	O
+will	O
+ferrell	O
+starred	O
+in	O
+
+what	O
+movies	O
+has	O
+will	O
+ferrell	O
+been	O
+in	O
+
+what	O
+movies	O
+is	O
+will	O
+ferrell	O
+in	O
+
+will	O
+ferrell	O
+films	O
+
+will	O
+ferrell	O
+movies	O
+
+will	O
+ferrell	O
+movies	O
+
+will	O
+ferell	O
+videos	O
+
+i	O
+want	O
+to	O
+see	O
+videos	O
+of	O
+will	O
+ferrell	O
+
+all	O
+videos	O
+of	O
+will	O
+ferrell	O
+
+can	O
+you	O
+find	O
+me	O
+movies	O
+in	O
+russian	NATIONALITY
+
+where	O
+can	O
+i	O
+find	O
+movies	O
+in	O
+russian	NATIONALITY
+
+find	O
+russian	NATIONALITY
+movies	O
+
+find	O
+russian	NATIONALITY
+movies	O
+
+search	O
+for	O
+russian	NATIONALITY
+movies	O
+
+show	O
+me	O
+movies	O
+from	O
+poland	COUNTRY
+
+i	O
+would	O
+like	O
+to	O
+see	O
+a	O
+polish	NATIONALITY
+language	O
+film	O
+
+i	O
+am	O
+interested	O
+in	O
+watching	O
+a	O
+movie	O
+in	O
+polish	NATIONALITY
+
+i	O
+want	O
+to	O
+see	O
+a	O
+polish	NATIONALITY
+movie	O
+
+list	O
+some	O
+funny	O
+russian	NATIONALITY
+movies	O
+
+i	O
+am	O
+looking	O
+for	O
+the	O
+information	O
+on	O
+the	O
+movie	O
+pretty	O
+women	O
+
+list	O
+of	O
+barry	O
+sonnenfeld	O
+films	O
+
+find	O
+martin	O
+scorsese	O
+films	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+movie	O
+which	O
+was	O
+directed	O
+by	O
+scorsese	O
+
+show	O
+all	O
+movies	O
+directed	O
+by	O
+martin	O
+scorcese	O
+
+movies	O
+with	O
+meg	PERSON
+ryan	PERSON
+
+gross	O
+earnings	O
+for	O
+movies	O
+
+i	O
+want	O
+to	O
+watch	O
+movies	O
+directed	O
+by	O
+jackie	PERSON
+chan	PERSON
+
+star	O
+wars	O
+
+what	O
+are	O
+the	O
+plots	O
+of	O
+hotel	O
+rwanda	COUNTRY
+
+tim	O
+burton	O
+movies	O
+
+bings	O
+movie	O
+page	O
+finding	O
+nemo	O
+
+display	O
+information	O
+for	O
+film	O
+finding	O
+nemo	O
+
+finding	O
+nemo	O
+movie	O
+shortcut	O
+
+whats	O
+some	O
+details	O
+for	O
+the	O
+movie	O
+finding	O
+nemo	O
+
+show	O
+all	O
+details	O
+of	O
+original	O
+finding	O
+nemo	O
+movie	O
+
+get	O
+details	O
+of	O
+original	O
+finding	O
+nemo	O
+movie	O
+
+finding	O
+nemo	O
+movie	O
+page	O
+
+find	O
+movie	O
+finding	O
+nemo	O
+
+display	O
+all	O
+details	O
+of	O
+original	O
+finding	O
+nemo	O
+movie	O
+
+find	O
+all	O
+details	O
+of	O
+original	O
+finding	O
+nemo	O
+movie	O
+
+what	O
+has	O
+andrew	O
+stanton	O
+directed	O
+
+what	O
+movies	O
+has	O
+andrew	O
+stanton	O
+directed	O
+
+what	O
+did	O
+lee	O
+unkrich	O
+direct	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+a	O
+movie	O
+with	O
+albert	O
+brooks	O
+in	O
+it	O
+
+find	O
+me	O
+films	O
+produced	O
+by	O
+drew	O
+barrymore	O
+
+what	O
+movies	O
+that	O
+clint	O
+eastwood	O
+starred	O
+in	O
+did	O
+he	O
+also	O
+direct	O
+
+what	O
+movies	O
+did	O
+clint	O
+eastwood	O
+direct	O
+and	O
+star	O
+in	O
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+movie	O
+by	O
+sergio	O
+leone	O
+
+show	O
+sergio	O
+leone	O
+'s	O
+movies	O
+
+show	O
+me	O
+movies	O
+directed	O
+by	O
+sergio	PERSON
+leone	PERSON
+
+movies	O
+that	O
+have	O
+been	O
+directed	O
+by	O
+tony	PERSON
+scott	PERSON
+
+show	O
+me	O
+movies	O
+from	O
+brazil	COUNTRY
+
+show	O
+me	O
+horror	O
+movie	O
+earnings	O
+
+movies	O
+with	O
+harrison	O
+ford	O
+
+show	O
+me	O
+only	O
+movies	O
+with	O
+harrison	O
+ford	O
+
+name	O
+the	O
+movies	O
+clive	O
+owen	O
+has	O
+been	O
+in	O
+
+what	O
+movies	O
+has	O
+clive	O
+owen	O
+been	O
+in	O
+
+what	O
+movies	O
+has	O
+clive	O
+owen	O
+starred	O
+in	O
+
+find	O
+ms.	O
+congeniality	O
+
+find	O
+spike	O
+lee	O
+directed	O
+movies	O
+
+what	O
+movies	O
+did	O
+spike	O
+lee	O
+direct	O
+
+movies	O
+cecil	O
+b	O
+demille	PERSON
+
+i	O
+want	O
+to	O
+see	O
+a	O
+comedy	O
+in	O
+spanish	NATIONALITY
+
+find	O
+films	O
+
+find	O
+films	O
+
+find	O
+movies	O
+
+in	O
+search	O
+for	O
+movies	O
+
+looking	O
+for	O
+movies	O
+
+find	O
+a	O
+movie	O
+
+are	O
+there	O
+movies	O
+not	O
+rated	O
+g	O
+
+i	O
+don	O
+'	O
+t	O
+want	O
+any	O
+g	O
+rated	O
+movies	O
+
+can	O
+you	O
+find	O
+some	O
+drama	O
+movies	O
+
+i	O
+'d	O
+like	O
+to	O
+watch	O
+something	O
+with	O
+drama	O
+
+looking	O
+for	O
+a	O
+drama	O
+movie	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+in	O
+english	NATIONALITY
+
+show	O
+me	O
+english	NATIONALITY
+movies	O
+
+find	O
+english	NATIONALITY
+movies	O
+
+can	O
+i	O
+get	O
+a	O
+list	O
+of	O
+movies	O
+available	O
+in	O
+english	NATIONALITY
+
+show	O
+me	O
+movies	O
+in	O
+english	NATIONALITY
+
+i	O
+would	O
+like	O
+to	O
+see	O
+movies	O
+in	O
+english	NATIONALITY
+
+movies	O
+in	O
+english	NATIONALITY
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+made	O
+in	O
+the	O
+united	COUNTRY
+states	COUNTRY
+
+what	O
+are	O
+all	O
+movies	O
+made	O
+by	O
+united	COUNTRY
+states	COUNTRY
+
+what	O
+movies	O
+have	O
+been	O
+made	O
+in	O
+the	O
+united	COUNTRY
+states	COUNTRY
+
+movies	O
+from	O
+the	O
+us	O
+
+what	O
+are	O
+all	O
+of	O
+the	O
+movies	O
+made	O
+in	O
+usa	COUNTRY
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+made	O
+in	O
+america	COUNTRY
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+made	O
+in	O
+america	COUNTRY
+
+show	O
+me	O
+movies	O
+made	O
+in	O
+america	COUNTRY
+
+please	O
+tell	O
+me	O
+if	O
+you	O
+have	O
+any	O
+movies	O
+from	O
+the	O
+united	COUNTRY
+states	COUNTRY
+
+movies	O
+from	O
+the	O
+us	O
+
+please	O
+tell	O
+me	O
+about	O
+movies	O
+from	O
+the	O
+usa	COUNTRY
+
+english	NATIONALITY
+movie	O
+list	O
+
+show	O
+me	O
+thrillers	O
+
+show	O
+me	O
+thrillers	O
+
+show	O
+me	O
+comedies	O
+
+looking	O
+for	O
+a	O
+comedy	O
+movie	O
+
+see	O
+comedy	O
+
+show	O
+me	O
+comedy	O
+movies	O
+
+show	O
+me	O
+funny	O
+movies	O
+
+movies	O
+that	O
+have	O
+comedy	O
+
+can	O
+you	O
+show	O
+me	O
+a	O
+list	O
+of	O
+scary	O
+movies	O
+
+i	O
+am	O
+in	O
+the	O
+mood	O
+for	O
+a	O
+horror	O
+film	O
+
+looking	O
+for	O
+a	O
+horror	O
+movie	O
+
+search	O
+for	O
+horror	O
+movies	O
+
+show	O
+me	O
+horror	O
+movies	O
+
+show	O
+only	O
+horror	O
+movies	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+scary	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+of	O
+scary	O
+movies	O
+
+funny	O
+scary	O
+movies	O
+
+movies	O
+by	O
+producer	TITLE
+
+find	O
+movies	O
+by	O
+producer	TITLE
+
+movies	O
+with	O
+bruce	O
+willis	O
+
+clint	O
+eastwood	O
+movies	O
+
+find	O
+movies	O
+from	O
+canada	COUNTRY
+
+get	O
+me	O
+canadian	NATIONALITY
+movies	O
+
+show	O
+me	O
+movies	O
+from	O
+canada	COUNTRY
+
+look	O
+up	O
+information	O
+about	O
+canadian	NATIONALITY
+movies	O
+
+get	O
+movies	O
+from	O
+canada	COUNTRY
+
+show	O
+me	O
+a	O
+list	O
+of	O
+any	O
+movies	O
+made	O
+in	O
+canada	COUNTRY
+
+find	O
+movies	O
+filmed	O
+in	O
+canada	COUNTRY
+
+get	O
+films	O
+made	O
+in	O
+canada	COUNTRY
+
+show	O
+me	O
+canadian	NATIONALITY
+films	O
+
+show	O
+me	O
+canadian	NATIONALITY
+movies	O
+
+are	O
+there	O
+any	O
+canadian	NATIONALITY
+movies	O
+
+are	O
+there	O
+any	O
+canadian	NATIONALITY
+movies	O
+
+find	O
+canadian	NATIONALITY
+films	O
+
+what	O
+are	O
+some	O
+movies	O
+made	O
+outside	O
+the	O
+us	O
+
+movies	O
+from	O
+germany	COUNTRY
+
+i	O
+want	O
+to	O
+watch	O
+movies	O
+from	O
+germany	COUNTRY
+
+display	O
+movies	O
+made	O
+in	O
+germany	COUNTRY
+
+find	O
+movies	O
+done	O
+in	O
+germany	COUNTRY
+
+what	O
+movies	O
+do	O
+you	O
+have	O
+that	O
+were	O
+made	O
+in	O
+italy	O
+
+movies	O
+from	O
+italy	O
+
+does	O
+italy	O
+make	O
+any	O
+movies	O
+
+find	O
+italian	NATIONALITY
+movies	O
+
+italian	NATIONALITY
+films	O
+
+italian	NATIONALITY
+movies	O
+
+show	O
+me	O
+italian	NATIONALITY
+movies	O
+
+get	O
+all	O
+italian	NATIONALITY
+language	O
+movies	O
+
+send	O
+me	O
+movies	O
+that	O
+are	O
+in	O
+italian	NATIONALITY
+
+movies	O
+with	O
+italian	NATIONALITY
+language	O
+
+show	O
+me	O
+movies	O
+in	O
+italian	NATIONALITY
+
+what	O
+movies	O
+are	O
+in	O
+italian	NATIONALITY
+
+search	O
+for	O
+movies	O
+in	O
+italian	NATIONALITY
+
+find	O
+movies	O
+in	O
+italian	NATIONALITY
+
+a	O
+list	O
+of	O
+all	O
+italian	NATIONALITY
+speaking	O
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+from	O
+spain	COUNTRY
+
+see	O
+movies	O
+from	O
+spain	COUNTRY
+
+movies	O
+from	O
+spain	COUNTRY
+
+movies	O
+from	O
+spain	COUNTRY
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+from	O
+spain	COUNTRY
+
+movies	O
+made	O
+in	O
+spain	COUNTRY
+
+are	O
+there	O
+any	O
+movies	O
+made	O
+in	O
+spain	COUNTRY
+
+bring	O
+up	O
+spanish	NATIONALITY
+movies	O
+
+can	O
+you	O
+show	O
+me	O
+movies	O
+spanish	NATIONALITY
+
+can	O
+you	O
+show	O
+me	O
+spanish	NATIONALITY
+movies	O
+
+find	O
+spanish	NATIONALITY
+movies	O
+
+find	O
+spanish	NATIONALITY
+movies	O
+
+get	O
+me	O
+spanish	NATIONALITY
+movies	O
+
+I	O
+'d	O
+like	O
+a	O
+list	O
+of	O
+spanish	NATIONALITY
+movies	O
+
+I	O
+'d	O
+like	O
+to	O
+know	O
+some	O
+spanish	NATIONALITY
+movies	O
+
+i	O
+want	O
+only	O
+spanish	NATIONALITY
+movies	O
+
+i	O
+want	O
+to	O
+look	O
+up	O
+spanish	NATIONALITY
+movies	O
+
+list	O
+spanish	NATIONALITY
+movies	O
+
+list	O
+spanish	NATIONALITY
+movies	O
+
+look	O
+for	O
+spanish	NATIONALITY
+movies	O
+
+search	O
+for	O
+spanish	NATIONALITY
+movies	O
+
+search	O
+for	O
+spanish	NATIONALITY
+movies	O
+
+show	O
+me	O
+spanish	NATIONALITY
+movies	O
+
+spanish	NATIONALITY
+movie	O
+listing	O
+
+spanish	NATIONALITY
+movies	O
+
+find	O
+romance	O
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+romance	O
+movies	O
+
+find	O
+me	O
+romantic	O
+movies	O
+
+i	O
+want	O
+to	O
+find	O
+romantic	O
+movies	O
+
+locate	O
+romantic	O
+movies	O
+for	O
+me	O
+
+list	O
+some	O
+movies	O
+that	O
+are	O
+in	O
+french	NATIONALITY
+
+find	O
+french	NATIONALITY
+language	O
+movies	O
+
+find	O
+movies	O
+in	O
+french	NATIONALITY
+
+find	O
+movies	O
+is	O
+french	NATIONALITY
+
+list	O
+movies	O
+in	O
+french	NATIONALITY
+
+look	O
+for	O
+movies	O
+in	O
+french	NATIONALITY
+
+search	O
+for	O
+movies	O
+in	O
+french	NATIONALITY
+
+search	O
+for	O
+movies	O
+in	O
+french	NATIONALITY
+
+show	O
+me	O
+movies	O
+produced	O
+in	O
+french	NATIONALITY
+
+show	O
+movies	O
+in	O
+french	NATIONALITY
+
+show	O
+only	O
+movies	O
+that	O
+are	O
+in	O
+french	NATIONALITY
+
+find	O
+french	NATIONALITY
+language	O
+movies	O
+
+list	O
+of	O
+all	O
+french	NATIONALITY
+speaking	O
+films	O
+
+list	O
+of	O
+french	NATIONALITY
+language	O
+movies	O
+
+show	O
+me	O
+movies	O
+in	O
+french	NATIONALITY
+
+can	O
+you	O
+list	O
+movies	O
+in	O
+french	NATIONALITY
+
+find	O
+all	O
+films	O
+showing	O
+in	O
+french	NATIONALITY
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+the	O
+movies	O
+produced	O
+by	O
+william	O
+packer	TITLE
+
+information	O
+about	O
+movie	O
+
+show	O
+me	O
+information	O
+about	O
+movie	O
+
+show	O
+me	O
+information	O
+on	O
+movie	O
+
+tell	O
+me	O
+about	O
+movie	O
+
+please	O
+show	O
+me	O
+all	O
+of	O
+the	O
+films	O
+that	O
+involve	O
+kevin	O
+bacon	O
+
+i	O
+want	O
+movies	O
+about	O
+9-11	NUMBER
+
+what	O
+other	O
+movies	O
+has	O
+bill	O
+paxton	O
+starred	O
+in	O
+
+find	O
+some	O
+suspenseful	O
+movies	O
+
+a	O
+movie	O
+based	O
+on	O
+time	O
+travel	O
+
+find	O
+time	O
+travel	O
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+time	O
+travel	O
+movies	O
+
+movies	O
+about	O
+time	O
+travel	O
+
+show	O
+me	O
+movies	O
+about	O
+time	O
+travel	O
+
+show	O
+me	O
+movies	O
+with	O
+time	O
+travel	O
+themes	O
+
+show	O
+me	O
+time	O
+travel	O
+movies	O
+
+show	O
+videos	O
+about	O
+time	O
+travel	O
+
+time	O
+travel	O
+movies	O
+
+what	O
+are	O
+movies	O
+whose	O
+topic	O
+involves	O
+time	O
+travel	O
+
+movies	O
+about	O
+time	O
+travel	O
+
+movies	O
+about	O
+time	O
+travel	O
+
+show	O
+me	O
+movies	O
+about	O
+time	O
+travel	O
+
+show	O
+me	O
+movies	O
+about	O
+time	O
+travel	O
+
+show	O
+me	O
+some	O
+movies	O
+that	O
+are	O
+related	O
+to	O
+time	O
+travel	O
+
+what	O
+are	O
+some	O
+movies	O
+that	O
+involve	O
+time	O
+travel	O
+
+what	O
+movies	O
+discuss	O
+time	O
+travel	O
+
+quentin	O
+tarrantino	O
+movies	O
+
+what	O
+movies	O
+did	O
+quentin	O
+terrantino	O
+direct	O
+
+list	O
+the	O
+movies	O
+anna	O
+paquin	O
+has	O
+starred	O
+in	O
+
+movies	O
+from	O
+england	COUNTRY
+
+movies	O
+from	O
+england	COUNTRY
+
+movies	O
+from	O
+england	COUNTRY
+please	O
+
+show	O
+me	O
+england	O
+movies	O
+
+show	O
+me	O
+movies	O
+from	O
+england	COUNTRY
+
+show	O
+me	O
+movies	O
+made	O
+in	O
+england	COUNTRY
+
+find	O
+movies	O
+directed	O
+by	O
+chris	PERSON
+columbus	PERSON
+
+what	O
+other	O
+movies	O
+has	O
+richard	O
+lester	O
+directed	O
+
+search	O
+for	O
+movies	O
+by	O
+language	O
+
+mandarin	O
+movie	O
+please	O
+
+please	O
+find	O
+a	O
+movie	O
+in	O
+mandarin	O
+
+movie	O
+made	O
+in	O
+mandarin	O
+
+which	O
+movies	O
+are	O
+originally	O
+in	O
+a	O
+foreign	O
+language	O
+
+find	O
+me	O
+tamil	O
+movies	O
+
+show	O
+me	O
+the	O
+latest	O
+movies	O
+in	O
+tamil	O
+
+find	O
+hindi	O
+movies	O
+
+find	O
+movies	O
+in	O
+hindi	O
+
+list	O
+the	O
+hindi	O
+movies	O
+
+what	O
+is	O
+hindi	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+a	O
+list	O
+of	O
+movie	O
+names	O
+in	O
+hindi	O
+language	O
+
+what	O
+films	O
+are	O
+not	O
+spoken	O
+in	O
+english	NATIONALITY
+
+what	O
+movies	O
+are	O
+spoken	O
+in	O
+another	O
+language	O
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+romance	O
+made	O
+in	O
+india	COUNTRY
+
+i	O
+need	O
+to	O
+get	O
+a	O
+list	O
+of	O
+some	O
+romantic	O
+indian	NATIONALITY
+movies	O
+
+find	O
+movies	O
+from	O
+india	COUNTRY
+
+look	O
+up	O
+movies	O
+from	O
+india	COUNTRY
+
+see	O
+movies	O
+from	O
+india	COUNTRY
+
+find	O
+indian	NATIONALITY
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+some	O
+indian	NATIONALITY
+movies	O
+
+brian	O
+de	O
+palma	O
+movies	O
+
+complete	O
+list	O
+of	O
+movies	O
+made	O
+by	O
+searchlight	O
+films	O
+
+list	O
+movies	O
+by	O
+searchlight	O
+films	O
+
+list	O
+of	O
+movies	O
+produced	O
+by	O
+searchlight	O
+films	O
+
+what	O
+are	O
+some	O
+movies	O
+made	O
+by	O
+searchlight	O
+films	O
+
+movies	O
+about	O
+bank	O
+robberies	O
+
+show	O
+me	O
+sarah	O
+polley	O
+movies	O
+
+show	O
+me	O
+french	NATIONALITY
+r	O
+rated	O
+dramas	O
+
+list	O
+french	NATIONALITY
+language	O
+comedy	O
+films	O
+
+show	O
+french	NATIONALITY
+comedy	O
+films	O
+
+what	O
+are	O
+some	O
+movies	O
+that	O
+were	O
+produced	O
+in	O
+europe	O
+
+films	O
+produced	O
+by	O
+laurie	O
+macdonald	O
+
+find	O
+me	O
+dreamworks	O
+films	O
+
+movie	O
+by	O
+dreamworks	O
+
+movie	O
+made	O
+by	O
+dreamworks	O
+
+what	O
+movies	O
+are	O
+made	O
+by	O
+dreamworks	O
+
+i	O
+'m	O
+looking	O
+for	O
+the	O
+cost	O
+of	O
+some	O
+movies	O
+
+what	O
+movies	O
+did	O
+kevin	O
+costner	O
+direct	O
+
+dirty	O
+dancing	O
+movie	O
+
+dirty	O
+dancing	O
+movie	O
+short	O
+cuts	O
+
+show	O
+me	O
+the	O
+dirty	O
+dancing	O
+movie	O
+
+will	O
+you	O
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+find	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+get	O
+me	O
+info	O
+for	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+i	O
+need	O
+to	O
+get	O
+every	O
+possible	O
+information	O
+related	O
+with	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+i	O
+want	O
+to	O
+see	O
+infomation	O
+on	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+all	O
+the	O
+information	O
+about	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+show	O
+me	O
+all	O
+the	O
+information	O
+about	O
+the	O
+movie	O
+dirty	O
+dancing	O
+like	O
+story	O
+reviews	O
+cast	O
+etc	O
+
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+dirty	O
+dancing	O
+please	O
+
+show	O
+me	O
+information	O
+for	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+show	O
+me	O
+more	O
+details	O
+for	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+can	O
+you	O
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+dirty	O
+dancing	O
+
+can	O
+you	O
+tell	O
+me	O
+about	O
+the	O
+movie	O
+dirty	O
+dancing	O
+in	O
+detail	O
+
+what	O
+films	O
+has	O
+robert	O
+redford	O
+directed	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+robert	O
+redford	O
+produced	O
+movie	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+something	O
+produced	O
+by	O
+robert	O
+redford	O
+
+bette	O
+midler	O
+movies	O
+
+bette	O
+midler	O
+movies	O
+please	O
+
+show	O
+bette	O
+midler	O
+movies	O
+
+show	O
+me	O
+cameron	O
+diaz	O
+movies	O
+
+show	O
+me	O
+movies	O
+with	O
+jennifer	PERSON
+aniston	PERSON
+
+russell	O
+crowe	O
+movies	O
+
+about	O
+life	O
+is	O
+beautiful	O
+
+details	O
+about	O
+life	O
+is	O
+beautiful	O
+please	O
+
+find	O
+synopsis	O
+for	O
+life	O
+is	O
+beautiful	O
+
+i	O
+need	O
+page	O
+on	O
+life	O
+is	O
+beautiful	O
+
+i	O
+want	O
+information	O
+about	O
+life	O
+is	O
+beautiful	O
+
+i	O
+want	O
+to	O
+know	O
+about	O
+life	O
+is	O
+beautiful	O
+
+i	O
+would	O
+like	O
+to	O
+view	O
+info	O
+on	O
+life	O
+is	O
+beautiful	O
+
+life	O
+is	O
+beautiful	O
+
+run	O
+a	O
+search	O
+for	O
+life	O
+is	O
+beautiful	O
+
+show	O
+me	O
+life	O
+is	O
+beautiful	O
+information	O
+
+what	O
+'s	O
+the	O
+synopsis	O
+of	O
+life	O
+is	O
+beatiful	O
+
+footloose	O
+
+show	O
+jason	O
+statham	O
+movies	O
+
+list	O
+statham	O
+'s	O
+movies	O
+
+find	O
+movies	O
+from	O
+new	COUNTRY
+zealand	COUNTRY
+
+show	O
+me	O
+the	O
+movies	O
+acted	O
+by	O
+bala	PERSON
+krishna	PERSON
+
+korean	NATIONALITY
+language	O
+movie	O
+
+show	O
+me	O
+korean	NATIONALITY
+language	O
+movie	O
+
+can	O
+you	O
+find	O
+the	O
+movies	O
+with	O
+korean	NATIONALITY
+language	O
+
+show	O
+me	O
+movies	O
+that	O
+are	O
+in	O
+korean	NATIONALITY
+
+portugese	O
+movies	O
+
+current	DATE
+movie	O
+options	O
+for	O
+today	DATE
+with	O
+patrick	O
+swayze	O
+
+display	O
+all	O
+results	O
+for	O
+dirty	O
+dancing	O
+
+find	O
+information	O
+on	O
+dirty	O
+dancing	O
+
+search	O
+for	O
+dirty	O
+dancing	O
+
+search	O
+for	O
+dirty	O
+dancing	O
+
+how	O
+can	O
+i	O
+view	O
+dirty	O
+dancing	O
+
+dirty	O
+dancing	O
+facts	O
+
+did	O
+alfred	O
+hitchcock	O
+direct	O
+a	O
+comedy	O
+
+martin	O
+lawrence	O
+directed	O
+what	O
+movie	O
+
+find	O
+movies	O
+from	O
+japan	COUNTRY
+
+show	O
+me	O
+movies	O
+from	O
+japan	COUNTRY
+
+show	O
+me	O
+movies	O
+from	O
+japan	COUNTRY
+
+what	O
+are	O
+some	O
+movies	O
+made	O
+in	O
+japan	COUNTRY
+
+what	O
+movies	O
+came	O
+from	O
+japan	COUNTRY
+
+which	O
+movies	O
+were	O
+made	O
+in	O
+japan	COUNTRY
+
+i	O
+want	O
+to	O
+find	O
+a	O
+list	O
+of	O
+movies	O
+made	O
+in	O
+japan	COUNTRY
+
+do	O
+you	O
+have	O
+any	O
+movies	O
+made	O
+in	O
+japan	COUNTRY
+
+find	O
+japanese	NATIONALITY
+movies	O
+
+find	O
+japanese	NATIONALITY
+movies	O
+
+give	O
+me	O
+some	O
+names	O
+of	O
+japanese	NATIONALITY
+movies	O
+
+i	O
+want	O
+japanese	NATIONALITY
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+japanese	NATIONALITY
+movies	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+names	O
+of	O
+some	O
+of	O
+the	O
+japanese	NATIONALITY
+movies	O
+
+japanese	NATIONALITY
+movies	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+some	O
+japanese	NATIONALITY
+movies	O
+
+show	O
+me	O
+japanese	NATIONALITY
+movies	O
+
+sort	O
+in	O
+all	O
+japanese	NATIONALITY
+movies	O
+
+do	O
+you	O
+have	O
+a	O
+list	O
+of	O
+japanese	NATIONALITY
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+film	O
+in	O
+japanese	NATIONALITY
+
+show	O
+me	O
+movies	O
+in	O
+japanese	NATIONALITY
+
+films	O
+with	O
+japaneese	O
+
+what	O
+movies	O
+have	O
+people	O
+speaking	O
+japanese	NATIONALITY
+in	O
+them	O
+
+what	O
+are	O
+some	O
+japanese	NATIONALITY
+movies	O
+
+find	O
+movies	O
+in	O
+british	NATIONALITY
+english	NATIONALITY
+
+find	O
+movies	O
+from	O
+miramax	O
+
+see	O
+miramax	O
+movies	O
+
+watch	O
+miramax	O
+
+find	O
+movies	O
+with	O
+sandra	PERSON
+bullock	PERSON
+
+find	O
+sandra	O
+bullock	O
+movies	O
+
+movies	O
+with	O
+sandra	PERSON
+bullock	PERSON
+
+movies	O
+with	O
+vampires	O
+
+what	O
+movies	O
+about	O
+vampires	O
+are	O
+there	O
+
+movies	O
+will	O
+smith	O
+stars	O
+in	O
+
+show	O
+me	O
+will	O
+smith	O
+movies	O
+
+what	O
+experience	O
+does	O
+darla	O
+anderson	O
+have	O
+as	O
+a	O
+producer	TITLE
+
+look	O
+for	O
+movies	O
+directed	O
+by	O
+tyler	O
+perry	O
+
+which	O
+movies	O
+are	O
+directed	O
+by	O
+tyler	O
+perry	O
+
+give	O
+me	O
+movies	O
+directed	O
+by	O
+tyler	PERSON
+perry	PERSON
+
+search	O
+for	O
+movies	O
+directed	O
+by	O
+tyler	O
+perry	O
+
+what	O
+films	O
+has	O
+selena	O
+gomez	O
+been	O
+in	O
+
+find	O
+a	O
+movie	O
+with	O
+mel	O
+gibson	O
+
+only	O
+mel	O
+gibson	O
+movies	O
+
+find	O
+movies	O
+produced	O
+by	O
+paramount	O
+pictures	O
+
+i	O
+want	O
+to	O
+see	O
+paramount	O
+movies	O
+
+i	O
+would	O
+like	O
+a	O
+list	O
+of	O
+paramount	O
+movies	O
+
+list	O
+some	O
+paramount	O
+produced	O
+films	O
+
+show	O
+all	O
+movies	O
+by	O
+paramount	O
+
+show	O
+me	O
+all	O
+the	O
+movies	O
+made	O
+by	O
+paramount	O
+
+show	O
+only	O
+paramount	O
+movies	O
+
+is	O
+there	O
+a	O
+list	O
+of	O
+movies	O
+about	O
+chess	O
+
+movies	O
+about	O
+chess	O
+
+movies	O
+regarding	O
+the	O
+hobby	O
+of	O
+chess	O
+
+list	O
+some	O
+of	O
+the	O
+best	O
+world	O
+war	CAUSE_OF_DEATH
+2	NUMBER
+films	O
+
+find	O
+movies	O
+about	O
+dogs	O
+
+find	O
+movies	O
+with	O
+a	O
+nc	O
+17	NUMBER
+only	O
+
+find	O
+me	O
+nc-17	O
+movies	O
+
+show	O
+me	O
+nc	O
+seventeen	NUMBER
+movies	O
+
+play	O
+movies	O
+from	O
+turkey	COUNTRY
+
+what	O
+movies	O
+have	O
+come	O
+out	O
+of	O
+turkey	COUNTRY
+
+can	O
+i	O
+have	O
+a	O
+list	O
+of	O
+bruce	O
+lee	O
+produced	O
+movies	O
+
+can	O
+you	O
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+bruce	O
+lee	O
+
+show	O
+me	O
+movies	O
+produced	O
+by	O
+bruce	O
+lee	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+directed	O
+by	O
+michael	PERSON
+bay	PERSON
+
+what	O
+movies	O
+did	O
+michael	O
+bay	O
+direct	O
+
+ed	O
+harris	O
+films	O
+
+show	O
+me	O
+all	O
+movies	O
+that	O
+star	O
+ed	O
+harris	O
+
+more	O
+stuff	O
+about	O
+the	O
+movie	O
+go	O
+
+is	O
+parenthood	O
+a	O
+comedy	O
+
+find	O
+movies	O
+produced	O
+by	O
+mel	PERSON
+gibson	PERSON
+
+what	O
+movies	O
+has	O
+jerry	O
+bruckheimer	O
+produced	O
+
+i	O
+want	O
+to	O
+see	O
+chinese	NATIONALITY
+movies	O
+
+show	O
+me	O
+chinese	NATIONALITY
+movies	O
+
+show	O
+me	O
+dramas	O
+from	O
+china	COUNTRY
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+drama	O
+made	O
+in	O
+china	COUNTRY
+
+give	O
+me	O
+the	O
+best	O
+baseball	O
+movies	O
+
+list	O
+movies	O
+filmed	O
+in	O
+ireland	COUNTRY
+
+list	O
+all	O
+the	O
+movies	O
+john	O
+travolta	O
+has	O
+done	O
+
+columbia	COUNTRY
+production	O
+company	O
+movies	O
+
+find	O
+me	O
+20	NUMBER
+th	O
+century	DURATION
+fox	O
+films	O
+
+list	O
+of	O
+20	NUMBER
+th	O
+century	DURATION
+fox	O
+films	O
+
+watch	O
+century	DURATION
+fox	O
+movies	O
+
+films	O
+produced	O
+by	O
+twentieth	DATE
+century	DATE
+fox	DATE
+
+find	O
+movies	O
+by	O
+twentieth	DATE
+century	DATE
+fox	O
+
+find	O
+twentieth	DATE
+century	DATE
+fox	O
+movies	O
+
+search	O
+twentieth	DATE
+century	DATE
+fox	O
+
+show	O
+me	O
+movies	O
+by	O
+twentieth	DATE
+century	DATE
+fox	O
+
+show	O
+me	O
+elvis	O
+movies	O
+
+do	O
+you	O
+have	O
+any	O
+pg	O
+thirteen	NUMBER
+rated	O
+movies	O
+
+show	O
+me	O
+pg	O
+thirteen	NUMBER
+movies	O
+
+what	O
+movies	O
+are	O
+rated	O
+pg	O
+thirteen	NUMBER
+
+find	O
+pg	O
+thirteen	NUMBER
+movies	O
+
+show	O
+me	O
+movies	O
+that	O
+are	O
+rated	O
+pg	O
+thirteen	NUMBER
+
+list	O
+all	O
+movies	O
+rated	O
+pg-13	O
+
+find	O
+movies	O
+with	O
+pg-13	O
+only	O
+
+i	O
+need	O
+to	O
+know	O
+names	O
+of	O
+some	O
+movies	O
+which	O
+have	O
+a	O
+rating	O
+of	O
+pg-13	O
+
+i	O
+want	O
+to	O
+find	O
+pg-13	O
+rated	O
+movies	O
+
+pg-13	O
+movies	O
+
+which	O
+movies	O
+are	O
+rated	O
+pg-13	O
+
+find	O
+a	O
+pg-13	O
+movie	O
+
+find	O
+me	O
+pg-13	O
+movies	O
+
+find	O
+movies	O
+that	O
+are	O
+rated	O
+pg-13	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+some	O
+movies	O
+that	O
+have	O
+pg-13	O
+rating	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+of	O
+g	O
+rated	O
+movies	O
+
+list	O
+g	O
+
+what	O
+is	O
+a	O
+list	O
+of	O
+g	O
+movies	O
+
+are	O
+there	O
+any	O
+g	O
+movies	O
+out	O
+there	O
+right	DATE
+now	DATE
+
+find	O
+me	O
+movies	O
+rated	O
+g	O
+
+find	O
+movies	O
+only	O
+g	O
+
+get	O
+me	O
+only	O
+g-rated	O
+movies	O
+
+i	O
+want	O
+a	O
+list	O
+of	O
+movies	O
+rated	O
+g	O
+
+i	O
+want	O
+to	O
+see	O
+g-rated	O
+films	O
+now	DATE
+
+i	O
+want	O
+to	O
+take	O
+my	O
+kids	O
+to	O
+a	O
+g	O
+movie	O
+
+list	O
+of	O
+g	O
+movies	O
+
+list	O
+rating	O
+g	O
+
+listing	O
+of	O
+g	O
+movies	O
+
+look	O
+for	O
+movies	O
+rated	O
+g	O
+
+look	O
+up	O
+movies	O
+with	O
+a	O
+g	O
+rating	O
+
+play	O
+list	O
+g	O
+
+please	O
+select	O
+the	O
+option	O
+to	O
+search	O
+for	O
+g	O
+rated	O
+movies	O
+
+rating	O
+g	O
+
+search	O
+for	O
+movies	O
+rated	O
+g	O
+
+show	O
+me	O
+g	O
+rated	O
+movies	O
+
+show	O
+only	O
+g	O
+rated	O
+movies	O
+
+what	O
+available	O
+movies	O
+are	O
+rated	O
+g	O
+
+what	O
+movies	O
+are	O
+currently	DATE
+playing	O
+that	O
+are	O
+rated	O
+g	O
+
+find	O
+me	O
+movies	O
+rated	O
+g	O
+
+find	O
+movies	O
+that	O
+are	O
+rated	O
+g	O
+
+find	O
+movies	O
+with	O
+g	O
+rating	O
+
+g	O
+movies	O
+
+it	O
+is	O
+hard	O
+to	O
+find	O
+a	O
+movie	O
+that	O
+is	O
+rated	O
+g	O
+anymore	O
+
+list	O
+movies	O
+rated	O
+g	O
+
+only	O
+movies	O
+rated	O
+g	O
+
+rating	O
+g	O
+list	O
+
+show	O
+me	O
+g	O
+movies	O
+
+there	O
+are	O
+several	O
+g	O
+movies	O
+
+appropriate	O
+for	O
+kids	O
+
+what	O
+movies	O
+can	O
+young	O
+children	O
+watch	O
+
+watch	O
+pg	O
+and	O
+g	O
+movies	O
+
+did	O
+robert	O
+wise	O
+direct	O
+any	O
+other	O
+musical	O
+films	O
+
+find	O
+love	O
+stories	O
+
+find	O
+love	O
+stories	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+mgm	O
+
+movies	O
+from	O
+the	O
+uk	COUNTRY
+
+show	O
+me	O
+british	NATIONALITY
+films	O
+
+list	O
+uk	COUNTRY
+movies	O
+
+get	O
+films	O
+from	O
+the	O
+united	COUNTRY
+kingdom	COUNTRY
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+comedy	O
+made	O
+in	O
+norway	COUNTRY
+
+get	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+ron	O
+howard	O
+produce	O
+
+ron	O
+howard	O
+movies	O
+produce	O
+list	O
+
+list	O
+movies	O
+directed	O
+by	O
+clint	PERSON
+eastwood	PERSON
+
+show	O
+director	TITLE
+clint	O
+eastwood	O
+movies	O
+
+what	O
+movies	O
+did	O
+clint	O
+eastwood	O
+direct	O
+
+movies	O
+directed	O
+by	O
+clint	PERSON
+eastwood	PERSON
+
+list	O
+movies	O
+produced	O
+by	O
+sean	O
+penn	O
+
+find	O
+movies	O
+about	O
+vietnam	COUNTRY
+
+what	O
+movies	O
+has	O
+spielberg	O
+been	O
+a	O
+producer	TITLE
+on	O
+
+i	O
+would	O
+like	O
+to	O
+select	O
+the	O
+option	O
+to	O
+search	O
+for	O
+movies	O
+produced	O
+by	O
+stephen	O
+spielberg	O
+
+please	O
+list	O
+all	O
+movies	O
+that	O
+stephen	O
+spielberg	O
+produced	O
+
+select	O
+the	O
+option	O
+to	O
+search	O
+for	O
+movies	O
+produced	O
+by	O
+stephen	O
+spielberg	O
+
+which	O
+productions	O
+are	O
+from	O
+stephen	O
+spilberg	O
+
+find	O
+movies	O
+produced	O
+by	O
+steven	O
+spielberg	O
+
+list	O
+steven	O
+spielberg	O
+produced	O
+movies	O
+
+show	O
+me	O
+movies	O
+produced	O
+by	O
+stephen	O
+spielberg	O
+
+was	O
+kevin	O
+james	O
+in	O
+hitch	O
+
+was	O
+will	O
+smith	O
+in	O
+hitch	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+disney	O
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+some	O
+movies	O
+by	O
+producer	TITLE
+walt	O
+disney	O
+
+list	O
+all	O
+movies	O
+that	O
+walt	O
+disney	O
+produced	O
+
+show	O
+all	O
+movies	O
+directed	O
+by	O
+ron	PERSON
+howard	PERSON
+
+what	O
+movies	O
+has	O
+ron	O
+howard	O
+directed	O
+
+find	O
+movies	O
+by	O
+ron	PERSON
+howard	PERSON
+
+show	O
+movies	O
+directed	O
+by	O
+ron	PERSON
+howard	PERSON
+
+find	O
+movies	O
+produced	O
+by	O
+brian	O
+glazer	O
+
+list	O
+spielberg	O
+movies	O
+
+show	O
+spielberg	O
+movies	O
+
+what	O
+did	O
+spielberg	O
+direct	O
+
+stephen	O
+spielberg	O
+movies	O
+
+filmography	O
+for	O
+steven	O
+spielberg	O
+
+find	O
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+find	O
+steven	O
+spielberg	O
+movies	O
+
+i	O
+want	O
+to	O
+find	O
+movies	O
+directed	O
+by	O
+stephen	O
+speilberg	O
+
+list	O
+all	O
+steven	O
+spielberg	O
+movies	O
+
+please	O
+find	O
+the	O
+movies	O
+by	O
+steven	O
+spielberg	O
+
+show	O
+films	O
+by	O
+steven	O
+spielberg	O
+
+show	O
+steven	O
+spielberg	O
+movies	O
+
+show	O
+steven	O
+spielberg	O
+movies	O
+
+steven	O
+spielberg	O
+movies	O
+
+steven	O
+spielberg	O
+pictures	O
+
+what	O
+movies	O
+has	O
+steven	O
+spielberg	O
+done	O
+
+find	O
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+movie	O
+by	O
+steven	O
+spielberg	O
+
+movie	O
+stuff	O
+for	O
+steven	O
+spielberg	O
+
+movies	O
+by	O
+steven	O
+spielberg	O
+
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+can	O
+i	O
+see	O
+what	O
+movies	O
+steven	O
+spielberg	O
+has	O
+done	O
+
+can	O
+you	O
+find	O
+movies	O
+with	O
+steven	O
+spielberg	O
+
+spielberg	O
+movies	O
+
+videos	O
+of	O
+steven	O
+spielberg	O
+
+find	O
+a	O
+list	O
+of	O
+movies	O
+directed	O
+by	O
+spielberg	O
+
+show	O
+me	O
+the	O
+movies	O
+that	O
+spielberg	O
+made	O
+
+can	O
+you	O
+please	O
+search	O
+for	O
+movies	O
+by	O
+steven	O
+spielberg	O
+
+find	O
+movies	O
+directed	O
+by	O
+stephen	O
+spielberg	O
+
+find	O
+movies	O
+directed	O
+by	O
+stephen	O
+spielberg	O
+
+i	O
+would	O
+like	O
+to	O
+search	O
+for	O
+movies	O
+directed	O
+by	O
+stephen	O
+spielberg	O
+
+list	O
+some	O
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+please	O
+find	O
+movies	O
+directed	O
+by	O
+stephen	O
+spielberg	O
+
+show	O
+me	O
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+show	O
+me	O
+the	O
+movies	O
+directed	O
+by	O
+steven	O
+spielberg	O
+
+which	O
+movies	O
+are	O
+from	O
+stephen	O
+spielberg	O
+
+gilda	PERSON
+charles	PERSON
+vidor	PERSON
+
+show	O
+me	O
+movie	O
+gilda	O
+by	O
+charles	O
+vidor	O
+
+find	O
+some	O
+musical	O
+movies	O
+
+looking	O
+for	O
+a	O
+musical	O
+movie	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+musicals	O
+
+find	O
+the	O
+movie	O
+hum	O
+tum	O
+
+find	O
+movies	O
+directed	O
+by	O
+eddie	PERSON
+murphy	PERSON
+
+search	O
+movies	O
+by	O
+noah	PERSON
+baumbach	PERSON
+
+search	O
+chick	O
+flicks	O
+
+can	O
+you	O
+show	O
+me	O
+movies	O
+about	O
+war	CAUSE_OF_DEATH
+
+show	O
+me	O
+some	O
+war	CAUSE_OF_DEATH
+themed	O
+movies	O
+
+show	O
+movies	O
+concerning	O
+war	CAUSE_OF_DEATH
+
+please	O
+list	O
+movies	O
+about	O
+war	CAUSE_OF_DEATH
+
+list	O
+movies	O
+about	O
+war	CAUSE_OF_DEATH
+
+what	O
+movies	O
+are	O
+made	O
+by	O
+twentieth	DATE
+century	DATE
+fox	O
+television	O
+
+find	O
+movies	O
+directed	O
+by	O
+todd	O
+solondz	O
+
+find	O
+me	O
+movies	O
+with	O
+hugh	PERSON
+jackman	PERSON
+
+what	O
+ron	O
+howard	O
+movies	O
+are	O
+rated	O
+pg-13	O
+
+look	O
+for	O
+dramas	O
+made	O
+or	O
+shot	O
+in	O
+france	COUNTRY
+
+find	O
+movies	O
+from	O
+france	COUNTRY
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+from	O
+france	COUNTRY
+
+movies	O
+from	O
+france	COUNTRY
+
+what	O
+are	O
+all	O
+the	O
+movies	O
+to	O
+come	O
+out	O
+of	O
+france	COUNTRY
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+made	O
+in	O
+france	COUNTRY
+
+i	O
+am	O
+looking	O
+for	O
+movies	O
+made	O
+in	O
+france	COUNTRY
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+were	O
+made	O
+in	O
+france	COUNTRY
+
+i	O
+would	O
+like	O
+to	O
+view	O
+any	O
+movies	O
+made	O
+in	O
+france	COUNTRY
+
+please	O
+show	O
+me	O
+movies	O
+made	O
+in	O
+france	COUNTRY
+
+find	O
+movies	O
+from	O
+france	COUNTRY
+
+find	O
+movies	O
+from	O
+france	COUNTRY
+
+what	O
+movies	O
+were	O
+filmed	O
+in	O
+france	COUNTRY
+
+find	O
+french	NATIONALITY
+films	O
+
+find	O
+french	NATIONALITY
+movies	O
+
+find	O
+french	NATIONALITY
+movies	O
+
+french	NATIONALITY
+movies	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+french	NATIONALITY
+movies	O
+
+list	O
+french	NATIONALITY
+movies	O
+
+look	O
+for	O
+french	NATIONALITY
+movies	O
+
+look	O
+up	O
+french	NATIONALITY
+movies	O
+
+show	O
+me	O
+french	NATIONALITY
+movies	O
+
+show	O
+me	O
+only	O
+french	NATIONALITY
+foreign	O
+films	O
+
+are	O
+there	O
+any	O
+french	NATIONALITY
+films	O
+showing	O
+
+show	O
+me	O
+mystery	O
+movies	O
+
+find	O
+movies	O
+produced	O
+by	O
+disney	O
+pixar	O
+
+show	O
+me	O
+pixar	O
+films	O
+
+find	O
+movies	O
+produced	O
+by	O
+lucas	O
+films	O
+
+i	O
+would	O
+like	O
+to	O
+find	O
+movies	O
+starring	O
+the	O
+singer	TITLE
+mario	O
+
+look	O
+for	O
+movies	O
+starring	O
+the	O
+singer	TITLE
+mario	O
+
+search	O
+for	O
+movies	O
+starring	O
+the	O
+singer	TITLE
+mario	O
+
+bring	O
+up	O
+all	O
+diving	O
+movies	O
+
+bring	O
+up	O
+all	O
+diving	O
+related	O
+movies	O
+
+show	O
+me	O
+all	O
+movies	O
+about	O
+diving	O
+
+show	O
+me	O
+diving	O
+movies	O
+
+sort	O
+in	O
+all	O
+diving	O
+movies	O
+
+what	O
+is	O
+the	O
+plot	O
+of	O
+vulgaria	O
+
+find	O
+movies	O
+by	O
+mosfilm	O
+
+search	O
+for	O
+movies	O
+that	O
+were	O
+produced	O
+by	O
+mosfilm	O
+
+what	O
+films	O
+deal	O
+with	O
+immigrants	O
+in	O
+america	COUNTRY
+
+look	O
+for	O
+cher	O
+movies	O
+
+show	O
+me	O
+cher	O
+movies	O
+
+eva	O
+mendes	O
+films	O
+
+the	O
+god	O
+father	O
+
+i	O
+need	O
+a	O
+list	O
+of	O
+tom	O
+hanks	O
+movies	O
+
+i	O
+want	O
+to	O
+view	O
+only	O
+movies	O
+with	O
+tom	O
+hanks	O
+
+i	O
+want	O
+to	O
+watch	O
+movies	O
+with	O
+tom	O
+hanks	O
+
+list	O
+tom	O
+hanks	O
+movies	O
+for	O
+me	O
+
+movies	O
+with	O
+tom	O
+hanks	O
+
+show	O
+me	O
+tom	O
+hanks	O
+movies	O
+
+show	O
+tom	O
+hanks	O
+movies	O
+
+tell	O
+me	O
+what	O
+movies	O
+tom	O
+hanks	O
+star	O
+in	O
+
+tom	O
+hanks	O
+movies	O
+
+watch	O
+tom	O
+hanks	O
+
+what	O
+other	O
+movies	O
+did	O
+tom	O
+hanks	O
+star	O
+in	O
+
+find	O
+movies	O
+produced	O
+by	O
+morgan	O
+freeman	O
+
+producer	TITLE
+tom	O
+hanks	O
+movies	O
+
+what	O
+did	O
+tom	O
+hanks	O
+produces	O
+
+find	O
+movies	O
+directed	O
+by	O
+oliver	O
+stone	O
+
+find	O
+oliver	O
+stone	O
+directed	O
+movies	O
+
+i	O
+need	O
+movies	O
+directed	O
+by	O
+oliver	O
+stone	O
+
+please	O
+provide	O
+movies	O
+directed	O
+by	O
+oliver	O
+stone	O
+
+show	O
+movies	O
+directed	O
+by	O
+oliver	O
+stone	O
+
+name	O
+all	O
+of	O
+the	O
+movies	O
+john	O
+singleton	O
+has	O
+directed	O
+
+what	O
+are	O
+all	O
+of	O
+the	O
+movies	O
+that	O
+john	O
+singleton	O
+has	O
+directed	O
+
+show	O
+me	O
+movies	O
+in	O
+greek	NATIONALITY
+
+are	O
+there	O
+any	O
+movies	O
+in	O
+greek	NATIONALITY
+
+can	O
+i	O
+see	O
+all	O
+movies	O
+starring	O
+alan	PERSON
+rickman	PERSON
+
+show	O
+me	O
+movies	O
+with	O
+alan	O
+rickman	O
+
+show	O
+movies	O
+charlie	O
+sheen	O
+
+funny	O
+pg	O
+thirteen	NUMBER
+movies	O
+
+find	O
+movies	O
+produced	O
+by	O
+albert	O
+ruddy	O
+
+please	O
+look	O
+up	O
+movies	O
+produced	O
+by	O
+albert	O
+ruddy	O
+
+list	O
+all	O
+movies	O
+produced	O
+by	O
+alfred	O
+ruddy	O
+
+search	O
+for	O
+movies	O
+produced	O
+by	O
+albert	O
+ruddy	O
+
+what	O
+movies	O
+has	O
+albert	O
+ruddy	O
+produced	O
+
+what	O
+movies	O
+have	O
+albert	O
+ruddy	O
+produced	O
+
+which	O
+movie	O
+was	O
+produced	O
+by	O
+albert	O
+rudy	O
+
+which	O
+all	O
+movies	O
+are	O
+produced	O
+by	O
+yash	O
+chopra	O
+
+the	O
+camp	O
+out	O
+
+get	O
+all	O
+brad	O
+pitt	O
+produced	O
+movies	O
+
+what	O
+movies	O
+have	O
+brad	O
+pitt	O
+produced	O
+
+what	O
+movies	O
+were	O
+produced	O
+by	O
+brad	O
+pitt	O
+
+find	O
+movies	O
+starring	O
+halle	PERSON
+berry	PERSON
+
+look	O
+for	O
+films	O
+with	O
+halle	O
+berry	O
+
+search	O
+movies	O
+in	O
+which	O
+halle	O
+berry	O
+acted	O
+
+films	O
+by	O
+mel	O
+gibson	O
+
+search	O
+movies	O
+made	O
+by	O
+mel	PERSON
+gibson	PERSON
+
+movies	O
+by	O
+mel	PERSON
+gibson	PERSON
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+directed	O
+by	O
+mel	PERSON
+gibson	PERSON
+
+is	O
+this	O
+movie	O
+a	O
+romance	O
+
+home	O
+this	O
+movie	O
+is	O
+in	O
+english	NATIONALITY
+
+hope	O
+this	O
+movie	O
+is	O
+in	O
+english	NATIONALITY
+
+i	O
+hope	O
+this	O
+movie	O
+would	O
+be	O
+in	O
+english	NATIONALITY
+
+need	O
+to	O
+provide	O
+more	O
+info	O
+about	O
+the	O
+movie	O
+content	O
+
+was	O
+what	O
+tom	O
+cruise	O
+'s	O
+first	ORDINAL
+movie	O
+
+is	O
+the	O
+other	O
+guys	O
+a	O
+comedy	O
+
+what	O
+movies	O
+have	O
+robert	O
+deniro	O
+produced	O
+
+find	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+directed	O
+by	O
+james	O
+cameron	O
+
+find	O
+movies	O
+directed	O
+by	O
+james	PERSON
+cameron	PERSON
+
+i	O
+want	O
+to	O
+find	O
+movies	O
+by	O
+director	TITLE
+james	PERSON
+cameron	PERSON
+
+list	O
+all	O
+of	O
+the	O
+movies	O
+directed	O
+by	O
+james	O
+cameron	O
+
+list	O
+movies	O
+directed	O
+by	O
+james	O
+cameron	O
+
+watch	O
+james	O
+cameron	O
+movies	O
+
+can	O
+you	O
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+the	O
+movies	O
+directed	O
+by	O
+james	O
+cameron	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+the	O
+movies	O
+directed	O
+by	O
+james	O
+cameron	O
+
+show	O
+me	O
+other	O
+movies	O
+produced	O
+by	O
+james	O
+cameron	O
+
+show	O
+me	O
+the	O
+movies	O
+that	O
+james	O
+cameron	O
+has	O
+produced	O
+
+find	O
+me	O
+some	O
+warner	O
+bros.	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+produced	O
+by	O
+warner	O
+bros	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+warner	O
+bros.	O
+films	O
+
+show	O
+me	O
+all	O
+films	O
+produced	O
+by	O
+warner	O
+bros	O
+.	O
+
+show	O
+me	O
+the	O
+movies	O
+produced	O
+by	O
+warner	O
+bros	O
+
+what	O
+are	O
+the	O
+films	O
+that	O
+warner	O
+bros.	O
+produced	O
+
+i	O
+need	O
+to	O
+see	O
+some	O
+movies	O
+from	O
+warner	O
+brothers	O
+
+search	O
+for	O
+warner	O
+brothers	O
+movies	O
+
+i	O
+would	O
+love	O
+to	O
+see	O
+some	O
+movies	O
+produced	O
+by	O
+the	O
+wb	O
+
+what	O
+movies	O
+has	O
+jj	O
+abrams	O
+procuced	O
+
+show	O
+recent	O
+films	O
+starring	O
+bruce	O
+willis	O
+
+list	O
+recent	O
+films	O
+with	O
+actor	TITLE
+bruce	O
+willis	O
+
+find	O
+john	O
+cusack	O
+movies	O
+
+get	O
+john	O
+cusack	O
+movies	O
+for	O
+me	O
+
+look	O
+for	O
+john	O
+cusack	O
+movies	O
+
+look	O
+for	O
+wes	O
+anderson	O
+films	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+names	O
+of	O
+all	O
+the	O
+movies	O
+which	O
+have	O
+george	O
+clooney	O
+in	O
+them	O
+
+which	O
+are	O
+some	O
+of	O
+the	O
+movies	O
+that	O
+have	O
+george	O
+clooney	O
+in	O
+them	O
+
+show	O
+me	O
+some	O
+films	O
+produced	O
+by	O
+jon	O
+landau	O
+
+about	O
+finding	O
+nemo	O
+
+about	O
+finding	O
+nemo	O
+
+about	O
+finding	O
+nemo	O
+
+all	O
+about	O
+finding	O
+nemo	O
+
+detail	O
+finding	O
+nemo	O
+
+find	O
+me	O
+more	O
+about	O
+finding	O
+nemo	O
+
+finding	O
+nemo	O
+
+finding	O
+nemo	O
+
+finding	O
+nemo	O
+details	O
+please	O
+
+finding	O
+nemo	O
+info	O
+
+how	O
+can	O
+i	O
+get	O
+more	O
+information	O
+on	O
+finding	O
+nemo	O
+
+i	O
+need	O
+general	TITLE
+information	O
+on	O
+finding	O
+nemo	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+finding	O
+nemo	O
+'s	O
+page	O
+
+information	O
+on	O
+finding	O
+nemo	O
+
+information	O
+on	O
+finding	O
+nemo	O
+
+look	O
+up	O
+finding	O
+nemo	O
+
+open	O
+page	O
+for	O
+finding	O
+nemo	O
+
+please	O
+find	O
+me	O
+some	O
+info	O
+on	O
+finding	O
+nemo	O
+
+run	O
+a	O
+search	O
+for	O
+finding	O
+nemo	O
+for	O
+me	O
+please	O
+
+show	O
+details	O
+of	O
+the	O
+original	O
+finding	O
+nemo	O
+
+show	O
+finding	O
+nemo	O
+
+show	O
+me	O
+finding	O
+nemo	O
+
+show	O
+me	O
+finding	O
+nemo	O
+'s	O
+page	O
+
+show	O
+me	O
+the	O
+official	O
+site	O
+for	O
+finding	O
+nemo	O
+
+synopsis	O
+for	O
+finding	O
+nemo	O
+
+synopsis	O
+for	O
+finding	O
+nemo	O
+
+where	O
+can	O
+i	O
+find	O
+information	O
+on	O
+finding	O
+nemo	O
+
+about	O
+the	O
+campaign	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+all	O
+the	O
+information	O
+about	O
+the	O
+the	O
+campaign	O
+
+run	O
+a	O
+search	O
+for	O
+the	O
+campaign	O
+
+the	O
+campaign	O
+
+what	O
+is	O
+the	O
+campaign	O
+about	O
+
+show	O
+me	O
+apollo	O
+thirteen	NUMBER
+
+frank	O
+capra	O
+movies	O
+
+find	O
+movies	O
+produced	O
+by	O
+castle	O
+rock	O
+entertainment	O
+
+what	O
+movies	O
+does	O
+jake	O
+gyllenhaal	O
+star	O
+in	O
+
+get	O
+a	O
+list	O
+of	O
+movies	O
+with	O
+kristen	O
+stewart	O
+
+kristen	O
+stewart	O
+top	O
+movies	O
+
+show	O
+me	O
+all	O
+movies	O
+kristen	O
+stewart	O
+has	O
+been	O
+in	O
+
+what	O
+movies	O
+have	O
+kristen	O
+stewart	O
+done	O
+
+which	O
+movies	O
+has	O
+kristen	O
+stewart	O
+been	O
+in	O
+
+list	O
+movie	O
+info	O
+kristen	O
+stewart	O
+
+find	O
+movie	O
+info	O
+kristenn	O
+stewart	O
+
+movie	O
+info	O
+kristen	O
+stewart	O
+
+show	O
+lionsgate	O
+director	TITLE
+movies	O
+
+display	O
+movies	O
+made	O
+by	O
+production	O
+lionsgate	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+of	O
+lionsgate	O
+movies	O
+
+lionsgate	O
+films	O
+
+lionsgate	O
+list	O
+
+lionsgate	O
+movies	O
+
+list	O
+lionsgate	O
+movies	O
+
+search	O
+for	O
+lionsgate	O
+movies	O
+
+what	O
+movies	O
+has	O
+lionsgate	O
+done	O
+
+michelle	O
+phifer	O
+movie	O
+list	O
+
+find	O
+danish	NATIONALITY
+movies	O
+
+show	O
+me	O
+the	O
+movies	O
+acted	O
+by	O
+chiranjeevi	O
+
+what	O
+movies	O
+has	O
+charles	O
+vidor	O
+directed	O
+
+what	O
+other	O
+movies	O
+die	O
+charles	O
+vidor	O
+direct	O
+
+show	O
+me	O
+all	O
+movies	O
+by	O
+charles	PERSON
+vidor	PERSON
+
+i	O
+'d	O
+like	O
+to	O
+see	O
+foreign	O
+films	O
+
+search	O
+for	O
+foreign	O
+movies	O
+
+what	O
+are	O
+some	O
+universal	O
+pictures	O
+films	O
+
+show	O
+me	O
+all	O
+the	O
+movies	O
+made	O
+by	O
+universal	O
+
+find	O
+historical	O
+movies	O
+
+display	O
+the	O
+films	O
+by	O
+7	NUMBER
+arts	O
+
+show	O
+movies	O
+done	O
+by	O
+7	NUMBER
+arts	O
+
+can	O
+you	O
+show	O
+me	O
+a	O
+korean	NATIONALITY
+movie	O
+
+find	O
+korean	NATIONALITY
+movies	O
+
+korean	NATIONALITY
+movie	O
+
+show	O
+me	O
+korean	NATIONALITY
+movies	O
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+korean	NATIONALITY
+movie	O
+
+find	O
+all	O
+rated	O
+pg-13	O
+movies	O
+with	O
+eddie	O
+murphy	O
+
+twentieth	DATE
+century	DATE
+fox	O
+movies	O
+since	O
+1990	DATE
+
+can	O
+you	O
+show	O
+me	O
+movies	O
+starring	O
+denzel	O
+washington	STATE_OR_PROVINCE
+please	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+starring	O
+denzel	O
+washington	STATE_OR_PROVINCE
+
+please	O
+show	O
+me	O
+movies	O
+starring	O
+denzel	O
+washington	STATE_OR_PROVINCE
+
+show	O
+me	O
+movies	O
+starring	O
+denzel	O
+washington	STATE_OR_PROVINCE
+
+all	O
+the	O
+movies	O
+by	O
+kareena	PERSON
+
+find	O
+movies	O
+of	O
+kareena	O
+
+kareena	O
+'s	O
+movies	O
+
+look	O
+for	O
+kareena	O
+'s	O
+movies	O
+
+find	O
+prison	O
+break	O
+movies	O
+
+find	O
+movies	O
+produced	O
+by	O
+spike	O
+lee	O
+
+has	O
+spike	O
+lee	O
+produced	O
+any	O
+films	O
+
+search	O
+for	O
+movies	O
+produced	O
+by	O
+spike	O
+lee	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+woody	O
+allen	O
+films	O
+
+show	O
+all	O
+movies	O
+directed	O
+by	O
+woody	O
+allen	O
+
+woody	O
+movies	O
+
+please	O
+find	O
+all	O
+movies	O
+woody	O
+allen	O
+has	O
+directed	O
+
+what	O
+movies	O
+were	O
+directed	O
+by	O
+woody	O
+allen	O
+
+which	O
+movies	O
+does	O
+gabrielle	O
+union	O
+come	O
+out	O
+in	O
+
+give	O
+me	O
+anything	O
+directed	O
+by	O
+robert	O
+wise	O
+
+list	O
+all	O
+robert	O
+wise	O
+movies	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+directed	O
+by	O
+robert	O
+wise	O
+
+what	O
+are	O
+all	O
+of	O
+the	O
+movies	O
+directed	O
+by	O
+robert	O
+wise	O
+
+list	O
+all	O
+of	O
+the	O
+movies	O
+that	O
+have	O
+been	O
+directed	O
+by	O
+robert	O
+wise	O
+
+what	O
+are	O
+all	O
+movies	O
+produced	O
+by	O
+chris	PERSON
+nolan	PERSON
+
+show	O
+me	O
+movies	O
+in	O
+german	NATIONALITY
+
+display	O
+movies	O
+in	O
+german	NATIONALITY
+
+do	O
+you	O
+have	O
+in	O
+movies	O
+in	O
+german	NATIONALITY
+
+i	O
+only	O
+want	O
+to	O
+see	O
+movies	O
+in	O
+german	NATIONALITY
+
+watch	O
+movies	O
+in	O
+german	NATIONALITY
+language	O
+
+find	O
+films	O
+in	O
+german	NATIONALITY
+
+get	O
+german	NATIONALITY
+language	O
+films	O
+
+show	O
+movies	O
+in	O
+german	NATIONALITY
+
+show	O
+back	O
+to	O
+the	DATE
+future	DATE
+movies	O
+
+show	O
+me	O
+back	O
+to	O
+the	DATE
+future	DATE
+movies	O
+
+movie	O
+results	O
+for	O
+back	O
+to	O
+the	DATE
+future	DATE
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+christian	O
+bale	O
+has	O
+starred	O
+in	O
+during	O
+his	O
+career	O
+
+what	O
+are	O
+all	O
+of	O
+the	O
+movies	O
+acted	O
+in	O
+by	O
+the	O
+actor	TITLE
+christian	RELIGION
+bale	O
+
+what	O
+are	O
+all	O
+the	O
+movies	O
+played	O
+in	O
+by	O
+chrisian	O
+bale	O
+
+what	O
+movies	O
+has	O
+christian	RELIGION
+bale	O
+acted	O
+in	O
+
+what	O
+movies	O
+has	O
+christian	RELIGION
+bale	O
+appeared	O
+in	O
+
+what	O
+movies	O
+have	O
+christian	RELIGION
+bale	O
+played	O
+in	O
+
+what	O
+movies	O
+and	O
+upcoming	O
+movies	O
+will	O
+christian	O
+bale	O
+star	O
+in	O
+
+find	O
+me	O
+movies	O
+by	O
+jj	O
+abrams	O
+
+brad	O
+pitt	O
+movie	O
+now	DATE
+
+brad	O
+pitt	O
+movies	O
+
+can	O
+you	O
+please	O
+list	O
+all	O
+movies	O
+with	O
+brad	O
+pitt	O
+
+can	O
+you	O
+please	O
+list	O
+all	O
+movies	O
+with	O
+brad	O
+pitt	O
+
+can	O
+you	O
+please	O
+list	O
+the	O
+movies	O
+brad	O
+pitt	O
+has	O
+acted	O
+in	O
+
+can	O
+you	O
+show	O
+me	O
+a	O
+movie	O
+with	O
+brad	O
+pitt	O
+
+i	O
+want	O
+to	O
+watch	O
+movies	O
+with	O
+brad	O
+pitt	O
+
+list	O
+all	O
+brad	O
+pitt	O
+movies	O
+
+list	O
+all	O
+brad	O
+pitt	O
+'s	O
+movies	O
+
+list	O
+brad	O
+pitt	O
+movies	O
+
+look	O
+for	O
+movies	O
+with	O
+brad	O
+pitt	O
+in	O
+them	O
+
+movie	O
+with	O
+brad	O
+pitt	O
+
+show	O
+all	O
+brad	O
+pitt	O
+movies	O
+
+show	O
+brad	O
+pitt	O
+movies	O
+
+show	O
+me	O
+brad	O
+pitt	O
+movies	O
+
+show	O
+movies	O
+with	O
+brad	O
+pitt	O
+
+what	O
+movie	O
+brad	O
+pitt	O
+in	O
+
+what	O
+movies	O
+have	O
+brad	O
+pitt	O
+
+sort	O
+by	O
+all	O
+brad	O
+pitt	O
+movies	O
+
+what	O
+movies	O
+did	O
+tom	O
+hanks	O
+direct	O
+that	O
+he	O
+also	O
+starred	O
+in	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+directed	O
+by	O
+tom	O
+hanks	O
+starting	O
+with	O
+newest	O
+to	O
+oldest	O
+
+angelina	O
+jolie	O
+'s	O
+latest	O
+movie	O
+
+movies	O
+from	O
+scotland	COUNTRY
+
+give	O
+me	O
+a	O
+list	O
+of	O
+r	O
+rated	O
+movies	O
+
+i	O
+want	O
+to	O
+look	O
+for	O
+movies	O
+with	O
+an	O
+r	O
+rating	O
+
+i	O
+want	O
+to	O
+see	O
+all	O
+movies	O
+with	O
+a	O
+r	O
+rating	O
+
+please	O
+look	O
+up	O
+r	O
+rated	O
+movies	O
+
+rate	O
+r	O
+movies	O
+for	O
+adult	O
+enterainment	O
+
+show	O
+me	O
+all	O
+r-rated	O
+movies	O
+
+show	O
+me	O
+movies	O
+that	O
+are	O
+rated	O
+r	O
+
+find	O
+movies	O
+with	O
+r	O
+ratings	O
+
+find	O
+rated	O
+r	O
+movies	O
+
+i	O
+want	O
+to	O
+find	O
+movies	O
+rated	O
+r	O
+
+i	O
+want	O
+to	O
+view	O
+movies	O
+that	O
+are	O
+rated	O
+r	O
+
+look	O
+up	O
+r	O
+rated	O
+movies	O
+
+movies	O
+with	O
+r	O
+rating	O
+
+r-rated	O
+
+r	O
+rated	O
+movies	O
+
+show	O
+me	O
+movies	O
+with	O
+a	O
+rating	O
+of	O
+r	O
+
+what	O
+are	O
+a	O
+list	O
+of	O
+movies	O
+with	O
+an	O
+r	O
+rating	O
+
+are	O
+there	O
+any	O
+movies	O
+that	O
+are	O
+rated	O
+r	O
+
+compile	O
+a	O
+list	O
+of	O
+movies	O
+with	O
+a	O
+r	O
+rating	O
+
+i	O
+want	O
+an	O
+r	O
+rated	O
+movie	O
+
+list	O
+all	O
+rated	O
+r	O
+movies	O
+
+r	O
+rated	O
+movies	O
+
+search	O
+for	O
+r	O
+rated	O
+movies	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+with	O
+r	O
+rating	O
+
+show	O
+me	O
+all	O
+rated	O
+r	O
+movies	O
+
+show	O
+me	O
+r	O
+movies	O
+
+show	O
+me	O
+r	O
+rated	O
+movies	O
+
+show	O
+only	O
+rated	O
+r	O
+movies	O
+
+what	O
+are	O
+movies	O
+that	O
+have	O
+a	O
+r	O
+rating	O
+
+which	O
+movies	O
+are	O
+rated	O
+r	O
+
+what	O
+other	O
+videos	O
+does	O
+the	O
+country	O
+norway	COUNTRY
+have	O
+
+a	O
+showing	O
+of	O
+movies	O
+that	O
+are	O
+in	O
+spanish	NATIONALITY
+
+can	O
+you	O
+find	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+search	O
+for	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+spanish	NATIONALITY
+language	O
+movies	O
+
+i	O
+am	O
+looking	O
+for	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+i	O
+would	O
+like	O
+to	O
+watch	O
+movies	O
+that	O
+are	O
+spoken	O
+in	O
+spanish	NATIONALITY
+
+list	O
+of	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+show	O
+me	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+can	O
+you	O
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+find	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+find	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+give	O
+me	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+i	O
+would	O
+like	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+have	O
+been	O
+made	O
+in	O
+spanish	NATIONALITY
+
+movies	O
+in	O
+spanish	NATIONALITY
+
+please	O
+make	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+have	O
+been	O
+made	O
+in	O
+spanish	NATIONALITY
+
+send	O
+me	O
+movies	O
+that	O
+are	O
+in	O
+spanish	NATIONALITY
+
+show	O
+me	O
+movies	O
+in	O
+spanish	NATIONALITY
+
+show	O
+me	O
+movies	O
+that	O
+are	O
+in	O
+spanish	NATIONALITY
+
+give	O
+me	O
+swedish	NATIONALITY
+films	O
+
+show	O
+me	O
+mexican	NATIONALITY
+films	O
+
+show	O
+me	O
+movies	O
+made	O
+in	O
+south	COUNTRY
+africa	COUNTRY
+
+list	O
+some	O
+sci	O
+fi	O
+movies	O
+
+show	O
+me	O
+scifi	O
+fantasy	O
+movies	O
+
+find	O
+scifi	O
+films	O
+
+list	O
+scifi	O
+
+what	O
+movies	O
+did	O
+matt	O
+damon	O
+appear	O
+in	O
+
+sound	O
+of	O
+music	O
+robert	O
+wise	O
+
+can	O
+i	O
+watch	O
+a	O
+terry	O
+george	O
+film	O
+tonight	DATE
+
+get	O
+a	O
+list	O
+of	O
+animated	O
+films	O
+
+show	O
+me	O
+movies	O
+that	O
+are	O
+about	O
+scary	O
+zombies	O
+
+is	O
+there	O
+a	O
+movie	O
+about	O
+the	O
+zombie	O
+apocolypse	O
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+about	O
+zombie	O
+horror	O
+films	O
+
+find	O
+some	O
+zombie	O
+movies	O
+
+find	O
+zombie	O
+movies	O
+
+get	O
+list	O
+of	O
+zombie	O
+movies	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+zombie	O
+movies	O
+
+i	O
+want	O
+to	O
+find	O
+zombie	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+zombie	O
+movies	O
+
+see	O
+zombie	O
+movies	O
+
+show	O
+me	O
+zombie	O
+movies	O
+
+show	O
+me	O
+zombie	O
+movies	O
+
+show	O
+zombie	O
+movies	O
+
+zombie	O
+movie	O
+favorites	O
+
+find	O
+me	O
+a	O
+movie	O
+with	O
+zombies	O
+
+show	O
+me	O
+movies	O
+about	O
+zombies	O
+
+show	O
+me	O
+movies	O
+about	O
+zombies	O
+
+show	O
+me	O
+movies	O
+about	O
+zombies	O
+
+show	O
+movies	O
+of	O
+zombies	O
+
+which	O
+movies	O
+are	O
+based	O
+on	O
+zombies	O
+
+which	O
+movies	O
+have	O
+zombies	O
+in	O
+them	O
+
+movies	O
+about	O
+zombies	O
+
+display	O
+movies	O
+of	O
+zombies	O
+
+get	O
+movies	O
+about	O
+zombies	O
+
+movies	O
+about	O
+zombies	O
+
+i	O
+want	O
+scary	O
+zombie	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+zombie	O
+movies	O
+that	O
+are	O
+scary	O
+
+find	O
+movies	O
+directed	O
+by	O
+niel	PERSON
+abramson	PERSON
+
+zombies	O
+
+what	O
+movies	O
+are	O
+directed	O
+by	O
+ridley	PERSON
+scott	PERSON
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+directed	O
+by	O
+ridley	PERSON
+scott	PERSON
+
+german	NATIONALITY
+movie	O
+info	O
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+german	NATIONALITY
+movie	O
+
+info	O
+german	NATIONALITY
+movie	O
+
+show	O
+german	NATIONALITY
+movies	O
+
+find	O
+action	O
+movies	O
+
+looking	O
+for	O
+an	O
+action	O
+movie	O
+
+what	O
+is	O
+the	O
+ratings	O
+of	O
+action	O
+movies	O
+
+movies	O
+patrick	O
+swayze	O
+played	O
+in	O
+
+show	O
+me	O
+a	O
+movie	O
+that	O
+starred	O
+patrick	O
+swayze	O
+
+show	O
+me	O
+short	O
+films	O
+
+movies	O
+by	O
+george	O
+lucas	O
+
+list	O
+of	O
+all	O
+dutch	NATIONALITY
+movies	O
+
+please	O
+give	O
+me	O
+a	O
+dutch	NATIONALITY
+movie	O
+listing	O
+
+dutch	NATIONALITY
+movie	O
+listing	O
+
+show	O
+me	O
+childrens	O
+movies	O
+
+movies	O
+tom	O
+cruise	O
+produced	O
+
+what	O
+movies	O
+did	O
+harry	O
+weinstein	O
+produce	O
+
+i	O
+want	O
+to	O
+look	O
+for	O
+movies	O
+produced	O
+by	O
+morgan	O
+freeman	O
+
+i	O
+would	O
+like	O
+to	O
+find	O
+movies	O
+produced	O
+by	O
+morgan	O
+freeman	O
+
+look	O
+for	O
+movies	O
+produced	O
+by	O
+morgan	O
+freeman	O
+
+search	O
+for	O
+movies	O
+produced	O
+by	O
+morgan	O
+freeman	O
+
+what	O
+movies	O
+are	O
+in	O
+bengali	O
+
+meryl	O
+streep	O
+movies	O
+
+movies	O
+frances	O
+ford	O
+copolla	O
+
+what	O
+movie	O
+did	O
+victor	O
+fleming	O
+direct	O
+
+movies	O
+from	O
+russia	COUNTRY
+
+search	O
+for	O
+films	O
+produced	O
+in	O
+russia	COUNTRY
+
+find	O
+movies	O
+produced	O
+in	O
+russia	COUNTRY
+
+find	O
+all	O
+details	O
+about	O
+star	O
+wars	O
+-	O
+a	O
+new	O
+hope	O
+movie	O
+
+show	O
+all	O
+details	O
+about	O
+star	O
+wars	O
+-	O
+a	O
+new	O
+hope	O
+movie	O
+
+get	O
+me	O
+information	O
+about	O
+the	O
+movie	TITLE
+star	TITLE
+wars	O
+four	NUMBER
+
+can	O
+you	O
+show	O
+me	O
+details	O
+about	O
+the	O
+movie	TITLE
+star	TITLE
+wars	O
+:	O
+episode	O
+four	NUMBER
+-	O
+a	O
+new	O
+hope	O
+
+give	O
+me	O
+detailed	O
+information	O
+about	O
+the	O
+movie	TITLE
+star	TITLE
+wars	O
+:	O
+episode	O
+four	NUMBER
+-	O
+a	O
+new	O
+hope	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+some	O
+information	O
+about	O
+the	O
+movie	TITLE
+star	TITLE
+wars	O
+:	O
+episode	O
+four	NUMBER
+-	O
+a	O
+new	O
+hope	O
+
+list	O
+star	O
+wars	O
+movie	O
+a	O
+new	O
+hope	O
+
+find	O
+info	O
+about	O
+star	O
+wars	O
+episode	O
+four	NUMBER
+
+get	O
+me	O
+info	O
+on	O
+star	O
+wars	O
+episode	O
+four	NUMBER
+
+get	O
+me	O
+star	O
+wars	O
+episode	O
+four	NUMBER
+details	O
+
+i	O
+want	O
+to	O
+see	O
+info	O
+about	O
+star	O
+wars	O
+four	NUMBER
+
+run	O
+a	O
+search	O
+for	O
+star	O
+wars	O
+four	NUMBER
+
+show	O
+me	O
+star	O
+wars	O
+four	NUMBER
+
+show	O
+me	O
+star	O
+wars	O
+four	NUMBER
+page	O
+
+star	O
+wars	O
+four	NUMBER
+
+take	O
+me	O
+to	O
+star	O
+wars	O
+four	NUMBER
+page	O
+
+where	O
+can	O
+i	O
+watch	O
+star	O
+wars	O
+four	NUMBER
+
+tell	O
+about	O
+star	O
+wars	O
+iv	O
+
+what	O
+is	O
+full	O
+name	O
+of	O
+star	O
+wars	O
+iv	O
+
+darth	O
+vader	O
+
+han	O
+solo	O
+
+i	O
+only	O
+want	O
+movies	O
+by	O
+sidney	O
+lumit	O
+
+movies	O
+with	O
+sally	O
+field	O
+
+can	O
+you	O
+please	O
+open	O
+page	O
+about	O
+in	O
+july	DATE
+movie	O
+
+display	O
+details	O
+of	O
+in	O
+july	DATE
+movie	O
+
+exhibit	O
+details	O
+of	O
+in	O
+july	DATE
+movie	O
+
+in	O
+july	DATE
+movie	O
+page	O
+
+about	O
+movie	O
+in	O
+july	DATE
+
+find	O
+me	O
+the	O
+film	O
+in	O
+july	DATE
+
+show	O
+information	O
+for	O
+the	O
+movie	O
+title	O
+in	O
+july	DATE
+with	O
+moritz	O
+bleibtreu	O
+
+give	O
+me	O
+details	O
+about	O
+the	O
+movie	O
+in	O
+july	DATE
+
+i	O
+want	O
+information	O
+about	O
+the	O
+movie	O
+in	O
+july	DATE
+
+i	O
+would	O
+like	O
+to	O
+get	O
+detailed	O
+information	O
+about	O
+the	O
+movie	O
+in	O
+july	DATE
+
+search	O
+the	O
+movie	O
+in	O
+july	DATE
+
+show	O
+data	O
+for	O
+the	O
+movie	O
+in	O
+july	DATE
+
+show	O
+me	O
+detailed	O
+information	O
+about	O
+the	O
+movie	O
+in	O
+july	DATE
+
+show	O
+me	O
+more	O
+details	O
+for	O
+the	O
+movie	O
+in	O
+july	DATE
+
+check	O
+movie	O
+in	O
+july	DATE
+information	O
+
+display	O
+information	O
+for	O
+the	O
+movie	O
+in	O
+july	DATE
+
+i	O
+want	O
+to	O
+see	O
+anne	O
+hathaway	O
+'s	O
+latest	O
+movie	O
+
+show	O
+me	O
+anne	O
+hathaway	O
+'s	O
+latest	O
+movie	O
+
+show	O
+me	O
+hathaway	O
+'s	O
+recent	O
+movies	O
+
+what	O
+movies	O
+has	O
+jack	O
+black	O
+been	O
+in	O
+
+angelina	O
+jolie	O
+movies	O
+
+in	O
+which	O
+movies	O
+has	O
+angelina	O
+jolie	O
+starred	O
+
+list	O
+of	O
+movies	O
+starring	O
+angelina	O
+jolie	O
+
+movies	O
+with	O
+angelina	O
+jolie	O
+
+show	O
+angelina	O
+jolie	O
+movies	O
+
+show	O
+me	O
+all	O
+movies	O
+for	O
+angelina	O
+jolie	O
+
+show	O
+movies	O
+with	O
+angelina	O
+jolie	O
+
+what	O
+movies	O
+has	O
+angelina	O
+jolie	O
+been	O
+in	O
+
+which	O
+movies	O
+has	O
+angelina	O
+jolie	O
+been	O
+in	O
+
+list	O
+movies	O
+starring	O
+angelina	O
+jolie	O
+
+list	O
+movies	O
+with	O
+angelina	O
+jolie	O
+in	O
+them	O
+
+funny	O
+kids	O
+movies	O
+
+movies	O
+about	O
+basketball	O
+
+can	O
+you	O
+locate	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+can	O
+you	O
+show	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+find	O
+all	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+i	O
+am	O
+looking	O
+for	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+i	O
+need	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+please	O
+find	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+will	O
+you	O
+provide	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+clint	O
+eastwood	O
+
+i	O
+want	O
+to	O
+see	O
+more	O
+movies	O
+with	O
+katie	O
+holmes	O
+
+find	O
+any	O
+movies	O
+about	O
+horses	O
+
+what	O
+are	O
+some	O
+current	DATE
+movies	O
+with	O
+horses	O
+as	O
+the	O
+main	O
+topic	O
+of	O
+the	O
+movie	O
+
+johnny	O
+depp	O
+movies	O
+
+bring	O
+up	O
+black	O
+swan	O
+production	O
+
+all	O
+the	O
+movies	O
+of	O
+karan	O
+johar	O
+
+karan	O
+johar	O
+'s	O
+movies	O
+
+find	O
+movies	O
+of	O
+karan	O
+johar	O
+
+movies	O
+of	O
+karan	O
+johar	O
+
+find	O
+director	TITLE
+movies	O
+
+find	O
+a	O
+list	O
+of	O
+directors	O
+and	O
+their	O
+movies	O
+
+movies	O
+and	O
+who	O
+directed	O
+them	O
+
+bring	O
+up	O
+all	O
+director	TITLE
+movies	O
+
+list	O
+director	TITLE
+movies	O
+
+show	O
+movies	O
+directed	O
+by	O
+
+i	O
+want	O
+to	O
+look	O
+up	O
+information	O
+about	O
+the	O
+movie	O
+hotel	O
+transylvania	O
+
+will	O
+ferrell	O
+been	O
+in	O
+
+what	O
+has	O
+will	O
+ferrell	O
+done	O
+
+find	O
+movies	O
+about	O
+gambling	O
+
+find	O
+movies	O
+about	O
+ice	O
+skating	O
+
+generate	O
+a	O
+list	O
+of	O
+movies	O
+about	O
+ice	O
+skating	O
+
+list	O
+ice	O
+skating	O
+movies	O
+please	O
+
+are	O
+there	O
+any	O
+movies	O
+with	O
+ice	O
+skating	O
+
+please	O
+show	O
+me	O
+movies	O
+about	O
+ice	O
+skating	O
+
+search	O
+for	O
+movies	O
+about	O
+ice	O
+skating	O
+
+are	O
+there	O
+any	O
+movies	O
+with	O
+skating	O
+on	O
+ice	O
+
+find	O
+dreamworks	O
+movies	O
+for	O
+kids	O
+
+where	O
+can	O
+i	O
+see	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+in	O
+great	COUNTRY
+britain	COUNTRY
+
+taye	O
+diggs	O
+films	O
+
+about	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+find	O
+me	O
+info	O
+on	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+movie	O
+info	O
+
+i	O
+would	O
+like	O
+to	O
+see	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+information	O
+
+overview	O
+of	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+me	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+me	O
+the	O
+page	O
+about	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+get	O
+me	O
+info	O
+about	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+information	O
+for	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+me	O
+detailed	O
+information	O
+about	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+me	O
+more	O
+details	O
+for	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+can	O
+you	O
+give	O
+me	O
+detailed	O
+information	O
+about	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+dispaly	O
+info	O
+for	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+display	O
+overview	O
+of	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+i	O
+need	O
+information	O
+about	O
+the	O
+cast	O
+reviews	O
+story	O
+etc	O
+in	O
+detail	O
+about	O
+the	O
+movie	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+send	O
+me	O
+movies	O
+that	O
+are	O
+in	O
+chinese	NATIONALITY
+
+i	O
+want	O
+chinese	NATIONALITY
+language	O
+movies	O
+
+show	O
+me	O
+movies	O
+in	O
+chinese	NATIONALITY
+
+find	O
+all	O
+chinese	NATIONALITY
+language	O
+movies	O
+
+look	O
+up	O
+movies	O
+in	O
+chinese	NATIONALITY
+
+movies	O
+in	O
+chinese	NATIONALITY
+
+show	O
+me	O
+movies	O
+produced	O
+by	O
+julian	O
+fellows	O
+
+julian	O
+fellows	O
+productions	O
+
+can	O
+you	O
+please	O
+search	O
+movies	O
+of	O
+tom	O
+cruise	O
+
+find	O
+movies	O
+with	O
+tom	O
+cruise	O
+
+find	O
+movies	O
+with	O
+tom	O
+cruise	O
+in	O
+them	O
+
+in	O
+what	O
+movies	O
+tom	O
+cruise	O
+is	O
+
+movies	O
+starring	O
+tom	O
+cruise	O
+
+show	O
+me	O
+all	O
+movies	O
+tom	O
+cruise	O
+has	O
+been	O
+in	O
+
+tom	O
+cruise	O
+movies	O
+
+tom	O
+cruise	O
+movies	O
+
+what	O
+movies	O
+has	O
+tom	O
+cruise	O
+been	O
+in	O
+
+what	O
+movies	O
+has	O
+tom	O
+cruise	O
+starred	O
+in	O
+
+find	O
+movies	O
+produced	O
+by	O
+george	O
+lucas	O
+
+find	O
+movies	O
+produced	O
+by	O
+george	O
+lucus	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+george	O
+lucas	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+george	O
+lucas	O
+produced	O
+
+locate	O
+all	O
+movies	O
+produced	O
+by	O
+george	O
+lucas	O
+
+list	O
+of	O
+dax	O
+shepard	O
+movies	O
+
+yash	O
+chopra	O
+'s	O
+movies	O
+
+find	O
+movies	O
+of	O
+yash	O
+chopra	O
+
+trouble	O
+with	O
+the	O
+curve	O
+was	O
+based	O
+on	O
+what	O
+
+what	O
+was	O
+the	O
+last	O
+film	O
+robert	O
+redford	O
+produced	O
+
+movies	O
+about	O
+immigration	O
+
+dawn	O
+of	O
+the	O
+dead	O
+movie	O
+information	O
+
+search	O
+the	O
+campaign	O
+movie	O
+
+show	O
+me	O
+information	O
+related	O
+to	O
+the	O
+film	O
+the	O
+campaign	O
+
+will	O
+you	O
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+the	O
+campaign	O
+
+the	O
+campaign	O
+movie	O
+page	O
+
+i	O
+want	O
+to	O
+see	O
+info	O
+on	O
+the	O
+movie	O
+the	O
+campaign	O
+
+look	O
+up	O
+movie	O
+the	O
+campaign	O
+
+please	O
+show	O
+me	O
+info	O
+on	O
+the	O
+movie	O
+the	O
+campaign	O
+
+show	O
+me	O
+information	O
+for	O
+the	O
+movie	O
+the	O
+campaign	O
+
+tell	O
+me	O
+about	O
+the	O
+movie	O
+the	O
+campaign	O
+in	O
+detail	O
+
+can	O
+you	O
+show	O
+me	O
+details	O
+about	O
+the	O
+movie	O
+the	O
+campaign	O
+
+find	O
+movies	O
+about	O
+love	O
+
+movies	O
+about	O
+nature	O
+
+show	O
+me	O
+the	O
+comedy	O
+pitch	O
+perfect	O
+
+show	O
+me	O
+the	O
+movies	O
+produced	O
+by	O
+reliance	O
+
+which	O
+movies	O
+are	O
+family	O
+friendly	O
+
+can	O
+you	O
+get	O
+me	O
+a	O
+pg	O
+movie	O
+list	O
+
+find	O
+a	O
+pg	O
+rated	O
+movie	O
+
+find	O
+rated	O
+pg	O
+movies	O
+
+give	O
+me	O
+some	O
+good	O
+pg	O
+moives	O
+
+i	O
+am	O
+looking	O
+for	O
+movies	O
+that	O
+are	O
+rated	O
+pg	O
+for	O
+family	O
+movie	O
+night	TIME
+
+i	O
+need	O
+to	O
+see	O
+a	O
+list	O
+of	O
+pg	O
+movies	O
+
+i	O
+need	O
+to	O
+see	O
+all	O
+pg	O
+movies	O
+
+movies	O
+rated	O
+pg	O
+
+pg	O
+movies	O
+list	O
+please	O
+
+please	O
+show	O
+a	O
+list	O
+of	O
+recent	O
+movies	O
+rated	O
+pg	O
+
+show	O
+me	O
+movies	O
+rated	O
+pg	O
+
+bring	O
+up	O
+all	O
+pg	O
+movies	O
+
+find	O
+me	O
+pg	O
+movies	O
+
+find	O
+movies	O
+rated	O
+pg	O
+
+find	O
+movies	O
+that	O
+are	O
+pg	O
+
+i	O
+need	O
+movies	O
+with	O
+a	O
+pg	O
+rating	O
+
+i	O
+want	O
+to	O
+search	O
+for	O
+pg	O
+rated	O
+movies	O
+
+list	O
+movies	O
+rated	O
+pg	O
+
+movies	O
+with	O
+pg	O
+rating	O
+
+movies	O
+with	O
+pg	O
+rating	O
+
+pg	O
+movies	O
+
+show	O
+me	O
+pg	O
+rated	O
+movies	O
+
+show	O
+me	O
+the	O
+movies	O
+rating	O
+pg	O
+
+find	O
+movies	O
+with	O
+pg	O
+ratings	O
+only	O
+
+i	O
+want	O
+a	O
+list	O
+of	O
+pg	O
+rated	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+that	O
+are	O
+rated	O
+pg	O
+
+only	O
+show	O
+movies	O
+rated	O
+pg	O
+
+please	O
+find	O
+pg	O
+rated	O
+movies	O
+
+search	O
+for	O
+movies	O
+with	O
+a	O
+pg	O
+rating	O
+
+search	O
+for	O
+movies	O
+with	O
+a	O
+pg	O
+rating	O
+
+show	O
+me	O
+all	O
+pg	O
+movies	O
+
+show	O
+me	O
+movies	O
+with	O
+pg	O
+rating	O
+
+show	O
+me	O
+movies	O
+with	O
+pg	O
+ratings	O
+
+show	O
+me	O
+pg	O
+movies	O
+
+get	O
+hungarian	NATIONALITY
+films	O
+
+i	O
+want	O
+to	O
+watch	O
+a	O
+comedy	O
+made	O
+in	O
+hungary	COUNTRY
+
+show	O
+me	O
+hungarian	NATIONALITY
+comedies	O
+
+what	O
+'s	O
+the	O
+latest	O
+on	O
+brad	O
+pitt	O
+
+i	O
+'m	O
+looking	O
+for	O
+a	O
+jason	O
+cortlund	O
+movie	O
+
+show	O
+me	O
+the	O
+movie	O
+now	DATE
+forager	O
+
+what	O
+old	O
+movies	O
+are	O
+made	O
+by	O
+warner	O
+brothers	O
+
+i	O
+want	O
+to	O
+look	O
+up	O
+alfred	O
+hitchcock	O
+movies	O
+
+find	O
+me	O
+movies	O
+made	O
+by	O
+alfred	O
+hitchcock	O
+
+i	O
+want	O
+to	O
+search	O
+for	O
+alfred	O
+hitchcock	O
+movies	O
+
+i	O
+would	O
+like	O
+to	O
+watch	O
+an	O
+alfred	O
+hitchcock	O
+movie	O
+
+show	O
+me	O
+some	O
+alfred	O
+hitchcock	O
+movies	O
+
+look	O
+up	O
+alfred	O
+hitchcock	O
+movies	O
+
+movies	O
+alfred	O
+hitchcock	O
+
+movies	O
+by	O
+alfred	O
+hitchcock	O
+
+movies	O
+by	O
+alfred	O
+hitchcock	O
+
+what	O
+movies	O
+has	O
+alfred	O
+hitchcock	O
+directed	O
+
+hitchcock	O
+movie	O
+list	O
+
+list	O
+hitchcock	O
+movies	O
+
+movie	O
+list	O
+hitchcock	O
+
+show	O
+me	O
+hitchcock	O
+movies	O
+
+hitchcock	O
+movie	O
+info	O
+
+hitchcock	O
+movies	O
+
+what	O
+movies	O
+did	O
+hitchcock	O
+direct	O
+
+show	O
+me	O
+the	O
+last	O
+five	NUMBER
+films	O
+for	O
+lionsgate	O
+
+show	O
+me	O
+recent	O
+movies	O
+from	O
+lionsgate	O
+
+what	O
+new	O
+movies	O
+does	O
+lionsgate	O
+have	O
+out	O
+
+show	O
+me	O
+the	O
+movie	O
+vulgaria	O
+
+what	O
+recently	DATE
+released	O
+movies	O
+are	O
+rated	O
+r	O
+
+get	O
+me	O
+a	O
+list	O
+of	O
+current	DATE
+r-rated	O
+movies	O
+
+show	O
+a	O
+list	O
+of	O
+recent	O
+releases	O
+that	O
+are	O
+rated	O
+pg	O
+
+what	O
+are	O
+some	O
+recent	O
+released	O
+pg	O
+movies	O
+
+show	O
+recent	O
+movies	O
+rated	O
+pg	O
+
+will	O
+you	O
+show	O
+me	O
+a	O
+list	O
+of	O
+recent	O
+movies	O
+rated	O
+pg	O
+
+which	O
+current	DATE
+movies	O
+are	O
+rated	O
+pg	O
+
+do	O
+you	O
+have	O
+anything	O
+by	O
+george	O
+cukor	O
+
+what	O
+was	O
+the	O
+first	ORDINAL
+movie	O
+steven	O
+spielberg	O
+directed	O
+
+did	O
+rob	O
+reiner	O
+direct	O
+any	O
+movies	O
+
+what	O
+was	O
+the	O
+highest	O
+making	O
+movie	O
+
+show	O
+me	O
+high	O
+grossing	O
+movies	O
+
+what	O
+movies	O
+made	O
+the	O
+most	O
+money	O
+
+what	O
+are	O
+the	O
+top	O
+grossing	O
+movies	O
+
+find	O
+the	O
+new	O
+will	O
+ferrell	O
+movie	O
+
+what	O
+are	O
+the	O
+three	NUMBER
+latest	O
+films	O
+with	O
+will	O
+ferrell	O
+
+what	O
+are	O
+recent	O
+films	O
+by	O
+will	O
+ferrell	O
+
+any	O
+new	O
+movies	O
+with	O
+eddie	O
+murphy	O
+
+i	O
+would	O
+like	O
+to	O
+look	O
+for	O
+movies	O
+about	O
+god	O
+
+look	O
+up	O
+movies	O
+about	O
+god	O
+
+i	O
+want	O
+to	O
+look	O
+for	O
+movies	O
+about	O
+god	O
+
+please	O
+search	O
+for	O
+movies	O
+about	O
+god	O
+
+watch	O
+ron	O
+howard	O
+'s	O
+latest	O
+movie	O
+
+find	O
+ron	O
+howard	O
+new	O
+movie	O
+
+i	O
+need	O
+a	O
+list	O
+of	O
+movies	O
+produced	O
+by	O
+ray	O
+stark	O
+
+show	O
+me	O
+all	O
+movies	O
+produced	O
+by	O
+ray	O
+stark	O
+
+what	O
+movies	O
+has	O
+ray	O
+stark	O
+produced	O
+
+what	O
+movie	O
+has	O
+albert	O
+brooks	O
+done	O
+lately	O
+
+recent	O
+movies	O
+by	O
+steven	O
+spielberg	O
+
+find	O
+sandra	O
+bullock	O
+'s	O
+latest	O
+movie	O
+
+i	O
+am	O
+looking	O
+for	O
+movies	O
+directed	O
+by	O
+tom	O
+hanks	O
+
+find	O
+movies	O
+directed	O
+by	O
+tom	O
+hanks	O
+
+show	O
+me	O
+movies	O
+that	O
+tom	O
+hanks	O
+directed	O
+
+movies	O
+by	O
+tom	O
+hanks	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+that	O
+were	O
+directed	O
+by	O
+tom	O
+hanks	O
+
+what	O
+movie	O
+made	O
+the	O
+least	O
+money	O
+
+what	O
+has	O
+tom	O
+cruise	O
+acted	O
+in	O
+lately	O
+
+what	O
+new	O
+movies	O
+are	O
+playing	O
+with	O
+rating	O
+of	O
+pg	O
+thirteen	NUMBER
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+are	O
+new	O
+and	O
+rated	O
+pg-13	O
+
+what	O
+pg-13	O
+movies	O
+are	O
+currently	DATE
+showing	O
+
+what	O
+other	O
+movies	O
+has	O
+will	O
+smith	O
+directed	O
+
+show	O
+me	O
+the	O
+latest	O
+movies	O
+in	O
+kannada	O
+
+have	O
+any	O
+new	O
+movies	O
+by	O
+twentieth	DATE
+century	DATE
+fox	DATE
+
+current	DATE
+movie	O
+suggestions	O
+
+show	O
+me	O
+new	O
+releases	O
+
+see	O
+ed	O
+harris	O
+last	O
+movie	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+recent	O
+horror	O
+films	O
+
+show	O
+me	O
+movies	O
+in	O
+swedish	NATIONALITY
+
+what	O
+was	O
+woody	O
+allen	O
+'s	O
+last	O
+movie	O
+
+about	O
+in	O
+july	DATE
+
+i	O
+want	O
+to	O
+go	O
+to	O
+the	O
+homepage	O
+for	O
+in	O
+july	DATE
+
+i	O
+want	O
+to	O
+view	O
+the	O
+page	O
+on	O
+in	O
+july	DATE
+
+i	O
+would	O
+like	O
+to	O
+see	O
+the	O
+main	O
+page	O
+of	O
+in	O
+july	DATE
+
+in	O
+july	DATE
+information	O
+
+summary	O
+of	O
+in	O
+july	DATE
+
+synopsis	O
+for	O
+in	O
+july	DATE
+
+was	O
+life	O
+is	O
+beautiful	O
+made	O
+in	O
+italy	O
+
+current	DATE
+movies	O
+rated	O
+g	O
+
+find	O
+all	O
+new	O
+releases	O
+that	O
+are	O
+rated	O
+g	O
+
+can	O
+i	O
+have	O
+a	O
+list	O
+of	O
+movie	O
+production	O
+companies	O
+
+who	O
+is	O
+bruce	O
+willis	O
+
+producer	TITLE
+
+i	O
+need	O
+a	O
+movie	O
+producer	TITLE
+list	O
+
+can	O
+i	O
+have	O
+a	O
+list	O
+of	O
+producers	O
+
+find	O
+me	O
+info	O
+on	O
+emma	O
+watson	O
+
+show	O
+me	O
+more	O
+information	O
+about	O
+will	O
+smith	O
+
+will	O
+smith	O
+bio	O
+
+i	O
+need	O
+a	O
+list	O
+of	O
+actors	O
+
+search	O
+for	O
+actors	O
+
+find	O
+actors	O
+
+search	O
+movie	O
+actors	O
+
+movie	O
+actors	O
+
+display	O
+actors	O
+in	O
+movies	O
+
+show	O
+actors	O
+in	O
+movies	O
+
+display	O
+biography	O
+of	O
+actor	TITLE
+will	O
+ferrell	O
+
+who	O
+is	O
+the	O
+actor	TITLE
+will	O
+ferrell	O
+
+director	TITLE
+
+find	O
+a	O
+director	TITLE
+
+find	O
+directors	O
+
+search	O
+directors	O
+
+search	O
+directors	O
+
+movie	O
+directors	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+directors	O
+
+where	O
+can	O
+i	O
+find	O
+a	O
+director	TITLE
+
+see	O
+bill	O
+paxton	O
+
+give	O
+me	O
+information	O
+about	O
+elizabeth	PERSON
+mcgovern	PERSON
+
+show	O
+me	O
+information	O
+on	O
+darla	O
+anderson	O
+
+can	O
+you	O
+give	O
+me	O
+more	O
+information	O
+about	O
+charles	PERSON
+
+can	O
+you	O
+tell	O
+me	O
+more	O
+about	O
+the	O
+producer	TITLE
+ray	O
+stark	O
+
+give	O
+me	O
+more	O
+details	O
+about	O
+the	O
+producer	TITLE
+ray	O
+stark	O
+
+i	O
+need	O
+to	O
+know	O
+more	O
+about	O
+the	O
+producer	TITLE
+ray	O
+stark	O
+
+show	O
+me	O
+more	O
+information	O
+about	O
+the	O
+producer	TITLE
+ray	O
+stark	O
+
+show	O
+me	O
+information	O
+on	O
+shelly	O
+long	O
+
+i	O
+want	O
+to	O
+know	O
+about	O
+clint	O
+eastwood	O
+
+look	O
+for	O
+information	O
+about	O
+charles	PERSON
+vidor	PERSON
+
+search	O
+for	O
+information	O
+about	O
+charles	O
+vidor	O
+
+want	O
+to	O
+see	O
+charles	PERSON
+vidor	PERSON
+
+who	O
+is	O
+childs	O
+vidor	O
+
+find	O
+me	O
+more	O
+information	O
+on	O
+scorscese	O
+
+find	O
+the	O
+director	TITLE
+andrew	PERSON
+stanton	PERSON
+
+who	O
+is	O
+andrew	O
+stanton	O
+
+see	O
+the	O
+olsen	O
+twins	O
+
+can	O
+you	O
+find	O
+more	O
+information	O
+on	O
+albert	O
+ruddy	O
+
+search	O
+for	O
+information	O
+about	O
+tom	O
+cruise	O
+
+find	O
+information	O
+about	O
+tom	O
+cruise	O
+
+look	O
+for	O
+information	O
+about	O
+tom	O
+cruise	O
+
+look	O
+up	O
+information	O
+about	O
+tom	O
+cruise	O
+
+all	O
+about	O
+will	O
+farrell	O
+please	O
+
+bio	O
+on	O
+will	O
+ferrell	O
+
+biography	O
+for	O
+will	O
+ferrell	O
+
+bring	O
+me	O
+to	O
+will	O
+ferrell	O
+informaion	O
+
+bring	O
+up	O
+a	O
+bio	O
+on	O
+will	O
+ferrell	O
+
+can	O
+you	O
+show	O
+me	O
+information	O
+on	O
+will	O
+ferrell	O
+please	O
+
+display	O
+all	O
+information	O
+on	O
+will	O
+ferrell	O
+
+get	O
+me	O
+bio	O
+info	O
+for	O
+will	O
+ferrell	O
+
+goto	O
+will	O
+ferrell	O
+biography	O
+
+i	O
+want	O
+information	O
+about	O
+will	O
+ferrell	O
+
+i	O
+want	O
+to	O
+see	O
+will	O
+ferrell	O
+details	O
+
+information	O
+about	O
+will	O
+ferrell	O
+
+look	O
+for	O
+will	O
+ferrell	O
+
+open	O
+a	O
+page	O
+about	O
+will	O
+ferrell	O
+
+please	O
+show	O
+me	O
+information	O
+on	O
+will	O
+ferrell	O
+
+search	O
+for	O
+will	O
+ferrell	O
+
+show	O
+me	O
+a	O
+bio	O
+of	O
+will	O
+ferrell	O
+
+show	O
+me	O
+will	O
+ferrell	O
+information	O
+
+show	O
+will	O
+ferrell	O
+information	O
+
+who	O
+is	O
+will	O
+ferrell	O
+
+who	O
+is	O
+will	O
+ferrell	O
+
+who	O
+is	O
+will	O
+ferrell	O
+
+will	O
+ferrell	O
+
+will	O
+ferrell	O
+history	O
+
+will	O
+ferrell	O
+tidbits	O
+
+will	O
+ferrell	O
+'s	O
+biography	O
+
+please	O
+run	O
+a	O
+search	O
+on	O
+will	O
+ferrell	O
+and	O
+display	O
+all	O
+info	O
+returned	O
+
+what	O
+is	O
+terry	O
+georges	O
+background	O
+
+exhibit	O
+all	O
+relevant	O
+information	O
+about	O
+the	O
+director	TITLE
+steven	O
+spielberg	O
+
+show	O
+me	O
+the	O
+bio	O
+for	O
+the	O
+director	TITLE
+steven	O
+spielberg	O
+
+who	O
+is	O
+director	TITLE
+steven	PERSON
+spielberg	PERSON
+
+show	O
+all	O
+relevant	O
+information	O
+about	O
+the	O
+director	TITLE
+steven	O
+spielberg	O
+
+show	O
+biography	O
+for	O
+director	TITLE
+steven	O
+spielberg	O
+
+find	O
+information	O
+about	O
+kristen	O
+stewart	O
+
+how	O
+do	O
+i	O
+find	O
+out	O
+information	O
+about	O
+kristen	O
+stewart	O
+
+learn	O
+more	O
+about	O
+kristen	O
+stewart	O
+
+who	O
+is	O
+kristen	O
+stewart	O
+
+information	O
+on	O
+julia	O
+roberts	O
+
+get	O
+me	O
+information	O
+about	O
+spielberg	O
+
+i	O
+want	O
+to	O
+know	O
+about	O
+spielberg	O
+
+i	O
+want	O
+to	O
+see	O
+spielberg	O
+'s	O
+page	O
+
+pull	O
+up	O
+spielberg	O
+
+show	O
+me	O
+spielberg	O
+'s	O
+info	O
+
+show	O
+me	O
+spielberg	O
+'s	O
+main	O
+page	O
+
+show	O
+me	O
+the	O
+profile	O
+of	O
+spielberg	O
+
+show	O
+my	O
+spielberg	O
+info	O
+
+find	O
+me	O
+stats	O
+about	O
+steven	O
+spielberg	O
+
+i	O
+need	O
+details	O
+steven	O
+spielberg	O
+now	DATE
+
+search	O
+for	O
+steven	O
+spielberg	O
+
+show	O
+me	O
+the	O
+information	O
+for	O
+steven	O
+spielberg	O
+
+stephen	O
+spielberg	O
+biography	O
+
+steven	O
+spielberg	O
+
+steven	O
+spielberg	O
+bio	O
+
+steven	O
+spielberg	O
+profile	O
+page	O
+
+what	O
+about	O
+steven	O
+spielberg	O
+
+who	O
+is	O
+steven	O
+spielberg	O
+
+find	O
+info	O
+on	O
+tom	O
+hanks	O
+
+show	O
+me	O
+information	O
+on	O
+tom	O
+hanks	O
+
+show	O
+tom	O
+hanks	O
+
+information	O
+for	O
+sally	O
+field	O
+
+sergio	O
+leone	O
+
+i	O
+need	O
+information	O
+on	O
+sean	O
+connery	O
+
+tell	O
+me	O
+about	O
+michelle	PERSON
+pfiefer	PERSON
+
+i	O
+want	O
+to	O
+learn	O
+about	O
+charlie	PERSON
+sheen	PERSON
+
+find	O
+information	O
+about	O
+robert	O
+wise	O
+
+robert	O
+wise	O
+life	O
+
+search	O
+for	O
+information	O
+about	O
+robert	O
+wise	O
+
+director	TITLE
+'s	O
+profiles	O
+:	O
+hitchcock	O
+
+warner	O
+brothers	O
+bio	O
+
+alfred	O
+hitchcock	O
+
+who	O
+is	O
+hitchcock	O
+
+information	O
+for	O
+clark	O
+gable	O
+
+i	O
+want	O
+information	O
+about	O
+angelina	O
+jolie	O
+
+i	O
+want	O
+more	O
+information	O
+on	O
+richard	O
+lester	O
+
+information	O
+for	O
+vivian	O
+lee	O
+
+name	O
+the	O
+producer	TITLE
+of	O
+the	O
+godfather	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+company	O
+that	O
+produced	O
+sparkle	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+company	O
+that	O
+produced	O
+the	O
+movie	O
+ants	O
+
+show	O
+me	O
+the	O
+name	O
+of	O
+the	O
+producer	TITLE
+of	O
+the	O
+movie	O
+avatar	O
+
+can	O
+you	O
+show	O
+me	O
+the	O
+name	O
+of	O
+the	O
+producer	TITLE
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+company	O
+that	O
+produced	O
+the	O
+movie	O
+avatar	O
+
+please	O
+provide	O
+the	O
+name	O
+of	O
+the	O
+company	O
+that	O
+produced	O
+sparkle	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+company	O
+that	O
+produced	O
+the	O
+movie	O
+inception	O
+
+hitch	O
+list	O
+producer	TITLE
+
+i	O
+want	O
+info	O
+on	O
+how	O
+produced	O
+hitch	O
+
+who	O
+are	O
+the	O
+producers	O
+for	O
+the	O
+movie	O
+hitch	O
+
+who	O
+is	O
+the	O
+producer	TITLE
+for	O
+hitch	O
+
+who	O
+produced	O
+hitch	O
+
+who	O
+produced	O
+hitch	O
+
+who	O
+produced	O
+hitch	O
+
+who	O
+was	O
+the	O
+producer	TITLE
+for	O
+the	O
+movie	O
+hitch	O
+
+info	O
+hitch	O
+producer	TITLE
+
+what	O
+production	O
+company	O
+was	O
+responsible	O
+for	O
+the	O
+film	O
+the	O
+devil	O
+wears	O
+prada	O
+
+what	O
+company	O
+produced	O
+secretariat	O
+
+what	O
+company	O
+produced	O
+the	O
+movie	O
+field	O
+of	O
+dreams	O
+
+what	O
+company	O
+produced	O
+jurassic	O
+park	O
+
+company	O
+that	O
+produced	O
+iron	O
+man	O
+
+what	O
+company	O
+produced	O
+cabin	O
+in	O
+the	O
+woods	O
+
+production	O
+company	O
+for	O
+spiderman	O
+
+who	O
+produced	O
+cabin	O
+in	O
+the	O
+woods	O
+
+what	O
+was	O
+the	O
+production	O
+company	O
+for	O
+black	O
+swan	O
+
+get	O
+me	O
+the	O
+think	O
+like	O
+a	O
+man	O
+movie	O
+producer	TITLE
+
+who	O
+produced	O
+cars	O
+
+who	O
+produced	O
+cars	O
+
+who	O
+produced	O
+the	O
+movie	O
+cars	O
+
+who	O
+produced	O
+steel	O
+magnolias	O
+
+who	O
+produces	O
+steel	O
+magnolias	O
+
+name	O
+of	O
+producer	TITLE
+for	O
+ghost	O
+busters	O
+
+who	O
+produced	O
+et	O
+
+who	O
+was	O
+the	O
+producer	TITLE
+for	O
+elizabeth	O
+
+please	O
+show	O
+me	O
+who	O
+produces	O
+madagascar	COUNTRY
+
+look	O
+for	O
+the	O
+producer	TITLE
+of	O
+heroine	O
+
+producer	TITLE
+of	O
+heroine	O
+
+can	O
+you	O
+find	O
+the	O
+producer	TITLE
+of	O
+heroine	O
+
+can	O
+you	O
+tell	O
+me	O
+who	O
+produced	O
+the	O
+movie	O
+avatar	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+movie	O
+avatar	O
+'s	O
+producer	TITLE
+name	O
+
+i	O
+need	O
+to	O
+know	O
+who	O
+produced	O
+the	O
+movie	O
+avatar	O
+
+please	O
+tell	O
+me	O
+who	O
+produce	O
+the	O
+avatar	O
+
+producer	TITLE
+of	O
+avatar	O
+
+who	O
+is	O
+the	O
+producer	TITLE
+of	O
+avatar	O
+
+who	O
+produce	O
+the	O
+avatar	O
+
+who	O
+produced	O
+avatar	O
+
+who	O
+produced	O
+avatar	O
+
+who	O
+produced	O
+avatar	O
+
+who	O
+produced	O
+avatar	O
+
+who	O
+produced	O
+avatar	O
+with	O
+james	O
+cameron	O
+
+who	O
+is	O
+listed	O
+as	O
+producer	TITLE
+of	O
+grease	O
+
+who	O
+is	O
+the	O
+producer	TITLE
+of	O
+grease	O
+
+browse	O
+lionsgate	O
+information	O
+
+display	O
+production	O
+company	O
+lionsgate	O
+
+get	O
+info	O
+on	O
+lionsgate	O
+
+goto	O
+lionsgate	O
+
+i	O
+would	O
+like	O
+more	O
+information	O
+about	O
+lionsgate	O
+
+look	O
+for	O
+information	O
+about	O
+lionsgate	O
+
+see	O
+lionsgate	O
+info	O
+
+show	O
+lionsgate	O
+
+company	O
+that	O
+produced	O
+the	O
+avengers	O
+
+show	O
+who	O
+produced	O
+black	O
+swan	O
+
+who	O
+produced	O
+black	O
+swan	O
+
+who	O
+produced	O
+spaceballs	O
+
+find	O
+the	O
+producer	TITLE
+of	O
+the	O
+godfather	O
+
+show	O
+me	O
+the	O
+producer	TITLE
+of	O
+the	O
+godfather	O
+
+who	O
+is	O
+the	O
+producer	TITLE
+of	O
+the	O
+godfather	O
+
+who	O
+produced	O
+the	O
+godfather	O
+
+who	O
+produced	O
+the	O
+godfather	O
+
+who	O
+produced	O
+the	O
+godfather	O
+
+who	O
+produced	O
+the	O
+godfather	O
+movies	O
+
+producer	TITLE
+for	O
+slumdog	O
+millionaire	O
+
+company	O
+that	O
+produced	O
+thor	O
+
+what	O
+company	O
+produced	O
+days	DURATION
+of	O
+thunder	O
+
+i	O
+want	O
+to	O
+look	O
+for	O
+information	O
+about	O
+paramount	O
+studios	O
+
+look	O
+for	O
+information	O
+about	O
+paramount	O
+studios	O
+
+what	O
+is	O
+the	O
+history	O
+behind	O
+paramount	O
+
+look	O
+at	O
+paramount	O
+
+who	O
+produced	O
+hotel	O
+rwanda	COUNTRY
+
+who	O
+produced	O
+the	O
+movie	O
+hotel	O
+rwanda	COUNTRY
+
+who	O
+produced	O
+titanic	O
+
+company	O
+that	O
+produced	O
+twilight	TIME
+
+producer	TITLE
+for	O
+ms.	O
+congeniality	O
+
+who	O
+produced	O
+top	O
+gun	O
+
+what	O
+production	O
+company	O
+produced	O
+the	O
+movie	O
+avatar	O
+
+what	O
+studio	O
+made	O
+the	O
+dark	O
+knight	O
+
+what	O
+company	O
+produced	O
+the	O
+hangover	O
+
+who	O
+produced	O
+the	O
+devil	O
+wears	O
+prada	O
+
+i	O
+d	O
+like	O
+to	O
+know	O
+who	O
+the	O
+producer	TITLE
+of	O
+the	O
+terminator	TITLE
+is	O
+
+i	O
+wonder	O
+who	O
+produced	O
+the	O
+terminator	TITLE
+
+who	O
+is	O
+the	O
+producer	TITLE
+of	O
+the	O
+terminator	TITLE
+
+find	O
+producer	TITLE
+of	O
+the	O
+great	O
+debaters	O
+
+who	O
+produced	O
+the	O
+great	O
+debaters	O
+
+who	O
+produced	O
+the	O
+movie	O
+twilight	TIME
+
+production	O
+company	O
+for	O
+the	O
+hulk	O
+
+can	O
+i	O
+see	O
+who	O
+produced	O
+possesion	O
+
+who	O
+produced	O
+possesion	O
+
+find	O
+the	O
+producer	TITLE
+of	O
+moby	O
+dick	O
+
+producer	TITLE
+for	O
+the	O
+passion	O
+of	O
+the	O
+christ	O
+
+who	O
+produced	O
+what	O
+to	O
+expect	O
+when	O
+you	O
+'re	O
+expecting	O
+
+what	O
+company	O
+is	O
+the	O
+producer	TITLE
+of	O
+inception	O
+
+who	O
+produced	O
+the	O
+movie	O
+the	O
+dark	O
+knight	O
+
+who	O
+produced	O
+lion	O
+king	TITLE
+
+i	O
+would	O
+like	O
+to	O
+find	O
+the	O
+producers	O
+of	O
+the	O
+lion	O
+king	TITLE
+
+what	O
+company	O
+produced	O
+sparkle	O
+
+which	O
+company	O
+produced	O
+the	O
+terminator	TITLE
+
+who	O
+produced	O
+casino	O
+royale	O
+
+search	O
+mgm	O
+studios	O
+
+who	O
+was	O
+the	O
+producer	TITLE
+for	O
+the	O
+amazing	O
+spiderman	O
+
+in	O
+the	O
+movie	O
+ants	O
+who	O
+is	O
+the	O
+producer	TITLE
+
+the	O
+movie	O
+ants	O
+was	O
+produced	O
+by	O
+what	O
+person	O
+
+the	O
+producers	O
+for	O
+the	O
+movie	O
+ants	O
+
+who	O
+is	O
+the	O
+producer	TITLE
+for	O
+the	O
+movie	O
+ants	O
+
+find	O
+the	O
+producer	TITLE
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+producer	TITLE
+for	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+produced	O
+the	O
+movie	O
+gone	O
+with	O
+the	O
+wind	O
+
+who	O
+produced	O
+the	O
+movie	O
+
+who	O
+produced	O
+the	O
+movie	O
+
+who	O
+produced	O
+this	O
+movie	O
+
+search	O
+for	O
+the	O
+producer	TITLE
+of	O
+mirror	O
+
+who	O
+was	O
+mirror	O
+'s	O
+producer	TITLE
+
+person	O
+produced	O
+the	O
+blind	O
+side	O
+
+who	O
+was	O
+the	O
+producer	TITLE
+for	O
+coming	O
+to	O
+america	COUNTRY
+
+search	O
+for	O
+the	O
+producer	TITLE
+of	O
+step	O
+up	O
+
+goto	O
+warner	O
+brothers	O
+
+pixar	O
+film	O
+studio	O
+
+look	O
+up	O
+the	O
+producer	TITLE
+of	O
+freedom	O
+writers	O
+
+who	O
+produced	O
+godfather	O
+
+who	O
+produced	O
+the	O
+godfather	O
+
+show	O
+producers	O
+who	O
+work	O
+for	O
+miramax	O
+
+what	O
+type	O
+of	O
+audience	O
+can	O
+watch	O
+cars	O
+
+is	O
+toy	O
+story	O
+for	O
+kids	O
+
+rating	O
+of	O
+movie	O
+
+what	O
+is	O
+movie	O
+rated	O
+
+show	O
+me	O
+the	O
+film	O
+rating	O
+
+is	O
+this	O
+movie	O
+suitable	O
+for	O
+small	O
+children	O
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+
+what	O
+is	O
+the	O
+mpaa	O
+rating	O
+for	O
+movie	O
+
+what	O
+is	O
+the	O
+reccommended	O
+audience	O
+for	O
+movie	O
+
+can	O
+i	O
+see	O
+this	O
+film	O
+rating	O
+
+what	O
+is	O
+the	O
+parental	O
+rating	O
+on	O
+this	O
+movie	O
+
+what	O
+is	O
+the	O
+rating	O
+of	O
+movie	O
+
+movie	O
+rating	O
+
+what	O
+rating	O
+did	O
+the	O
+dark	O
+knight	O
+rises	O
+receive	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+dark	O
+knight	O
+
+rating	O
+for	O
+dark	O
+knight	O
+
+can	O
+you	O
+tell	O
+me	O
+whats	O
+the	O
+rating	O
+of	O
+movie	O
+avatar	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+rating	O
+of	O
+the	O
+movie	O
+avatar	O
+
+show	O
+me	O
+the	O
+rating	O
+of	O
+the	O
+movie	O
+avatar	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+ants	O
+
+is	O
+hotel	O
+transylavania	O
+good	O
+for	O
+adults	O
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+the	O
+lord	O
+of	O
+rings	O
+
+what	O
+age	O
+is	O
+marley	O
+and	O
+me	O
+appropriate	O
+
+how	O
+old	O
+should	O
+a	O
+person	O
+be	O
+to	O
+watch	O
+marley	O
+and	O
+me	O
+
+what	O
+age	O
+is	O
+appropriate	O
+to	O
+watch	O
+marley	O
+and	O
+me	O
+
+what	O
+rating	O
+is	O
+superman	O
+
+rating	O
+for	O
+transylvania	O
+
+tell	O
+me	O
+the	O
+rating	O
+of	O
+the	O
+movie	O
+grease	O
+
+what	O
+is	O
+grease	O
+rated	O
+
+tell	O
+me	O
+the	O
+rating	O
+of	O
+the	O
+film	O
+grease	O
+
+what	O
+is	O
+the	O
+appropriate	O
+age	O
+for	O
+clueless	O
+
+what	O
+is	O
+the	O
+rating	O
+of	O
+dirty	O
+dancing	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+dirty	O
+dancing	O
+
+what	O
+rating	O
+is	O
+freedom	O
+writers	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+what	O
+ratings	O
+does	O
+the	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+hold	O
+
+is	O
+it	O
+appropriate	O
+to	O
+take	O
+my	O
+16	DURATION
+year	DURATION
+old	DURATION
+to	O
+see	O
+land	O
+of	O
+the	O
+lost	O
+
+is	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+ok	O
+for	O
+my	O
+six	DURATION
+year	DURATION
+old	DURATION
+to	O
+watch	O
+
+find	O
+the	O
+rating	O
+of	O
+the	O
+movie	O
+step	O
+up	O
+
+rating	O
+for	O
+the	O
+green	O
+hornet	O
+
+show	O
+me	O
+the	O
+film	O
+rating	O
+for	O
+avengers	O
+
+show	O
+rating	O
+for	O
+the	O
+film	O
+avengers	O
+
+show	O
+rating	O
+of	O
+movie	O
+avengers	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+the	O
+avenger	O
+movie	O
+
+rating	O
+for	O
+the	O
+avengers	O
+
+what	O
+is	O
+jurassic	O
+park	O
+rated	O
+
+list	O
+movie	O
+ratings	O
+for	O
+us	O
+movie	O
+looper	TITLE
+
+show	O
+movie	O
+ratings	O
+for	O
+us	O
+movie	O
+looper	TITLE
+
+what	O
+audience	O
+will	O
+watch	O
+black	O
+swan	O
+
+how	O
+is	O
+a	O
+good	O
+man	O
+in	O
+africa	O
+'s	O
+rating	O
+
+can	O
+i	O
+take	O
+my	O
+13	DURATION
+year	DURATION
+old	DURATION
+to	O
+see	O
+american	NATIONALITY
+pie	O
+
+how	O
+old	O
+for	O
+black	O
+swan	O
+
+what	O
+age	O
+is	O
+black	O
+swan	O
+appropriate	O
+for	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+rating	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+rating	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+kindly	O
+show	O
+me	O
+the	O
+rating	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+rating	O
+for	O
+resident	O
+evil	O
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+romeo	O
+must	O
+die	O
+
+what	O
+'s	O
+the	O
+rating	O
+for	O
+satyricon	O
+
+what	O
+restrictions	O
+does	O
+the	O
+campaign	O
+film	O
+have	O
+for	O
+viewers	O
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+the	O
+campaign	O
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+the	O
+expendables	O
+2	NUMBER
+
+show	O
+me	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+the	O
+mechanic	TITLE
+
+can	O
+you	O
+find	O
+out	O
+what	O
+the	O
+movie	O
+dredd	O
+is	O
+rated	O
+
+look	O
+up	O
+the	O
+rating	O
+for	O
+the	O
+movie	O
+dredd	O
+
+search	O
+for	O
+the	O
+rating	O
+of	O
+the	O
+movie	O
+dredd	O
+
+what	O
+is	O
+the	O
+movie	O
+rating	O
+for	O
+die	O
+hard	O
+
+twilight	TIME
+revenue	O
+
+what	O
+was	O
+the	O
+gross	O
+profit	O
+for	O
+twilight	TIME
+
+how	O
+much	O
+did	O
+et	O
+gross	O
+worldwide	O
+
+what	O
+did	O
+et	O
+gross	O
+
+what	O
+were	O
+et	O
+'s	O
+revenues	O
+
+can	O
+you	O
+tell	O
+me	O
+about	O
+the	O
+revenue	O
+generated	O
+by	O
+the	O
+movie	O
+avatar	O
+
+how	O
+much	O
+money	O
+did	O
+avatar	O
+make	O
+
+how	O
+much	O
+revenue	O
+did	O
+the	O
+movie	O
+avatar	O
+generate	O
+
+tell	O
+me	O
+about	O
+the	O
+revenue	O
+generated	O
+by	O
+the	O
+movie	O
+avatar	O
+
+how	O
+much	O
+money	O
+did	O
+pretty	O
+woman	O
+take	O
+in	O
+
+revenue	O
+for	O
+pretty	O
+woman	O
+
+gross	O
+earnings	O
+for	O
+avengers	O
+movie	O
+
+ticket	O
+sales	O
+for	O
+the	O
+movie	O
+avengers	O
+
+what	O
+was	O
+the	O
+gross	O
+earnings	O
+for	O
+the	O
+avengers	O
+movie	O
+
+how	O
+much	O
+revenue	O
+did	O
+the	O
+avengers	O
+take	O
+it	O
+
+what	O
+were	O
+the	O
+gross	O
+receipts	O
+for	O
+the	O
+avengers	O
+
+can	O
+you	O
+give	O
+me	O
+the	O
+revenue	O
+of	O
+the	O
+movie	O
+titanic	O
+
+how	O
+much	O
+revenue	O
+did	O
+titanic	O
+make	O
+
+profits	O
+made	O
+by	O
+titanic	O
+
+revenue	O
+for	O
+titanic	O
+
+revenue	O
+for	O
+titanic	O
+
+total	O
+titanic	O
+revenues	O
+
+what	O
+was	O
+the	O
+revenue	O
+for	O
+toy	O
+story	O
+3	NUMBER
+
+dark	O
+knight	O
+revenue	O
+
+how	O
+much	O
+did	O
+the	O
+dark	O
+night	TIME
+generate	O
+
+can	O
+i	O
+see	O
+the	O
+lion	O
+king	TITLE
+'s	O
+revenue	O
+
+can	O
+i	O
+see	O
+what	O
+the	O
+lion	O
+king	TITLE
+'s	O
+revenue	O
+was	O
+
+show	O
+me	O
+the	O
+lion	O
+king	TITLE
+'s	O
+revenue	O
+
+what	O
+was	O
+the	O
+lion	O
+king	TITLE
+'s	O
+revenue	O
+
+how	O
+much	O
+did	O
+jurassic	O
+park	O
+make	O
+
+how	O
+much	O
+money	O
+did	O
+finding	O
+nemo	O
+make	O
+
+what	O
+did	O
+the	O
+movie	O
+finding	O
+nemo	O
+gross	O
+
+how	O
+much	O
+did	O
+the	O
+transformers	O
+make	O
+in	O
+revenues	O
+
+revenue	O
+for	O
+transformers	O
+
+how	O
+many	O
+minutes	DURATION
+is	O
+finding	O
+nemo	O
+
+how	O
+many	O
+minutes	DURATION
+is	O
+in	O
+july	DATE
+
+how	O
+many	O
+minutes	DURATION
+is	O
+star	O
+wars	O
+four	NUMBER
+
+what	O
+is	O
+the	O
+length	O
+of	O
+the	O
+sound	O
+of	O
+music	O
+
+how	O
+long	O
+is	O
+the	O
+movie	O
+
+how	O
+many	O
+minutes	DURATION
+is	O
+life	O
+is	O
+beautfiul	O
+
+how	O
+long	O
+is	O
+the	O
+movie	O
+the	O
+campaign	O
+
+what	O
+is	O
+avatar	O
+about	O
+
+what	O
+was	O
+star	O
+wars	O
+four	NUMBER
+about	O
+
+what	O
+is	O
+movie	O
+about	O
+
+who	O
+wrote	O
+this	O
+movie	O
+
+actor	TITLE
+from	O
+forrest	O
+gump	O
+lieutenant	TITLE
+dan	O
+
+actor	TITLE
+who	O
+played	O
+stephanie	O
+in	O
+full	O
+house	O
+
+what	O
+female	O
+played	O
+as	O
+number	O
+13	NUMBER
+in	O
+the	O
+tv	O
+show	O
+house	O
+
+what	O
+actress	TITLE
+starred	O
+in	O
+i	O
+love	O
+lucy	O
+as	O
+ethel	O
+
+who	O
+played	O
+beaver	O
+in	O
+leave	O
+it	O
+to	O
+beaver	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+played	O
+todd	O
+in	O
+the	O
+tv	O
+show	O
+one	NUMBER
+life	O
+to	O
+live	O
+
+give	O
+me	O
+the	O
+name	O
+of	O
+the	O
+tv	O
+actor	TITLE
+who	O
+played	O
+todd	O
+on	O
+one	NUMBER
+life	O
+to	O
+live	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+name	O
+of	O
+the	O
+tv	O
+actor	TITLE
+who	O
+played	O
+todd	O
+on	O
+show	O
+one	NUMBER
+life	O
+to	O
+live	O
+
+find	O
+who	O
+guy	O
+who	O
+was	O
+the	O
+red	O
+ranger	O
+in	O
+power	O
+rangers	O
+
+who	O
+is	O
+the	O
+guy	O
+who	O
+played	O
+the	O
+red	O
+ranger	O
+in	O
+power	O
+rangers	O
+
+actress	TITLE
+from	O
+reba	O
+who	O
+played	O
+kyra	O
+
+who	O
+plays	O
+luke	O
+skywalker	O
+in	O
+nineteen	NUMBER
+seventieseven	O
+starwars	O
+
+show	O
+me	O
+cast	O
+and	O
+crew	O
+for	O
+star	O
+wars	O
+
+list	O
+cast	O
+in	O
+that	O
+'s	O
+70s	NUMBER
+show	O
+
+who	O
+starred	O
+in	O
+three	NUMBER
+'s	O
+company	O
+
+who	O
+was	O
+the	O
+antogonist	O
+in	O
+apollo	O
+thirteen	NUMBER
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+african	NATIONALITY
+american	NATIONALITY
+actress	TITLE
+who	O
+played	O
+in	O
+ghost	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+played	O
+todd	O
+in	O
+the	O
+tv	O
+show	O
+one	NUMBER
+life	O
+to	O
+live	O
+
+name	O
+the	O
+actor	TITLE
+who	O
+played	O
+opposite	O
+sidney	O
+pointier	O
+in	O
+shoot	O
+to	O
+kill	O
+
+what	O
+was	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+plays	O
+victor	O
+on	O
+young	O
+and	O
+the	O
+restless	O
+
+how	O
+much	O
+was	O
+the	O
+budget	O
+for	O
+e.t.	O
+
+find	O
+budget	O
+for	O
+epic	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+the	O
+movie	O
+epic	O
+
+look	O
+for	O
+epic	O
+'s	O
+budget	O
+
+how	O
+much	O
+money	O
+did	O
+they	O
+spend	O
+to	O
+make	O
+finding	O
+nemo	O
+in	O
+3d	O
+
+how	O
+much	O
+money	O
+did	O
+it	O
+cost	O
+to	O
+produce	O
+hotel	O
+transylvania	O
+
+i	O
+believe	O
+it	O
+cost	O
+a	O
+bundle	O
+to	O
+make	O
+hotel	O
+transylvania	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+hotel	O
+translyvania	O
+
+what	O
+were	O
+the	O
+production	O
+costs	O
+for	O
+hotel	O
+transylvania	O
+
+budget	O
+for	O
+left	O
+behind	O
+
+how	O
+expensive	O
+was	O
+it	O
+to	O
+make	O
+looper	TITLE
+
+how	O
+much	O
+did	O
+it	O
+cost	O
+to	O
+make	O
+looper	TITLE
+
+what	O
+was	O
+the	O
+total	O
+cost	O
+of	O
+production	O
+for	O
+looper	TITLE
+
+the	O
+movie	O
+mr	O
+and	O
+mrs	O
+smith	O
+reported	O
+making	O
+how	O
+much	O
+money	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+nightmare	O
+on	O
+elm	O
+street	O
+
+how	O
+much	O
+was	O
+it	O
+to	O
+produce	O
+paranorman	O
+
+how	O
+much	O
+was	O
+the	O
+budget	O
+for	O
+paranorman	O
+
+what	O
+did	O
+it	O
+cost	O
+to	O
+make	O
+paranorman	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+paranorman	O
+
+i	O
+want	O
+to	O
+know	O
+what	O
+the	O
+budget	O
+for	O
+posseion	O
+was	O
+
+what	O
+was	O
+the	O
+budget	O
+for	O
+puss	O
+in	O
+boots	O
+
+the	O
+budget	O
+of	O
+the	O
+russian	NATIONALITY
+movie	O
+return	O
+
+search	O
+for	O
+the	O
+budget	O
+of	O
+return	O
+
+what	O
+was	O
+the	O
+budget	O
+of	O
+return	O
+
+budget	O
+for	O
+snow	O
+white	O
+and	O
+the	O
+huntsman	O
+
+what	O
+was	O
+star	O
+wars	O
+budget	O
+
+show	O
+me	O
+the	O
+budget	O
+for	O
+terminator	TITLE
+1	NUMBER
+
+budget	O
+for	O
+amazing	O
+spiderman	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+budget	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+i	O
+am	O
+interested	O
+in	O
+finding	O
+out	O
+the	O
+budget	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+i	O
+am	O
+trying	O
+to	O
+discover	O
+how	O
+much	O
+budget	O
+costs	O
+were	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+show	O
+me	O
+the	O
+budget	O
+for	O
+expendables	O
+2	NUMBER
+
+budget	O
+for	O
+the	O
+help	O
+
+show	O
+me	O
+the	O
+possession	O
+'s	O
+budget	O
+
+budget	O
+for	O
+twilight	TIME
+breaking	O
+dawn	O
+
+what	O
+country	O
+did	O
+the	O
+nine	NUMBER
+fourteen	DATE
+twenty	DATE
+twelve	NUMBER
+release	O
+of	O
+barfi	O
+come	O
+from	O
+
+where	O
+is	O
+the	O
+film	O
+budbrigeren	O
+from	O
+
+what	O
+country	O
+did	O
+downton	O
+abbey	O
+come	O
+from	O
+
+what	O
+country	O
+is	O
+in	O
+the	O
+land	O
+of	O
+blood	O
+and	O
+honey	O
+
+where	O
+did	O
+la	O
+moustache	O
+take	O
+place	O
+
+where	O
+did	O
+they	O
+do	O
+les	O
+mes	O
+
+where	O
+was	O
+les	O
+mes	O
+made	O
+
+in	O
+what	O
+country	O
+was	O
+les	O
+miserables	O
+created	O
+
+what	O
+country	O
+was	O
+les	O
+miserables	O
+made	O
+
+where	O
+was	O
+les	O
+mes	O
+set	O
+
+what	O
+is	O
+the	O
+country	O
+in	O
+which	O
+les	O
+miserable	O
+was	O
+made	O
+
+where	O
+is	O
+resident	O
+evil	O
+located	O
+
+where	O
+was	O
+the	O
+movie	O
+secrets	O
+and	O
+lies	O
+from	O
+
+what	O
+country	O
+is	O
+the	O
+king	TITLE
+is	O
+back	O
+
+what	O
+country	O
+was	O
+the	O
+maid	TITLE
+set	O
+in	O
+
+when	O
+will	O
+barfi	O
+!	O
+be	O
+released	O
+
+list	O
+movie	O
+evil	O
+goes	O
+global	O
+on	O
+oh	O
+nine	NUMBER
+fourteen	DATE
+twenty	DATE
+twelve	NUMBER
+
+when	O
+was	O
+finding	O
+nemo	O
+3d	O
+released	O
+
+what	O
+is	O
+the	O
+realase	O
+date	O
+for	O
+harry	O
+potter	O
+
+when	O
+did	O
+harry	O
+potter	O
+come	O
+out	O
+
+when	O
+is	O
+i	O
+am	O
+legend	O
+2	NUMBER
+going	O
+to	O
+be	O
+released	O
+
+when	O
+the	O
+movie	O
+monster	O
+inc	O
+2	NUMBER
+will	O
+be	O
+released	O
+
+what	O
+date	O
+does	O
+omg	O
+oh	O
+my	O
+god	O
+!	O
+come	O
+out	O
+
+find	O
+date	O
+omg	O
+
+list	O
+date	O
+for	O
+omg	O
+
+omg	O
+date	O
+
+search	O
+date	O
+for	O
+omg	O
+
+when	O
+will	O
+omg	O
+release	O
+
+when	O
+was	O
+the	O
+movie	O
+omg	O
+oh	O
+my	O
+god	O
+!	O
+released	O
+
+what	O
+is	O
+the	O
+movie	O
+release	O
+date	O
+for	O
+omg	O
+oh	O
+my	O
+god	O
+
+show	O
+movie	O
+omg	O
+on	O
+oh	O
+nine	NUMBER
+twenty	NUMBER
+eight	NUMBER
+twenty	DATE
+twelve	DATE
+
+when	O
+will	O
+possed	O
+be	O
+released	O
+
+when	O
+was	O
+resident	O
+evil	O
+three	NUMBER
+d	O
+released	O
+
+when	O
+was	O
+star	O
+wars	O
+released	O
+
+what	O
+year	DURATION
+did	O
+robert	O
+wise	O
+direct	O
+sound	O
+of	O
+music	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+german	NATIONALITY
+directors	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+crank	O
+2	NUMBER
+
+who	O
+directed	O
+daddy	O
+daycare	O
+
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	O
+d-war	O
+
+director	TITLE
+of	O
+harry	O
+potter	O
+
+who	O
+directed	O
+the	O
+1st	ORDINAL
+indiana	STATE_OR_PROVINCE
+jones	O
+
+director	TITLE
+of	O
+indiana	STATE_OR_PROVINCE
+jones	O
+movie	O
+
+who	O
+directed	O
+return	O
+of	O
+the	O
+jedi	O
+
+who	O
+directed	O
+roger	O
+rabbit	O
+
+find	O
+the	O
+director	TITLE
+of	O
+the	O
+santa	O
+clause	O
+
+find	O
+the	O
+director	TITLE
+of	O
+star	O
+wars	O
+
+get	O
+me	O
+star	O
+wars	O
+director	TITLE
+
+i	O
+would	O
+like	O
+to	O
+know	O
+who	O
+the	O
+director	TITLE
+of	O
+star	O
+wars	O
+was	O
+
+show	O
+me	O
+the	O
+director	TITLE
+of	O
+star	O
+wars	O
+
+star	O
+wars	O
+director	TITLE
+please	O
+
+who	O
+directed	O
+star	O
+wars	O
+
+who	O
+directed	O
+star	O
+wars	O
+
+who	O
+directed	O
+the	O
+nineteen	DATE
+seventy	DATE
+seven	DATE
+star	O
+wars	O
+movie	O
+
+i	O
+want	O
+to	O
+know	O
+who	O
+was	O
+the	O
+director	TITLE
+of	O
+the	O
+movie	TITLE
+star	TITLE
+wars	O
+
+director	TITLE
+of	O
+taking	O
+of	O
+the	O
+pelham	O
+1	NUMBER
+2	NUMBER
+3	NUMBER
+
+who	O
+directed	O
+the	O
+good	O
+
+who	O
+directed	O
+the	O
+good	O
+
+who	O
+directed	O
+the	O
+simpsons	O
+movie	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+directors	O
+from	O
+older	O
+classic	O
+movies	O
+
+name	O
+star	O
+wars	O
+director	TITLE
+
+genre	O
+for	O
+downton	O
+abbey	O
+
+what	O
+genre	O
+of	O
+movie	O
+is	O
+omg	O
+oh	O
+my	O
+god	O
+
+what	O
+type	O
+of	O
+film	O
+is	O
+raiders	O
+of	O
+the	O
+lost	O
+art	O
+
+find	O
+out	O
+the	O
+genre	O
+for	O
+the	O
+movie	O
+the	O
+businessman	TITLE
+
+what	O
+language	O
+is	O
+9	NUMBER
+women	O
+in	O
+
+amelie	O
+is	O
+in	O
+what	O
+language	O
+
+what	O
+language	O
+is	O
+amelie	O
+in	O
+
+what	O
+tongue	O
+did	O
+they	O
+speak	O
+in	O
+black	O
+swan	O
+
+what	O
+language	O
+is	O
+spoken	O
+in	O
+amelie	O
+
+is	O
+the	O
+movie	O
+bastardos	O
+en	O
+el	O
+paraiso	O
+all	O
+in	O
+swedish	NATIONALITY
+
+what	O
+language	O
+is	O
+the	O
+father	O
+of	O
+my	O
+children	O
+in	O
+
+language	O
+of	O
+my	O
+annette	O
+
+what	O
+language	O
+is	O
+spoken	O
+in	O
+the	O
+movie	O
+on	O
+a	O
+wednesday	DATE
+
+name	O
+all	O
+movies	O
+made	O
+in	O
+america	COUNTRY
+
+i	O
+need	O
+to	O
+get	O
+names	O
+of	O
+some	O
+thriller	O
+movies	O
+with	O
+pg	O
+thirteen	NUMBER
+rating	O
+
+can	O
+you	O
+tell	O
+me	O
+names	O
+of	O
+some	O
+movies	O
+by	O
+indian	NATIONALITY
+actor	TITLE
+dilip	O
+kumar	O
+
+show	O
+me	O
+names	O
+of	O
+movies	O
+in	O
+which	O
+indian	NATIONALITY
+actor	TITLE
+dilip	O
+kumar	O
+acted	O
+
+show	O
+me	O
+names	O
+of	O
+some	O
+movies	O
+about	O
+gardening	O
+
+can	O
+you	O
+show	O
+me	O
+names	O
+of	O
+some	O
+movies	O
+on	O
+religious	O
+issues	O
+
+i	O
+need	O
+to	O
+find	O
+names	O
+of	O
+some	O
+movies	O
+on	O
+religious	O
+issues	O
+
+get	O
+me	O
+the	O
+names	O
+of	O
+movies	O
+about	O
+sports	O
+figures	O
+
+i	O
+need	O
+names	O
+of	O
+some	O
+movies	O
+about	O
+gardening	O
+
+list	O
+release	O
+dates	O
+for	O
+all	O
+horror	O
+movies	O
+between	O
+1995	DATE
+and	DATE
+2000	DATE
+
+show	O
+me	O
+the	O
+earnings	O
+for	O
+clint	O
+eastwood	O
+movies	O
+
+what	O
+has	O
+brad	O
+pitt	O
+directed	O
+
+classics	O
+
+find	O
+classics	O
+
+show	O
+me	O
+the	O
+comedies	O
+for	O
+sept	DATE
+
+i	O
+want	O
+to	O
+know	O
+all	O
+the	O
+comedies	O
+that	O
+warner	O
+brothers	O
+made	O
+in	O
+twenty	DATE
+eleven	DATE
+
+show	O
+all	O
+dramas	O
+that	O
+came	O
+out	O
+nine	NUMBER
+twenty	NUMBER
+one	NUMBER
+twenty	DATE
+twelve	DATE
+
+show	O
+all	O
+comedies	O
+that	O
+came	O
+out	O
+nine	NUMBER
+twenty	NUMBER
+eight	NUMBER
+twenty	DATE
+twelve	DATE
+
+show	O
+me	O
+a	O
+drama	O
+rated	O
+pg-13	O
+
+what	O
+legal	O
+comedy	O
+did	O
+will	O
+ferrel	O
+act	O
+in	O
+
+find	O
+classic	O
+car	O
+documentaries	O
+
+show	O
+garden	O
+documentaries	O
+
+i	O
+want	O
+to	O
+see	O
+something	O
+about	O
+wildflowers	O
+
+show	O
+all	O
+african	NATIONALITY
+movies	O
+for	O
+twenty	DATE
+eleven	DATE
+
+what	O
+are	O
+all	O
+movies	O
+made	O
+in	O
+america	COUNTRY
+
+i	O
+would	O
+like	O
+to	O
+search	O
+for	O
+movies	O
+from	O
+asia	O
+
+show	O
+all	O
+danish	NATIONALITY
+movies	O
+in	O
+this	DATE
+decade	DATE
+
+what	O
+movies	O
+came	O
+out	O
+of	O
+russia	COUNTRY
+last	DATE
+year	DATE
+
+show	O
+all	O
+british	NATIONALITY
+movies	O
+from	O
+two	DATE
+thousand	DATE
+one	DATE
+
+movies	O
+by	O
+mel	PERSON
+gibson	PERSON
+
+find	O
+movies	O
+directed	O
+by	O
+the	O
+man	O
+who	O
+played	O
+as	O
+john	O
+on	O
+chips	O
+
+can	O
+you	O
+please	O
+make	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+brad	O
+pitt	O
+directed	O
+
+show	O
+me	O
+all	O
+brad	O
+pitt	O
+directed	O
+movies	O
+
+show	O
+all	O
+movies	O
+by	O
+darla	O
+k	O
+anderson	O
+
+watch	O
+darla	O
+anderson	O
+new	O
+movie	O
+
+what	O
+other	O
+films	O
+has	O
+george	O
+vidor	O
+done	O
+
+show	O
+movies	O
+directed	O
+by	O
+greenberg	PERSON
+
+list	O
+the	O
+other	O
+films	O
+james	O
+lassiter	O
+has	O
+worked	O
+on	O
+
+john	O
+paul	O
+directed	O
+movies	O
+
+list	O
+of	O
+movies	O
+directed	O
+by	O
+john	PERSON
+paul	PERSON
+
+movies	O
+by	O
+director	TITLE
+john	PERSON
+paul	PERSON
+
+show	O
+me	O
+the	O
+movies	O
+directed	O
+by	O
+r	O
+b	O
+choudary	O
+
+what	O
+is	O
+ray	O
+stark	O
+'s	O
+current	DATE
+movie	O
+he	O
+directed	O
+
+pull	O
+up	O
+a	O
+ray	O
+stark	O
+movie	O
+
+what	O
+other	O
+movies	O
+did	O
+ray	O
+stark	O
+do	O
+
+show	O
+ray	O
+stark	O
+movies	O
+
+has	O
+ray	O
+stark	O
+made	O
+other	O
+movies	O
+
+find	O
+a	O
+ron	O
+howard	O
+movie	O
+from	O
+2012	DATE
+
+show	O
+me	O
+a	O
+sam	O
+wood	O
+and	O
+victor	O
+fleming	O
+film	O
+
+did	O
+teddy	O
+lee	O
+do	O
+a	O
+lot	O
+of	O
+movies	O
+
+what	O
+are	O
+the	O
+movies	O
+by	O
+director	TITLE
+tom	O
+cruise	O
+
+what	O
+movies	O
+has	O
+tom	O
+cruise	O
+directed	O
+
+show	O
+me	O
+the	O
+movies	O
+directed	O
+by	O
+trivikram	O
+
+show	O
+movies	O
+directed	O
+by	O
+the	O
+zucker	O
+brothers	O
+
+find	O
+anime	O
+films	O
+from	O
+japan	COUNTRY
+
+find	O
+some	O
+detective	TITLE
+movies	O
+
+find	O
+some	O
+historical	O
+romance	O
+movies	O
+
+show	O
+all	O
+sy	O
+fi	O
+movies	O
+for	O
+twenty	DATE
+twelve	DATE
+
+what	O
+was	O
+the	O
+highest-grossing	O
+woody	O
+allen	O
+movie	O
+ever	O
+
+all	O
+movies	O
+that	O
+made	O
+above	O
+seven	NUMBER
+point	O
+five	MONEY
+million	MONEY
+dollars	MONEY
+
+what	O
+movie	O
+made	O
+over	O
+forty	MONEY
+million	MONEY
+
+show	O
+me	O
+movies	O
+that	O
+made	O
+more	O
+than	O
+ten	MONEY
+million	MONEY
+
+i	O
+'d	O
+like	O
+to	O
+see	O
+the	O
+film	O
+that	O
+made	O
+over	O
+twenty	MONEY
+million	MONEY
+dollars	MONEY
+
+can	O
+you	O
+find	O
+me	O
+only	O
+movies	O
+that	O
+grossed	O
+three	NUMBER
+million	NUMBER
+or	O
+more	O
+
+what	O
+movies	O
+where	O
+released	O
+in	O
+aug	DATE
+of	DATE
+twenty	DATE
+eleven	DATE
+
+search	O
+for	O
+eighties	SET
+movies	O
+
+what	O
+is	O
+the	O
+release	O
+date	O
+for	O
+the	O
+movie	O
+heroine	O
+
+what	O
+movies	O
+were	O
+released	O
+nine	NUMBER
+fourteen	DATE
+twelve	DATE
+
+where	O
+can	O
+i	O
+find	O
+a	O
+list	O
+of	O
+movies	O
+released	O
+nine	NUMBER
+fourteen	DATE
+twenty	DATE
+twelve	NUMBER
+
+i	O
+want	O
+you	O
+to	O
+pull	O
+up	O
+movies	O
+from	O
+nine	NUMBER
+fourteen	NUMBER
+
+what	O
+movies	O
+were	O
+released	O
+on	O
+nine	NUMBER
+twenty	NUMBER
+one	NUMBER
+twelve	NUMBER
+
+show	O
+me	O
+movies	O
+from	O
+the	O
+nineteen	NUMBER
+fifties	SET
+
+search	O
+nineteen	DATE
+ninety	DATE
+'s	O
+movies	O
+
+show	O
+me	O
+films	O
+that	O
+came	O
+out	O
+in	O
+september	DATE
+of	DATE
+this	DATE
+year	DATE
+
+movies	O
+in	O
+september	DATE
+twenty	DATE
+twelve	DATE
+
+movies	O
+released	O
+in	O
+september	DATE
+twenty	DATE
+twelve	DATE
+
+what	O
+are	O
+some	O
+new	O
+movie	O
+releases	O
+for	O
+september	DATE
+twenty	DATE
+twelve	DATE
+
+get	O
+a	O
+list	O
+of	O
+movies	O
+released	O
+in	O
+september	DATE
+
+show	O
+me	O
+movies	O
+coming	O
+out	O
+in	O
+september	DATE
+
+show	O
+me	O
+movies	O
+released	O
+in	O
+september	DATE
+
+what	O
+movies	O
+came	O
+out	O
+in	O
+september	DATE
+
+what	O
+movies	O
+were	O
+released	O
+in	O
+september	DATE
+
+find	O
+movies	O
+released	O
+in	O
+september	DATE
+
+show	O
+me	O
+movies	O
+from	O
+the	O
+sixties	O
+
+what	O
+twenty	NUMBER
+twelve	NUMBER
+movies	O
+were	O
+rated	O
+pg	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+twenty	DATE
+twelve	DATE
+rated	O
+r	O
+movies	O
+
+twenty	DATE
+twelve	DATE
+twentieth	DATE
+century	DATE
+fox	O
+movies	O
+
+search	O
+twenty	NUMBER
+twelve	NUMBER
+movies	O
+
+i	O
+want	O
+a	O
+danish	NATIONALITY
+language	O
+speaking	O
+film	O
+
+are	O
+there	O
+any	O
+danish	NATIONALITY
+language	O
+films	O
+around	O
+
+movies	O
+in	O
+dutch	NATIONALITY
+
+showcase	O
+all	O
+movies	O
+in	O
+2012	DATE
+that	O
+are	O
+in	O
+french	NATIONALITY
+
+movies	O
+in	O
+french	NATIONALITY
+
+display	O
+a	O
+list	O
+of	O
+2012	DATE
+movies	O
+in	O
+german	NATIONALITY
+
+show	O
+me	O
+a	O
+hindi	O
+action	O
+movie	O
+
+show	O
+me	O
+the	O
+latest	O
+movies	O
+in	O
+malayalam	O
+
+what	O
+movies	O
+are	O
+their	O
+in	O
+portuguese	NATIONALITY
+
+see	O
+movies	O
+in	O
+punjabi	O
+
+search	O
+for	O
+movies	O
+in	O
+canada	COUNTRY
+with	O
+james	O
+brown	O
+
+i	O
+want	O
+movies	O
+in	O
+france	COUNTRY
+
+movies	O
+from	O
+paris	O
+
+show	O
+me	O
+movies	O
+from	O
+paris	O
+
+movies	O
+for	O
+twenty	DATE
+twelve	DATE
+based	O
+in	O
+spain	COUNTRY
+
+look	O
+for	O
+movies	O
+acted	O
+in	O
+spain	COUNTRY
+
+search	O
+movies	O
+acted	O
+in	O
+spain	COUNTRY
+
+search	O
+movies	O
+acted	O
+in	O
+sweden	COUNTRY
+
+i	O
+want	O
+to	O
+see	O
+a	O
+list	O
+of	O
+all	O
+movies	O
+in	O
+the	O
+usa	COUNTRY
+
+show	O
+me	O
+movies	O
+in	O
+the	O
+usa	COUNTRY
+
+what	O
+are	O
+the	O
+movies	O
+that	O
+alfred	O
+ruddy	O
+produced	O
+
+get	O
+movie	O
+information	O
+for	O
+lionsgate	O
+
+what	O
+movies	O
+did	O
+disney	O
+produce	O
+in	O
+1998	DATE
+
+find	O
+dreamworks	O
+movies	O
+from	O
+twenty	DATE
+ten	DATE
+
+lionsgate	O
+movies	O
+for	O
+twenty	DATE
+thirteen	DATE
+
+show	O
+me	O
+all	O
+recent	O
+pg	O
+movies	O
+by	O
+paramount	O
+
+find	O
+films	O
+made	O
+by	O
+the	O
+company	O
+searchlight	O
+films	O
+
+show	O
+me	O
+the	O
+movies	O
+rating	O
+a	O
+
+find	O
+all	O
+movies	O
+rated	O
+g	O
+in	O
+the	DATE
+last	DATE
+year	DATE
+
+show	O
+all	O
+movies	O
+made	O
+in	O
+twenty	DATE
+eleven	DATE
+with	O
+g	O
+rating	O
+
+show	O
+nc	O
+seventeen	NUMBER
+movies	O
+for	O
+twenty	DATE
+eleven	DATE
+
+find	O
+sports	O
+movies	O
+rated	O
+pg	O
+
+list	O
+all	O
+movies	O
+rated	O
+pg	O
+and	O
+pg-13	O
+released	O
+in	O
+2009	DATE
+
+show	O
+all	O
+r	O
+movies	O
+for	O
+twenty	DATE
+eleven	DATE
+
+what	O
+r-rated	O
+movies	O
+were	O
+released	O
+in	O
+twenty	DATE
+twelve	DATE
+
+find	O
+detective	TITLE
+movies	O
+rated	O
+r	O
+
+what	O
+movies	O
+are	O
+safe	O
+for	O
+a	O
+young	O
+child	O
+to	O
+watch	O
+
+show	O
+me	O
+brittney	O
+murphey	O
+movies	O
+
+get	O
+me	O
+movies	O
+with	O
+chloe	PERSON
+sevigny	PERSON
+
+show	O
+me	O
+all	O
+movies	O
+hillary	O
+duff	O
+has	O
+been	O
+in	O
+
+list	O
+only	O
+jason	O
+statham	O
+movies	O
+
+what	O
+movies	O
+did	O
+kelly	O
+brooke	O
+do	O
+
+what	O
+movies	O
+did	O
+meryl	O
+streep	O
+make	O
+in	O
+2010	DATE
+
+show	O
+me	O
+the	O
+movies	O
+acted	O
+by	O
+namitha	O
+
+find	O
+movies	O
+with	O
+von	O
+sudow	O
+
+search	O
+for	O
+films	O
+with	O
+von	O
+sudow	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+in	O
+detail	O
+about	O
+the	O
+film	O
+career	O
+of	O
+indian	NATIONALITY
+actor	TITLE
+dilip	O
+kumar	O
+
+show	O
+me	O
+movies	O
+that	O
+jennifer	O
+grey	O
+starred	O
+in	O
+from	O
+nineteen	DATE
+eighty	DATE
+seven	DATE
+
+what	O
+movie	O
+had	O
+katie	O
+holmes	O
+and	O
+scott	O
+wolf	O
+in	O
+it	O
+
+what	O
+is	O
+the	O
+movie	O
+with	O
+patrick	O
+swayze	O
+and	O
+jennifer	PERSON
+grey	PERSON
+
+find	O
+a	O
+movie	O
+about	O
+apartheid	IDEOLOGY
+
+show	O
+me	O
+some	O
+movies	O
+about	O
+apartheid	IDEOLOGY
+
+i	O
+want	O
+to	O
+see	O
+a	O
+movie	O
+about	O
+armstrong	O
+siddly	O
+
+what	O
+movies	O
+are	O
+filmed	O
+about	O
+asia	O
+
+show	O
+all	O
+movies	O
+about	O
+britian	O
+
+show	O
+me	O
+movies	O
+involving	O
+car	O
+chases	O
+
+do	O
+you	O
+have	O
+any	O
+movies	O
+about	O
+cars	O
+
+i	O
+want	O
+to	O
+see	O
+films	O
+involving	O
+cars	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+about	O
+cars	O
+
+movies	O
+about	O
+cars	O
+
+find	O
+movies	O
+about	O
+church	O
+
+classic	O
+car	O
+movies	O
+
+show	O
+classic	O
+car	O
+movies	O
+
+show	O
+me	O
+movies	O
+about	O
+classic	O
+cars	O
+
+what	O
+movies	O
+have	O
+classic	O
+cars	O
+in	O
+them	O
+
+find	O
+movies	O
+about	O
+classic	O
+cars	O
+
+movies	O
+about	O
+classic	O
+cars	O
+
+movies	O
+about	O
+computers	O
+
+show	O
+me	O
+all	O
+movies	O
+from	O
+2000	DATE
+about	O
+dogs	O
+
+what	O
+foreign	O
+film	O
+involves	O
+dragons	O
+
+what	O
+is	O
+the	O
+latest	O
+movie	O
+out	O
+about	O
+esp	O
+
+i	O
+am	O
+really	O
+interested	O
+in	O
+esp	O
+and	O
+would	O
+like	O
+to	O
+see	O
+a	O
+movie	O
+
+i	O
+would	O
+love	O
+to	O
+see	O
+a	O
+movie	O
+about	O
+esp	O
+
+i	O
+wonder	O
+if	O
+there	O
+are	O
+any	O
+movies	O
+out	O
+about	O
+esp	O
+
+what	O
+movies	O
+were	O
+released	O
+in	O
+2012	DATE
+about	O
+ice	O
+skating	O
+
+list	O
+films	O
+concerning	O
+the	O
+country	O
+of	O
+france	COUNTRY
+
+show	O
+me	O
+movies	O
+about	O
+france	COUNTRY
+
+display	O
+movies	O
+concerning	O
+france	COUNTRY
+
+list	O
+movies	O
+filmed	O
+on	O
+france	COUNTRY
+
+display	O
+french	NATIONALITY
+culture	O
+films	O
+
+find	O
+movies	O
+about	O
+gardening	O
+and	O
+lawn	O
+care	O
+
+gardening	O
+movies	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+names	O
+of	O
+some	O
+movies	O
+related	O
+with	O
+gardening	O
+
+results	O
+for	O
+gardening	O
+movies	O
+
+i	O
+want	O
+to	O
+see	O
+movies	O
+about	O
+gardening	O
+
+show	O
+me	O
+movies	O
+about	O
+gardening	O
+
+show	O
+me	O
+movies	O
+on	O
+gardening	O
+
+show	O
+movies	O
+on	O
+gardening	O
+
+movies	O
+about	O
+gardens	O
+
+search	O
+for	O
+movies	O
+about	O
+hair	O
+
+find	O
+movies	O
+about	O
+haunting	O
+
+show	O
+me	O
+movies	O
+that	O
+talk	O
+about	O
+healthy	O
+eating	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+that	O
+discuss	O
+healthy	O
+eating	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+the	O
+deal	O
+with	O
+the	O
+topic	O
+of	O
+healthy	O
+eating	O
+
+the	O
+movie	O
+that	O
+has	O
+a	O
+kid	O
+who	O
+ages	O
+into	O
+a	O
+man	O
+
+titles	O
+of	O
+movies	O
+about	O
+libraries	O
+
+make	O
+a	O
+list	O
+of	O
+movies	O
+about	O
+libraries	O
+
+list	O
+movies	O
+about	O
+libraries	O
+
+search	O
+movies	O
+about	O
+the	O
+october	DATE
+revolution	O
+
+period	O
+movies	O
+
+search	O
+for	O
+movies	O
+about	O
+preschool	O
+boys	O
+
+race	O
+car	O
+movies	O
+
+show	O
+me	O
+a	O
+list	O
+of	O
+some	O
+movies	O
+on	O
+religious	O
+issues	O
+
+best	O
+space	O
+movie	O
+
+space	O
+movies	O
+
+list	O
+some	O
+sports	O
+movies	O
+
+show	O
+me	O
+movies	O
+about	O
+the	DATE
+future	DATE
+
+movies	O
+about	O
+the	O
+president	TITLE
+
+are	O
+there	O
+any	O
+movies	O
+that	O
+have	O
+tips	O
+about	O
+gardening	O
+in	O
+them	O
+
+list	O
+of	O
+movies	O
+about	O
+unsolved	O
+crimes	O
+
+find	O
+movies	O
+about	O
+us	O
+government	O
+
+find	O
+war	CAUSE_OF_DEATH
+movies	O
+rated	O
+r	O
+
+what	O
+zombie	O
+movies	O
+are	O
+scheduled	O
+for	O
+release	O
+in	O
+twenty	DATE
+thirteen	DATE
+
+display	O
+movies	O
+on	O
+gardening	O
+
+show	O
+all	O
+movies	O
+with	O
+america	COUNTRY
+in	O
+title	O
+
+pull	O
+up	O
+films	O
+with	O
+flowers	O
+in	O
+the	O
+title	O
+
+show	O
+me	O
+movies	O
+about	O
+gardening	O
+
+where	O
+can	O
+i	O
+find	O
+the	O
+movie	O
+amelie	O
+in	O
+french	NATIONALITY
+
+did	O
+tom	O
+hanks	O
+act	O
+in	O
+and	O
+produce	O
+apollo	O
+thirteen	NUMBER
+
+show	O
+me	O
+belle	O
+the	O
+movie	O
+is	O
+it	O
+in	O
+spanish	NATIONALITY
+
+search	O
+for	O
+despicable	O
+me	O
+in	O
+italian	NATIONALITY
+
+is	O
+et	O
+in	O
+french	NATIONALITY
+
+looking	O
+for	O
+et	O
+in	O
+french	NATIONALITY
+
+show	O
+movie	O
+evil	O
+goes	O
+global	O
+on	O
+oh	O
+nine	NUMBER
+fourteen	DATE
+twelve	DATE
+
+get	O
+finding	O
+nemo	O
+twenty	NUMBER
+oh	O
+three	NUMBER
+
+where	O
+can	O
+i	O
+find	O
+the	O
+movie	O
+garayh	O
+in	O
+punjabi	O
+
+did	O
+albert	O
+ruddy	O
+produce	O
+all	O
+of	O
+the	O
+godfather	O
+movies	O
+
+is	O
+this	O
+movie	O
+german	NATIONALITY
+
+is	O
+this	O
+movie	O
+directed	O
+by	O
+a	O
+norwegian	NATIONALITY
+
+is	O
+this	O
+movie	O
+scary	O
+
+are	O
+there	O
+any	O
+recent	O
+versions	O
+of	O
+gone	O
+with	O
+the	O
+wind	O
+
+is	O
+this	O
+movie	O
+in	O
+french	NATIONALITY
+
+is	O
+this	O
+movie	O
+in	O
+punjaki	O
+
+is	O
+this	O
+movie	O
+in	O
+turkish	NATIONALITY
+language	O
+
+was	O
+this	O
+movie	O
+filmed	O
+in	O
+china	COUNTRY
+
+sergio	O
+leone	O
+good	O
+bad	O
+and	O
+ugly	O
+
+find	O
+goodfellas	O
+in	O
+german	NATIONALITY
+
+is	O
+a	O
+hard	O
+day	DURATION
+'s	O
+night	TIME
+a	O
+documentary	O
+
+was	O
+the	O
+movie	O
+heroine	O
+released	O
+in	O
+september	DATE
+of	DATE
+twenty	DATE
+twelve	DATE
+
+can	O
+i	O
+have	O
+hotel	O
+transylvania	O
+three	NUMBER
+d	O
+
+house	O
+to	O
+akrend	O
+street	O
+
+show	O
+me	O
+the	O
+movie	O
+lionsgate	O
+
+download	O
+mission	O
+impossible	O
+in	O
+spanish	NATIONALITY
+
+i	O
+want	O
+to	O
+see	O
+mission	O
+impossible	O
+in	O
+spanish	NATIONALITY
+
+please	O
+show	O
+mission	O
+impossible	O
+in	O
+spanish	NATIONALITY
+
+show	O
+me	O
+mission	O
+impossible	O
+in	O
+spanish	NATIONALITY
+
+show	O
+mission	O
+impossible	O
+in	O
+spanish	NATIONALITY
+please	O
+
+list	O
+movie	O
+omg	O
+on	O
+oh	O
+nine	NUMBER
+twenty	NUMBER
+eight	NUMBER
+twenty	DATE
+twelve	DATE
+
+find	O
+pirates	O
+of	O
+the	O
+caribean	O
+in	O
+french	NATIONALITY
+
+is	O
+a	O
+seperation	O
+in	O
+french	NATIONALITY
+
+smurfs	O
+for	O
+the	O
+kids	O
+
+is	O
+there	O
+a	O
+sound	O
+of	O
+music	O
+two	NUMBER
+
+find	O
+me	O
+information	O
+about	O
+the	O
+first	ORDINAL
+star	O
+wars	O
+
+is	O
+the	O
+nineteen	NUMBER
+seventieseven	O
+starwars	O
+movie	O
+rated	O
+pg	O
+
+show	O
+star	O
+wars	O
+movie	O
+
+show	O
+star	O
+wars	O
+movie	O
+list	O
+
+will	O
+'s	O
+in	O
+the	O
+hitch	O
+
+search	O
+for	O
+the	O
+hunger	O
+games	O
+in	O
+korean	NATIONALITY
+
+rated	O
+pg	O
+lion	O
+king	TITLE
+info	O
+
+is	O
+toy	O
+story	O
+family	O
+friendly	O
+
+search	O
+for	O
+information	O
+about	O
+american	NATIONALITY
+movies	O
+
+show	O
+all	O
+horror	O
+movies	O
+that	O
+me	O
+out	O
+in	O
+twenty	DATE
+twelve	DATE
+
+where	O
+can	O
+i	O
+find	O
+information	O
+about	O
+movies	O
+released	O
+nine	NUMBER
+fourteen	DATE
+twenty	DATE
+twelve	NUMBER
+
+show	O
+me	O
+information	O
+about	O
+movies	O
+from	O
+liongate	O
+
+search	O
+disney	O
+pictures	O
+
+alberts	O
+bio	O
+
+alberts	O
+family	O
+
+show	O
+british	NATIONALITY
+actor	TITLE
+jason	PERSON
+stathon	PERSON
+
+arabic	O
+actors	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+irish	NATIONALITY
+actors	O
+
+name	O
+of	O
+company	O
+produced	O
+forrest	O
+gump	O
+
+find	O
+the	O
+producer	TITLE
+of	O
+a	O
+mom	O
+for	O
+christmas	SET
+
+production	O
+company	O
+for	O
+amityville	O
+horror	O
+
+who	O
+produced	O
+the	O
+antwon	O
+fisher	O
+stoy	O
+
+who	O
+produced	O
+the	O
+movie	O
+caddy	TITLE
+shack	O
+
+find	O
+the	O
+producer	TITLE
+of	O
+lord	O
+of	O
+the	O
+flys	O
+
+who	O
+produced	O
+mirror	O
+by	O
+tarkovsky	O
+
+do	O
+you	O
+know	O
+who	O
+produced	O
+star	O
+wars	O
+
+i	O
+need	O
+to	O
+know	O
+who	O
+produced	O
+star	O
+wars	O
+
+who	O
+produced	O
+star	O
+wars	O
+
+who	O
+produced	O
+star	O
+wars	O
+
+name	O
+of	O
+company	O
+that	O
+produced	O
+the	O
+great	O
+debaters	O
+
+what	O
+studio	O
+produced	O
+lord	O
+of	O
+the	O
+rings	O
+
+think	O
+like	O
+a	O
+man	O
+the	O
+movie	O
+which	O
+company	O
+produce	O
+
+find	O
+period	O
+productions	O
+
+what	O
+movie	O
+rating	O
+is	O
+the	O
+anchorman	TITLE
+
+is	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+'	O
+ok	O
+for	O
+my	O
+six	DURATION
+year	DURATION
+old	DURATION
+
+what	O
+is	O
+the	O
+rating	O
+for	O
+marley	O
+and	O
+me	O
+
+show	O
+me	O
+the	O
+movie	O
+rating	O
+for	O
+resident	O
+evil	O
+:	O
+retribution	O
+
+what	O
+ages	O
+is	O
+wall-e	O
+good	O
+for	O
+
+how	O
+much	O
+money	O
+did	O
+bananas	O
+make	O
+
+how	O
+much	O
+revenue	O
+did	O
+bananas	O
+make	O
+
+what	O
+was	O
+the	O
+total	O
+gross	O
+for	O
+the	O
+movie	O
+bananas	O
+
+what	O
+was	O
+the	O
+revenue	O
+from	O
+beaches	O
+
+find	O
+the	O
+revenue	O
+of	O
+big	O
+
+find	O
+the	O
+revenue	O
+of	O
+black	O
+beauty	O
+
+how	O
+much	O
+money	O
+did	O
+black	O
+swan	O
+bring	O
+
+what	O
+was	O
+black	O
+swan	O
+'s	O
+revenue	O
+
+how	O
+much	O
+revenue	O
+did	O
+bourne	O
+identity	O
+make	O
+
+revenue	O
+for	O
+breaking	O
+dawn	O
+
+how	O
+much	O
+did	O
+dark	O
+night	TIME
+make	O
+at	O
+the	O
+box	O
+office	O
+
+show	O
+me	O
+the	O
+revenue	O
+created	O
+by	O
+dragon	O
+war	CAUSE_OF_DEATH
+
+end	O
+of	O
+watch	O
+gross	O
+
+how	O
+much	O
+did	O
+end	O
+of	O
+watch	O
+make	O
+in	O
+the	O
+box	O
+office	O
+
+how	O
+much	O
+money	O
+did	O
+end	O
+of	O
+watch	O
+make	O
+in	O
+theaters	O
+
+what	O
+is	O
+the	O
+revenue	O
+for	O
+fast	O
+and	O
+the	O
+furious	O
+
+how	O
+much	O
+revenue	O
+did	O
+finding	O
+nemo	O
+3d	O
+make	O
+
+look	O
+for	O
+revenue	O
+from	O
+freedom	O
+writers	O
+
+show	O
+me	O
+the	O
+revenue	O
+created	O
+by	O
+ghost	O
+rider	O
+spirit	O
+of	O
+vengeance	O
+
+total	O
+revenue	O
+for	O
+ghostbusters	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+amount	O
+of	O
+money	O
+this	O
+movie	O
+made	O
+
+how	O
+much	O
+did	O
+this	O
+movie	O
+earn	O
+
+how	O
+much	O
+did	O
+this	O
+movie	O
+make	O
+
+how	O
+much	O
+did	O
+this	O
+movie	O
+make	O
+
+how	O
+much	O
+money	O
+did	O
+this	O
+movie	O
+accumalate	O
+
+how	O
+much	O
+did	O
+movie	O
+make	O
+
+what	O
+was	O
+revenue	O
+made	O
+from	O
+the	O
+movie	O
+great	O
+debaters	O
+
+how	O
+much	O
+did	O
+harry	O
+potter	O
+and	O
+the	O
+sorcerer	O
+'s	O
+stone	O
+make	O
+
+how	O
+much	O
+did	O
+hitch	O
+gross	O
+
+how	O
+much	O
+money	O
+did	O
+hitch	O
+make	O
+
+what	O
+was	O
+the	O
+box	O
+office	O
+gross	O
+in	O
+hitch	O
+
+hotel	O
+translyvania	O
+box	O
+office	O
+numbers	O
+
+how	O
+much	O
+did	O
+hotel	O
+transylvania	O
+gross	O
+
+how	O
+much	O
+did	O
+hotel	O
+transylvania	O
+make	O
+in	O
+the	O
+box	O
+office	O
+
+how	O
+much	O
+money	O
+did	O
+hotel	O
+transylvania	O
+gross	O
+overall	O
+
+how	O
+much	O
+did	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+make	O
+
+how	O
+much	O
+did	O
+house	O
+on	O
+the	O
+end	O
+of	O
+the	O
+street	O
+gross	O
+
+revinue	O
+for	O
+I	O
+'ll	O
+be	O
+home	O
+for	O
+christmas	SET
+
+how	O
+much	O
+money	O
+did	O
+iron	O
+man	O
+gross	O
+
+how	O
+much	O
+money	O
+did	O
+iron	O
+man	O
+make	O
+
+what	O
+was	O
+the	O
+profit	O
+margin	O
+of	O
+iron	O
+man	O
+
+find	O
+revenue	O
+generated	O
+by	O
+kahani	O
+
+want	O
+to	O
+find	O
+the	O
+revenue	O
+of	O
+kahani	O
+
+what	O
+was	O
+the	O
+revenue	O
+of	O
+kahani	O
+
+what	O
+did	O
+the	O
+movie	O
+life	O
+is	O
+beautiful	O
+gross	O
+
+dollars	O
+in	O
+sales	O
+looper	TITLE
+
+how	O
+many	O
+dollars	O
+did	O
+looper	TITLE
+gross	O
+
+how	O
+much	O
+did	O
+looper	TITLE
+gross	O
+
+how	O
+much	O
+did	O
+looper	TITLE
+make	O
+in	O
+the	O
+box	O
+office	O
+
+how	O
+much	O
+money	O
+did	O
+looper	TITLE
+make	O
+
+how	O
+much	O
+revenue	O
+has	O
+looper	TITLE
+made	O
+
+looper	TITLE
+revenue	O
+
+what	O
+were	O
+the	O
+box	O
+office	O
+sales	O
+for	O
+looper	TITLE
+
+how	O
+much	O
+did	O
+looper	TITLE
+gross	O
+
+what	O
+was	O
+men	O
+in	O
+black	O
+3	NUMBER
+'s	O
+revenue	O
+
+find	O
+the	O
+revenue	O
+of	O
+mirror	O
+
+what	O
+is	O
+the	O
+box	O
+office	O
+of	O
+mirror	O
+
+what	O
+is	O
+the	O
+revenue	O
+of	O
+mirror	O
+
+revenue	O
+for	O
+ms.	O
+congeniality	O
+
+can	O
+you	O
+please	O
+tell	O
+me	O
+about	O
+the	O
+revenue	O
+for	O
+the	O
+movie	O
+mr	O
+and	O
+mrs	O
+smith	O
+
+find	O
+revenue	O
+from	O
+my	O
+boys	O
+
+what	O
+was	O
+the	O
+revenue	O
+for	O
+pulp	O
+fiction	O
+
+show	O
+me	O
+the	O
+revenue	O
+created	O
+by	O
+romeo	O
+must	O
+die	O
+
+find	O
+how	O
+much	O
+money	O
+shark	O
+tales	O
+made	O
+
+how	O
+much	O
+did	O
+shrek	O
+make	O
+
+how	O
+much	O
+money	O
+did	O
+shrek	O
+bring	O
+in	O
+
+what	O
+was	O
+shrek	O
+'s	O
+revenue	O
+
+what	O
+were	O
+the	O
+earnings	O
+from	O
+signs	O
+
+snow	O
+white	O
+and	O
+the	O
+huntsman	O
+revenue	O
+
+how	O
+much	O
+money	O
+did	O
+star	O
+wars	O
+earn	O
+at	O
+the	O
+box	O
+office	O
+
+how	O
+much	O
+revenue	O
+did	O
+star	O
+wars	O
+make	O
+
+look	O
+for	O
+revenue	O
+from	O
+step	O
+up	O
+
+please	O
+look	O
+up	O
+revenue	O
+from	O
+step	O
+up	O
+
+what	O
+was	O
+the	O
+gross	O
+revenue	O
+for	O
+superman	O
+returns	O
+
+box	O
+office	O
+total	O
+terminator	TITLE
+2	NUMBER
+
+amazing	O
+spiderman	O
+revenue	O
+
+how	O
+much	O
+revenue	O
+did	O
+the	O
+amazing	O
+spiderman	O
+make	O
+
+can	O
+you	O
+tell	O
+me	O
+the	O
+revenue	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+how	O
+much	O
+revenue	O
+did	O
+cabin	O
+in	O
+the	O
+woods	O
+bring	O
+in	O
+
+i	O
+am	O
+interested	O
+in	O
+what	O
+cabin	O
+in	O
+the	O
+woods	O
+made	O
+in	O
+revenue	O
+
+kindly	O
+show	O
+me	O
+the	O
+revenue	O
+for	O
+cabin	O
+in	O
+the	O
+woods	O
+
+the	O
+cabin	O
+in	O
+the	O
+woods	O
+revenue	O
+
+show	O
+me	O
+the	O
+revenue	O
+created	O
+by	O
+the	O
+expendables	O
+2	NUMBER
+
+show	O
+me	O
+the	O
+revenue	O
+created	O
+by	O
+the	O
+expendables	O
+
+find	O
+revenue	O
+generated	O
+by	O
+the	O
+help	O
+
+how	O
+much	O
+was	O
+generated	O
+from	O
+the	O
+movie	O
+the	O
+help	O
+
+how	O
+much	O
+did	O
+lord	O
+of	O
+the	O
+rings	O
+make	O
+
+how	O
+much	O
+revenue	O
+did	O
+lord	O
+of	O
+the	O
+rings	O
+get	O
+
+what	O
+is	O
+the	O
+revenue	O
+for	O
+lord	O
+of	O
+the	O
+rings	O
+
+find	O
+the	O
+revenue	O
+for	O
+passion	O
+of	O
+the	O
+christ	O
+
+what	O
+was	O
+the	O
+gross	O
+revenue	O
+for	O
+the	O
+princess	TITLE
+bride	O
+
+revenue	O
+for	O
+the	O
+way	O
+we	O
+were	O
+
+how	O
+much	O
+did	O
+trouble	O
+with	O
+the	O
+curve	O
+gross	O
+
+how	O
+much	O
+did	O
+trouble	O
+with	O
+the	O
+curve	O
+make	O
+
+how	O
+much	O
+did	O
+trouble	O
+with	O
+the	O
+curve	O
+make	O
+in	O
+the	O
+box	O
+office	O
+
+trouble	O
+with	O
+the	O
+curve	O
+profit	O
+
+what	O
+is	O
+finding	O
+nemo	O
+about	O
+
+what	O
+is	O
+the	O
+movie	O
+the	O
+campaign	O
+about	O
+
+what	O
+is	O
+the	O
+movie	O
+the	O
+campaign	O
+about	O
+
+show	O
+all	O
+italian	NATIONALITY
+movies	O
+made	O
+in	O
+twenty	DATE
+twelve	DATE
+
+show	O
+all	O
+russian	NATIONALITY
+movies	O
+made	O
+in	O
+the	DURATION
+last	DATE
+five	DATE
+years	DATE
+
+show	O
+me	O
+all	O
+the	O
+russian	NATIONALITY
+films	O
+for	O
+twenty	DATE
+twelve	DATE
+
+look	O
+for	O
+english	NATIONALITY
+movies	O
+based	O
+in	O
+the	O
+uk	COUNTRY
+
+i	O
+'d	O
+like	O
+to	O
+see	O
+a	O
+movie	O
+that	O
+was	O
+filmed	O
+in	O
+africa	O
+
+who	O
+produces	O
+for	O
+fox	O
+movies	O
+
+which	O
+producers	O
+work	O
+for	O
+fox	O
+
+find	O
+movie	O
+based	O
+on	O
+criteria	O
+
+how	O
+often	O
+does	O
+he	O
+put	O
+movies	O
+out	O
+
+is	O
+finding	O
+nemo	O
+available	O
+on	O
+netflix	O
+
+is	O
+this	O
+movie	O
+for	O
+rent	O
+
+search	O
+by	O
+actor	TITLE
+
+search	O
+by	O
+actor	TITLE
+
+search	O
+by	O
+actor	TITLE
+
+search	O
+by	O
+box-office	O
+rating	O
+
+search	O
+by	O
+director	TITLE
+
+search	O
+by	O
+producer	TITLE
+
+search	O
+by	O
+release	O
+date	O
+
+search	O
+by	O
+stars	O
+
+search	O
+by	O
+type	O
+
+searching	O
+for	O
+cheap	O
+movies	O
+
+searching	O
+for	O
+movie	O
+prices	O
+please	O
+
+show	O
+me	O
+the	O
+movie	O
+itself	O
+
+show	O
+page	O
+for	O
+moview	O
+
+where	O
+can	O
+i	O
+rent	O
+this	O
+movie	O
+
+find	O
+ratings	O
+
+are	O
+any	O
+of	O
+these	O
+directors	O
+dead	O
+
+are	O
+these	O
+directors	O
+still	O
+alive	O
+
+list	O
+comedians	O
+in	O
+the	O
+movies	O
+
+brazil	COUNTRY
+info	O
+on	O
+movies	O
+
+can	O
+i	O
+buy	O
+this	O
+movie	O
+
+feature	O
+films	O
+
+find	O
+biographies	O
+
+find	O
+expensive	O
+movies	O
+online	O
+
+find	O
+specific	O
+movie	O
+
+most	O
+translated	O
+foreign	O
+film	O
+
+movie	O
+type	O
+
+movies	O
+coming	O
+to	O
+theatres	O
+soon	O
+
+find	O
+most	O
+popular	O
+actors	O
+
+look	O
+for	O
+the	O
+actor	TITLE
+that	O
+sings	O
+let	O
+me	O
+love	O
+you	O
+
+bings	O
+stuff	O
+steven	O
+spielberg	O
+
+how	O
+directed	O
+alfred	O
+hitchcock	O
+shows	O
+
+are	O
+there	O
+sub-titles	O
+
+where	O
+is	O
+movies	O
+dialect	O
+from	O
+
+please	O
+look	O
+up	O
+and	O
+alfred	O
+movies	O
+
+is	O
+kristen	O
+stewart	O
+really	O
+dating	O
+robert	O
+pattinson	O
+
+is	O
+tom	O
+cruise	O
+getting	O
+a	O
+divorce	O
+
+is	O
+tom	O
+cruise	O
+married	O
+
+list	O
+women	O
+married	O
+to	O
+directors	O
+in	O
+the	O
+movies	O
+
+robert	O
+wise	O
+children	O
+
+where	O
+did	O
+spielberg	O
+go	O
+to	O
+school	O
+
+where	O
+does	O
+tom	O
+cruise	O
+live	O
+
+middle	O
+aged	O
+white	O
+actors	O
+
+what	O
+are	O
+the	O
+logos	O
+for	O
+popular	O
+production	O
+companies	O
+
+i	O
+want	O
+to	O
+find	O
+more	O
+movies	O
+like	O
+life	O
+is	O
+beautiful	O
+
+i	O
+want	O
+to	O
+watch	O
+movies	O
+like	O
+finding	O
+nemo	O
+
+like	O
+dirty	O
+dancing	O
+
+movies	O
+like	O
+in	O
+july	DATE
+
+movies	O
+like	O
+life	O
+is	O
+beautiful	O
+
+search	O
+for	O
+dramas	O
+like	O
+downton	O
+abbey	O
+
+show	O
+me	O
+related	O
+movies	O
+like	O
+in	O
+july	DATE
+
+show	O
+other	O
+movies	O
+similar	O
+to	O
+this	O
+
+what	O
+are	O
+some	O
+movies	O
+like	O
+the	O
+campaign	O
+
+what	O
+are	O
+sone	O
+other	O
+movies	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+what	O
+movies	O
+are	O
+like	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+what	O
+movies	O
+are	O
+related	O
+to	O
+dirty	O
+dancing	O
+
+what	O
+movies	O
+are	O
+related	O
+to	O
+in	O
+july	DATE
+
+what	O
+other	O
+movies	O
+are	O
+about	O
+the	O
+holocaust	O
+similar	O
+to	O
+life	O
+is	O
+beautiful	O
+
+what	O
+did	O
+steven	O
+spielberg	O
+do	O
+before	O
+he	O
+was	O
+a	O
+director	TITLE
+
+what	O
+made	O
+darla	O
+anderson	O
+become	O
+a	O
+producer	TITLE
+
+what	O
+was	O
+robert	O
+wise	O
+favorite	O
+part	O
+of	O
+directing	O
+the	O
+sound	O
+of	O
+music	O
+
+did	O
+looper	TITLE
+come	O
+in	O
+second	ORDINAL
+at	O
+twenty	NUMBER
+one	NUMBER
+mil	O
+
+actors	O
+considered	O
+for	O
+new	O
+movie	O
+
+find	O
+the	O
+actor	TITLE
+with	O
+4	NUMBER
+r	O
+and	O
+b	O
+albums	O
+
+find	O
+the	O
+actor	TITLE
+with	O
+the	O
+album	O
+entitled	O
+go	O
+
+i	O
+would	O
+like	O
+to	O
+look	O
+up	O
+the	O
+actor	TITLE
+with	O
+the	O
+album	O
+entitled	O
+dna	O
+
+search	O
+for	O
+the	O
+actor	TITLE
+that	O
+sings	O
+let	O
+me	O
+love	O
+you	O
+
+after	O
+watching	O
+this	O
+movie	O
+will	O
+i	O
+have	O
+nightmares	O
+about	O
+it	O
+
+show	O
+me	O
+the	O
+behind	O
+scenes	O
+look	O
+of	O
+how	O
+the	O
+movie	O
+was	O
+made	O
+
+show	O
+me	O
+videos	O
+of	O
+steven	O
+spielberg	O
+on	O
+the	O
+red	O
+carpet	O
+with	O
+his	O
+wife	O
+
+what	O
+movie	O
+came	O
+in	O
+second	DATE
+this	DATE
+weekend	DATE
+
+ed	O
+harris	O
+quotes	O
+from	O
+apollo	O
+thirteen	NUMBER
+
+how	O
+did	O
+robert	O
+wise	O
+get	O
+hired	O
+to	O
+direct	O
+the	O
+sound	O
+of	O
+music	O
+
+show	O
+me	O
+magazine	O
+reviews	O
+
+language	O
+
+what	O
+do	O
+the	O
+actors	O
+speak	O
+
+auqua	O
+fish	O
+
+bing	O
+star	O
+wars	O
+four	NUMBER
+
+camping	O
+
+classic	O
+cars	O
+
+he	O
+gets	O
+a	O
+job	O
+in	O
+a	O
+big	O
+city	O
+
+he	O
+works	O
+in	O
+a	O
+toy	O
+company	O
+
+healing	O
+plants	O
+
+herbs	O
+and	O
+health	O
+
+house	O
+at	O
+the	O
+street	O
+
+house	O
+on	O
+mend	O
+street	O
+
+house	O
+on	O
+over	O
+street	O
+
+houses	O
+on	O
+streets	O
+
+i	O
+wonder	O
+if	O
+time	O
+travel	O
+is	O
+possible	O
+
+info	O
+zombies	O
+
+list	O
+zombies	O
+
+netflix	O
+
+scary	O
+
+select	O
+shown	O
+information	O
+
+unique	O
+cars	O
+
+water	O
+beast	O
+
+zombies	O
+
+zombies	O
+info	O
+
+zombies	O
+list	O
+
+rating	O
+
+why	O
+is	O
+rated	O
+g	O
+
+how	O
+old	O
+is	O
+miley	O
+cirus	O
+
+show	O
+me	O
+pictures	O
+of	O
+beautiful	O
+people	O
+
+albery	O
+death	O
+yr	DURATION
+
+arabic	O
+life	O
+of	O
+a	O
+movie	O
+
+bald	O
+male	O
+actors	O
+
+brazil	COUNTRY
+rates	O
+of	O
+pay	O
+
+can	O
+i	O
+have	O
+a	O
+map	O
+of	O
+britain	COUNTRY
+please	O
+
+can	O
+i	O
+see	O
+a	O
+list	O
+of	O
+movie	O
+genres	O
+
+change	O
+rating	O
+because	O
+sometimes	O
+monsters	O
+scare	O
+kids	O
+
+click	O
+on	O
+the	O
+orang	O
+information	O
+
+countries	O
+flags	O
+
+des	O
+ireland	O
+have	O
+any	O
+movie	O
+festivals	O
+
+did	O
+hotel	O
+transylvania	O
+break	O
+any	O
+records	O
+
+did	O
+you	O
+enjoy	O
+voice	O
+acting	O
+for	O
+the	O
+movie	O
+kung	O
+fo	O
+panda	O
+
+did	O
+you	O
+have	O
+arguments	O
+with	O
+anyother	O
+set	O
+members	O
+
+did	O
+you	O
+have	O
+conflits	O
+with	O
+anyone	O
+
+did	O
+you	O
+have	O
+fun	O
+directing	O
+gilda	O
+mister	O
+vidor	O
+
+did	O
+you	O
+have	O
+fun	O
+directing	O
+your	O
+films	O
+
+did	O
+you	O
+help	O
+with	O
+anything	O
+other	O
+than	O
+the	O
+script	O
+
+different	O
+country	O
+flags	O
+
+display	O
+all	O
+the	O
+flags	O
+of	O
+the	O
+world	O
+
+do	O
+they	O
+have	O
+oscar	O
+awards	O
+in	O
+india	COUNTRY
+
+do	O
+you	O
+have	O
+dress	O
+in	O
+stock	O
+
+england	COUNTRY
+will	O
+you	O
+make	O
+movie	O
+about	O
+the	O
+life	O
+of	O
+prince	TITLE
+william	PERSON
+and	O
+harry	O
+'s	O
+life	O
+
+find	O
+map	O
+of	O
+canada	COUNTRY
+
+find	O
+select	O
+info	O
+
+flags	O
+
+flags	O
+of	O
+foreign	O
+countries	O
+
+give	O
+me	O
+more	O
+information	O
+about	O
+the	O
+text	O
+highlighted	O
+in	O
+orange	O
+
+goto	O
+greyscale	O
+
+how	O
+ad	O
+would	O
+you	O
+be	O
+
+how	O
+can	O
+a	O
+movie	O
+be	O
+nr	O
+
+how	O
+do	O
+movies	O
+receive	O
+r	O
+ratings	O
+
+how	O
+do	O
+people	O
+live	O
+in	O
+japan	COUNTRY
+
+how	O
+do	O
+they	O
+determine	O
+the	O
+rating	O
+levels	O
+for	O
+movies	O
+
+how	O
+many	O
+people	O
+live	O
+in	O
+japan	COUNTRY
+
+how	O
+old	O
+do	O
+you	O
+have	O
+to	O
+be	O
+to	O
+see	O
+an	O
+r	O
+rated	O
+movie	O
+
+how	O
+old	O
+do	O
+you	O
+need	O
+to	O
+be	O
+to	O
+watch	O
+r	O
+movies	O
+
+how	O
+popular	O
+do	O
+you	O
+think	O
+the	O
+movie	O
+will	O
+be	O
+
+i	O
+love	O
+alfred	O
+hitchcock	O
+
+i	O
+need	O
+information	O
+about	O
+parental	O
+guidance	O
+ratings	O
+
+i	O
+want	O
+to	O
+see	O
+all	O
+the	O
+flags	O
+of	O
+the	O
+world	O
+
+i	O
+would	O
+like	O
+to	O
+get	O
+details	O
+about	O
+the	O
+information	O
+in	O
+orange	O
+
+if	O
+he	O
+was	O
+still	O
+making	O
+movies	O
+would	O
+you	O
+want	O
+to	O
+help	O
+
+if	O
+the	O
+movie	O
+was	O
+canceled	O
+how	O
+mad	O
+do	O
+you	O
+think	O
+the	O
+public	O
+would	O
+be	O
+
+if	O
+you	O
+could	O
+descrbe	O
+your	O
+movie	O
+in	O
+one	NUMBER
+word	O
+what	O
+would	O
+it	O
+be	O
+
+if	O
+you	O
+werent	O
+the	O
+director	TITLE
+
+i	O
+'m	O
+looking	O
+for	O
+a	O
+map	O
+of	O
+britain	COUNTRY
+
+images	O
+of	O
+foreign	O
+countries	O
+
+in	O
+search	O
+of	O
+the	O
+map	O
+of	O
+canada	COUNTRY
+
+is	O
+punjabi	O
+a	O
+language	O
+
+is	O
+tom	O
+cruise	O
+going	O
+to	O
+do	O
+another	O
+mission	O
+imposiible	O
+
+is	O
+wb	O
+owned	O
+by	O
+another	O
+company	O
+as	O
+of	O
+right	DATE
+now	DATE
+and	O
+they	O
+just	O
+keep	O
+their	O
+tag	O
+name	O
+
+jenn	PERSON
+ann	PERSON
+house	PERSON
+
+jenn	O
+ann	O
+news	O
+feed	O
+twenty	DATE
+ten	DATE
+
+look	O
+for	O
+information	O
+about	O
+parental	O
+guidance	O
+
+mister	O
+lester	O
+did	O
+you	O
+get	O
+to	O
+meet	O
+the	O
+beatles	O
+
+movie	O
+made	O
+
+movie	O
+parental	O
+guidance	O
+rating	O
+scale	O
+
+never	O
+would	O
+watch	O
+this	O
+movie	O
+with	O
+a	O
+rating	O
+of	O
+dredd	O
+change	O
+rating	O
+
+only	O
+show	O
+me	O
+movie	O
+ratings	O
+that	O
+my	O
+sixteen	DURATION
+year	DURATION
+old	DURATION
+daughter	O
+can	O
+also	O
+view	O
+with	O
+me	O
+
+paramount	O
+-	O
+do	O
+you	O
+pay	O
+all	O
+the	O
+expenses	O
+for	O
+the	O
+stand	O
+byes	O
+
+parental	O
+guidance	O
+scale	O
+
+pg	O
+information	O
+
+pull	O
+up	O
+the	O
+dropdown	O
+minue	O
+in	O
+orange	O
+
+r	O
+info	O
+
+r	O
+rating	O
+means	O
+sex	O
+or	O
+nudity	O
+
+r	O
+rating	O
+means	O
+violence	CAUSE_OF_DEATH
+
+rating	O
+scale	O
+to	O
+rate	O
+guidance	O
+
+sb	O
+directort	O
+cuts	O
+
+sb	O
+love	O
+life	O
+
+search	O
+for	O
+parental	O
+guidance	O
+information	O
+
+should	O
+i	O
+let	O
+my	O
+kid	O
+see	O
+a	O
+pg	O
+thirteen	NUMBER
+movie	O
+alone	O
+
+show	O
+information	O
+in	O
+arabic	O
+
+show	O
+information	O
+in	O
+english	NATIONALITY
+
+show	O
+information	O
+in	O
+turkish	NATIONALITY
+
+show	O
+me	O
+all	O
+the	O
+information	O
+highlighted	O
+in	O
+orange	O
+
+show	O
+me	O
+flags	O
+of	O
+the	O
+world	O
+
+show	O
+me	O
+information	O
+in	O
+orange	O
+
+show	O
+me	O
+more	O
+details	O
+about	O
+the	O
+information	O
+highlighted	O
+in	O
+orange	O
+
+show	O
+me	O
+movie	O
+production	O
+logos	O
+
+show	O
+me	O
+successfull	O
+people	O
+
+show	O
+me	O
+the	O
+credits	O
+in	O
+orange	O
+
+show	O
+me	O
+the	O
+movie	O
+history	O
+
+show	O
+me	O
+the	O
+not	O
+rated	O
+label	O
+
+show	O
+me	O
+the	O
+rated	O
+r	O
+movie	O
+label	O
+
+show	O
+me	O
+videos	O
+in	O
+orange	O
+
+show	O
+me	O
+viewer	O
+ratings	O
+in	O
+orange	O
+
+thirty	NUMBER
+dance	O
+
+twenty	NUMBER
+one	NUMBER
+point	O
+two	NUMBER
+mill	O
+
+twenty	NUMBER
+one	NUMBER
+point	O
+two	NUMBER
+was	O
+amazing	O
+
+universal	O
+how	O
+many	O
+producers	O
+work	O
+to	O
+put	O
+a	O
+movie	O
+production	O
+together	O
+
+was	O
+twenty	NUMBER
+one	NUMBER
+point	O
+two	NUMBER
+million	NUMBER
+grossed	O
+in	O
+the	DURATION
+first	DURATION
+day	DURATION
+or	O
+week	DURATION
+
+what	O
+
+what	O
+age	O
+group	O
+is	O
+an	O
+r	O
+movie	O
+appropriate	O
+for	O
+
+what	O
+age	O
+group	O
+is	O
+g	O
+rated	O
+movies	O
+for	O
+
+what	O
+are	O
+some	O
+different	O
+movie	O
+genres	O
+
+what	O
+are	O
+some	O
+flags	O
+of	O
+the	O
+world	O
+
+what	O
+are	O
+the	O
+company	O
+logos	O
+you	O
+see	O
+at	O
+the	O
+beginning	O
+of	O
+a	O
+movie	O
+
+what	O
+are	O
+the	O
+names	O
+of	O
+some	O
+famous	O
+producers	O
+in	O
+hollywood	O
+
+what	O
+are	O
+the	O
+recommended	O
+ages	O
+for	O
+a	O
+pg	O
+thirteen	NUMBER
+movie	O
+
+what	O
+can	O
+an	O
+r	O
+rated	O
+movie	O
+show	O
+
+what	O
+does	O
+a	O
+g	O
+rating	O
+mean	O
+
+what	O
+does	O
+a	O
+movie	O
+have	O
+if	O
+it	O
+is	O
+rated	O
+r	O
+
+what	O
+does	O
+a	O
+pg	O
+rating	O
+mean	O
+
+what	O
+does	O
+a	O
+r	O
+rating	O
+mean	O
+
+what	O
+does	O
+nr	O
+stand	O
+for	O
+
+what	O
+does	O
+rated	O
+g	O
+mean	O
+
+what	O
+does	O
+rated	O
+r	O
+mean	O
+
+what	O
+does	O
+the	O
+flag	O
+of	O
+greece	COUNTRY
+look	O
+like	O
+
+what	O
+does	O
+the	O
+flag	O
+of	O
+japan	COUNTRY
+look	O
+like	O
+
+what	O
+does	O
+the	O
+flag	O
+of	O
+norway	COUNTRY
+look	O
+like	O
+
+what	O
+does	O
+the	O
+flag	O
+of	O
+vietnam	COUNTRY
+look	O
+like	O
+
+what	O
+does	O
+the	O
+paramount	O
+logo	O
+look	O
+like	O
+
+what	O
+is	O
+
+what	O
+is	O
+the	O
+difference	O
+between	O
+an	O
+r	O
+rating	O
+and	O
+pg	O
+thirteen	NUMBER
+
+what	O
+is	O
+the	O
+difference	O
+between	O
+rated	O
+nr	O
+and	O
+r	O
+
+what	O
+is	O
+the	O
+g	O
+rating	O
+
+what	O
+is	O
+the	O
+main	O
+export	O
+of	O
+japan	COUNTRY
+
+what	O
+is	O
+the	O
+rating	O
+system	O
+called	O
+for	O
+movies	O
+
+what	O
+makes	O
+a	O
+movie	O
+get	O
+an	O
+r	O
+rating	O
+
+what	O
+types	O
+of	O
+movies	O
+are	O
+there	O
+
+where	O
+can	O
+i	O
+go	O
+to	O
+find	O
+additional	O
+rating	O
+information	O
+
+who	O
+was	O
+your	O
+favorite	O
+beatle	O
+
+who	O
+was	O
+your	O
+favorite	O
+set	O
+member	O
+
+whos	O
+idea	O
+was	O
+it	O
+for	O
+kung	O
+fo	O
+panda	O
+two	NUMBER
+
+why	O
+is	O
+the	O
+three	NUMBER
+d	O
+version	O
+and	O
+the	O
+standard	O
+version	O
+released	O
+on	O
+the	DATE
+same	DATE
+day	DATE
+
+why	O
+is	O
+this	O
+movie	O
+rated	O
+pg	O
+
+why	O
+is	O
+this	O
+movie	O
+rated	O
+r	O
+
+would	O
+you	O
+try	O
+to	O
+make	O
+a	O
+sequal	O
+
+show	O
+me	O
+ireland	COUNTRY
+'s	O
+flag	O
+
+searching	O
+for	O
+maps	O
+
+where	O
+is	O
+japan	COUNTRY
+
+find	O
+
+find	O
+all	O
+criteria	O
+
+find	O
+all	O
+selected	O
+info	O
+
+find	O
+highlighted	O
+info	O
+
+funnie	O
+
+genuine	O
+
+grayscale	O
+
+great	O
+
+list	O
+page	O
+
+noisy	O
+
+search	O
+databases	O
+
+search	O
+popularity	O
+
+search	O
+selected	O
+info	O
+
+september	DATE
+twenty	DATE
+eight	TIME
+
+dirty	O
+dan	O
+
+july	DATE
+
+pg	O
+thirteen	NUMBER
+information	O
+
+adventeurous	O
+
+find	O
+selected	O
+info	O
+
+has	O
+he	O
+written	O
+anything	O
+new	O
+
+love	O
+
+wilford	O
+
+william	O
+
+pull	O
+up	O
+photos	O
+of	O
+sexy	O
+women	O
+
+show	O
+me	O
+pictures	O
+of	O
+beautiful	O
+men	O
+
+show	O
+me	O
+pictures	O
+of	O
+beautiful	O
+women	O
+
+show	O
+me	O
+pictures	O
+of	O
+famous	O
+blondes	O
+
+what	O
+does	O
+person	O
+look	O
+like	O
+
+on	O
+julie	O
+
+on	O
+july	DATE
+
+send	O
+dredd	O
+movie	O
+
+what	O
+does	O
+pg	O
+thirteen	NUMBER
+stand	O
+for	O
+
+would	O
+you	O
+make	O
+a	O
+sequel	O
+
+show	O
+me	O
+the	O
+highlighted	O
+topics	O
+
+want	O
+page	O
+
+are	O
+the	O
+animated	O
+charactors	O
+protrayed	O
+as	O
+small	O
+or	O
+human	O
+size	O
+
+what	O
+was	O
+the	O
+country	O
+where	O
+nobody	O
+knows	O
+takes	O
+place	O
+
+show	O
+me	O
+bio	O
+of	O
+person	O
+
+show	O
+me	O
+famous	O
+people	O
+
+was	O
+the	O
+poularity	O
+good	O
+or	O
+bad	O
+
+take	O
+me	O
+to	O
+freebase	O
+to	O
+find	O
+out	O
+more	O
+about	O
+this	O
+movie	O
+
+tyler	O
+p	O
+new	O
+projects	O
+
+what	O
+movies	O
+have	O
+they	O
+done	O
+
+how	O
+many	O
+shaft	O
+movies	O
+are	O
+there	O
+
+how	O
+many	O
+movies	O
+has	O
+he	O
+directed	O
+this	O
+season	O
+
+how	O
+many	O
+movies	O
+has	O
+he	O
+directed	O
+
+did	O
+the	O
+dad	O
+in	O
+daddy	O
+daycare	O
+also	O
+play	O
+in	O
+dr	O
+doolittle	O
+
+who	O
+played	O
+the	O
+principal	TITLE
+in	O
+ferris	O
+bueller	O
+'s	O
+day	DURATION
+off	O
+
+show	O
+me	O
+the	O
+little	O
+girl	O
+from	O
+full	O
+house	O
+
+who	O
+is	O
+the	O
+gym	O
+teacher	TITLE
+in	O
+glee	O
+
+who	O
+was	O
+richie	O
+'s	O
+mother	O
+in	O
+happy	O
+days	DURATION
+
+who	O
+was	O
+barty	O
+crouch	O
+'s	O
+son	O
+in	O
+harry	O
+potter	O
+
+who	O
+was	O
+the	O
+sheriff	TITLE
+that	O
+had	O
+to	O
+kill	O
+the	O
+bad	O
+guy	O
+in	O
+high	O
+noon	TIME
+
+who	O
+is	O
+the	O
+actress	TITLE
+who	O
+played	O
+lucy	O
+'s	O
+best	O
+friend	O
+on	O
+i	O
+love	O
+lucy	O
+
+what	O
+actress	TITLE
+played	O
+mother	O
+in	O
+mirror	O
+by	O
+tarkovsky	O
+
+who	O
+played	O
+the	O
+little	O
+girl	O
+in	O
+my	O
+girl	O
+
+who	O
+played	O
+opposite	O
+sidney	O
+poitier	O
+in	O
+shoot	O
+to	O
+kill	O
+
+who	O
+played	O
+the	O
+mother	O
+in	O
+steel	O
+magnolias	O
+
+who	O
+played	O
+the	O
+doctor	TITLE
+in	O
+the	O
+doctor	TITLE
+
+who	O
+is	O
+in	O
+picture	O
+five	NUMBER
+
+who	O
+is	O
+in	O
+picture	O
+one	NUMBER
+
+who	O
+is	O
+in	O
+picture	O
+two	NUMBER
+
+who	O
+are	O
+the	O
+actors	O
+
+find	O
+cast	O
+members	O
+
+the	O
+name	O
+of	O
+the	O
+actress	TITLE
+who	O
+played	O
+the	O
+boy	O
+'s	O
+mother	O
+in	O
+the	O
+russian	NATIONALITY
+movie	O
+mirror	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+red	O
+ranger	O
+guy	O
+in	O
+power	O
+rangers	O
+
+give	O
+me	O
+the	O
+name	O
+of	O
+the	O
+mom	O
+on	O
+seinfeld	O
+
+i	O
+need	O
+to	O
+know	O
+the	O
+name	O
+of	O
+the	O
+mom	O
+on	O
+seinfeld	O
+
+what	O
+is	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+who	O
+played	O
+the	O
+dad	O
+in	O
+the	O
+parent	O
+trap	O
+
+get	O
+me	O
+the	O
+name	O
+of	O
+the	O
+actor	TITLE
+what	O
+was	O
+the	O
+dad	O
+in	O
+to	O
+kill	O
+a	O
+mockingbird	O
+
+what	O
+awards	O
+did	O
+this	O
+film	O
+receive	O
+
+did	O
+this	O
+movie	O
+win	O
+any	O
+awards	O
+
+did	O
+this	O
+movie	O
+win	O
+any	O
+awards	O
+
+has	O
+charles	O
+vidor	O
+won	O
+any	O
+awards	O
+
+show	O
+richard	O
+lester	O
+'s	O
+awards	O
+
+what	O
+awards	O
+has	O
+spielberg	O
+won	O
+
+usa	COUNTRY
+release	O
+date	O
+for	O
+the	O
+film	O
+little	O
+women	O
+
+when	O
+will	O
+the	O
+sequel	O
+to	O
+the	O
+hunger	O
+games	O
+be	O
+released	O
+
+release	O
+date	O
+
+can	O
+you	O
+give	O
+me	O
+the	O
+release	O
+date	O
+
+show	O
+me	O
+some	O
+of	O
+the	O
+greatest	O
+film	O
+directors	O
+of	O
+our	O
+time	O
+
+show	O
+me	O
+directors	O
+of	O
+famous	O
+films	O
+
+show	O
+me	O
+famous	O
+directors	O
+
+show	O
+me	O
+famous	O
+movie	O
+directors	O
+
+show	O
+me	O
+the	O
+top	O
+hollywood	O
+film	O
+directors	O
+of	O
+all	O
+time	O
+
+who	O
+are	O
+these	O
+directors	O
+
+show	O
+me	O
+the	O
+director	TITLE
+
+name	O
+me	O
+the	O
+director	TITLE
+
+what	O
+genre	O
+
+what	O
+video	O
+clips	O
+have	O
+will	O
+ferrell	O
+
+evil	O
+goes	O
+global	O
+video	O
+
+display	O
+the	O
+video	O
+of	O
+finding	O
+nemo	O
+twenty	NUMBER
+oh	O
+three	NUMBER
+
+get	O
+the	O
+video	O
+of	O
+finding	O
+nemo	O
+twenty	NUMBER
+oh	O
+three	NUMBER
+
+watch	O
+finding	O
+nemo	O
+
+watch	O
+movie	O
+omg	O
+oh	O
+nine	NUMBER
+twenty	NUMBER
+eight	NUMBER
+twenty	DATE
+twelve	DATE
+
+omg	O
+video	O
+
+show	O
+me	O
+videos	O
+of	O
+spielberg	O
+movies	O
+
+what	O
+are	O
+the	O
+top	O
+five	NUMBER
+british	NATIONALITY
+dramas	O
+
+what	O
+is	O
+the	O
+worst	O
+french	NATIONALITY
+film	O
+to	O
+date	O
+
+what	O
+is	O
+the	O
+best	O
+french	NATIONALITY
+movie	O
+of	O
+all	O
+time	O
+
+what	O
+are	O
+the	O
+top	O
+ten	NUMBER
+french	NATIONALITY
+movies	O
+of	O
+all	O
+time	O
+
+what	O
+top	O
+movies	O
+are	O
+from	O
+the	O
+uk	COUNTRY
+
+alfred	O
+hitchcock	O
+'s	O
+best	O
+films	O
+
+what	O
+is	O
+alfred	O
+hitchcock	O
+'s	O
+most	O
+famous	O
+movie	O
+
+show	O
+me	O
+martin	O
+scorcese	O
+'s	O
+best	O
+movies	O
+
+show	O
+me	O
+a	O
+popular	O
+robert	O
+wise	O
+movie	O
+
+what	O
+is	O
+the	O
+most	O
+popular	O
+steven	O
+spielberg	O
+movie	O
+
+what	O
+are	O
+the	O
+top	O
+rated	O
+movies	O
+this	DATE
+year	DATE
+
+show	O
+me	O
+the	O
+best	O
+films	O
+of	O
+twenty	DATE
+eleven	DATE
+for	O
+warner	O
+brothers	O
+
+tell	O
+me	O
+some	O
+of	O
+the	O
+best	O
+nc-17	O
+movies	O
+
+adam	O
+sandler	O
+'s	O
+best	O
+movie	O
+list	O
+
+brad	O
+pitt	O
+popular	O
+movies	O
+
+give	O
+a	O
+list	O
+of	O
+best	O
+rated	O
+movies	O
+
+show	O
+me	O
+a	O
+set	O
+of	O
+movie	O
+trailers	O
+
+show	O
+me	O
+movie	O
+trailers	O
+
+preview	O
+paramount	O
+pictures	O
+clips	O
+
+show	O
+me	O
+the	O
+movie	O
+highlights	O
+
+display	O
+movies	O
+made	O
+in	O
+country	O
+
+locate	O
+movies	O
+made	O
+in	O
+country	O
+
+what	O
+has	O
+person	O
+directed	O
+
+what	O
+did	O
+lee	O
+unkridge	O
+direct	O
+
+cartoon	O
+with	O
+fish	O
+
+jennifer	O
+ann	O
+new	O
+releases	O
+
+what	O
+are	O
+some	O
+good	O
+american	NATIONALITY
+movies	O
+
+what	O
+is	O
+the	O
+top	O
+rated	O
+french	NATIONALITY
+comedy	O
+
+show	O
+me	O
+this	DATE
+years	DATE
+top	O
+rated	O
+italian	NATIONALITY
+movies	O
+
+what	O
+films	O
+has	O
+japan	O
+made	O
+this	DATE
+year	DATE
+
+spanish	NATIONALITY
+academy	O
+award	O
+winning	O
+movie	O
+
+what	O
+are	O
+the	O
+best	O
+british	NATIONALITY
+action	O
+movies	O
+
+show	O
+movies	O
+made	O
+in	O
+country	O
+
+find	O
+movies	O
+made	O
+in	O
+country	O
+
+tell	O
+me	O
+movies	O
+made	O
+in	O
+country	O
+
+movies	O
+by	O
+franco	O
+zephereli	O
+
+what	O
+is	O
+the	O
+latest	O
+movie	O
+directed	O
+by	O
+director	TITLE
+two	NUMBER
+
+what	O
+movie	O
+is	O
+lee	O
+unkrich	O
+known	O
+for	O
+
+i	O
+need	O
+to	O
+know	O
+about	O
+some	O
+famous	O
+movies	O
+directed	O
+by	O
+martin	O
+scorsese	O
+
+i	O
+would	O
+like	O
+to	O
+know	O
+about	O
+some	O
+famous	O
+movies	O
+by	O
+director	TITLE
+martin	O
+scorsese	O
+
+what	O
+movie	O
+is	O
+robert	O
+wise	O
+famous	O
+for	O
+directing	O
+
+show	O
+me	O
+the	O
+top	O
+ten	NUMBER
+movies	O
+of	O
+last	DATE
+year	DATE
+
+what	O
+new	O
+movies	O
+are	O
+coming	O
+up	O
+in	O
+france	COUNTRY
+
+what	O
+upcoming	O
+movies	O
+are	O
+they	O
+producing	O
+
+give	O
+me	O
+a	O
+list	O
+of	O
+some	O
+famous	O
+movies	O
+in	O
+hindi	O
+language	O
+
+show	O
+me	O
+names	O
+of	O
+some	O
+famous	O
+movies	O
+in	O
+hindi	O
+language	O
+
+which	O
+movies	O
+filmed	O
+in	O
+asia	O
+won	O
+academy	O
+awards	O
+
+scary	O
+movies	O
+by	O
+this	O
+producer	TITLE
+
+show	O
+me	O
+a	O
+list	O
+of	O
+movies	O
+made	O
+by	O
+the	O
+producer	TITLE
+
+tell	O
+me	O
+movies	O
+produced	O
+by	O
+
+award	O
+movies	O
+for	O
+fox	O
+
+show	O
+me	O
+the	O
+films	O
+from	O
+paramount	O
+that	O
+won	O
+oscars	O
+
+can	O
+you	O
+tell	O
+me	O
+some	O
+famous	O
+movies	O
+by	O
+producer	TITLE
+walt	O
+disney	O
+
+what	O
+are	O
+some	O
+good	O
+g	O
+rated	O
+movies	O
+
+jennifer	O
+lawrence	O
+new	O
+movie	O
+
+show	O
+brad	O
+pitt	O
+movies	O
+with	O
+angelina	O
+jolie	O
+as	O
+actress	TITLE
+
+i	O
+would	O
+like	O
+to	O
+know	O
+the	O
+names	O
+of	O
+some	O
+award	O
+winning	O
+movies	O
+by	O
+indian	NATIONALITY
+actor	TITLE
+dilip	O
+kumar	O
+
+show	O
+me	O
+kristen	O
+stewart	O
+'s	O
+worst	O
+movies	O
+
+show	O
+brad	O
+pitt	O
+movies	O
+nominated	O
+for	O
+oscars	O
+
+what	O
+are	O
+some	O
+great	O
+movies	O
+about	O
+sports	O
+heroes	O
+
+movies	O
+gross	O
+revenue	O
+of	O
+seven	NUMBER
+point	O
+two	MONEY
+million	MONEY
+dollars	MONEY
+
+list	O
+movies	O
+released	O
+in	O
+italy	O
+in	O
+2012	DATE
+
+upcoming	O
+movie	O
+releases	O
+in	O
+japan	COUNTRY
+
+show	O
+me	O
+the	O
+movies	O
+released	O
+in	O
+london	O
+
+what	O
+movies	O
+are	O
+playing	O
+in	O
+mexico	COUNTRY
+
+show	O
+me	O
+the	O
+movies	O
+released	O
+in	O
+srilanka	O
+
+what	O
+movies	O
+in	O
+the	O
+usa	COUNTRY
+came	O
+out	O
+in	O
+2012	DATE
+
+show	O
+me	O
+the	O
+movies	O
+released	O
+in	O
+america	COUNTRY
+
+show	O
+me	O
+movies	O
+with	O
+a	O
+four	NUMBER
+star	O
+rating	O
+
+top	O
+movies	O
+
+what	O
+media	O
+has	O
+lionsgate	O
+done	O
+
+find	O
+shows	O
+about	O
+cars	O
+
+is	O
+this	O
+movie	O
+violent	O
+
+did	O
+life	O
+is	O
+beautiful	O
+win	O
+an	O
+academy	O
+award	O
+
+show	O
+all	O
+movies	O
+by	O
+oscar	O
+winning	O
+directors	O
+for	O
+the	O
+seventies	O
+
+did	O
+clint	O
+eastwood	O
+win	O
+an	O
+oscar	O
+for	O
+any	O
+of	O
+the	O
+movies	O
+he	O
+has	O
+directed	O
+
+what	O
+movies	O
+did	O
+meryl	O
+streep	O
+win	O
+her	O
+oscars	O
+
+find	O
+pictures	O
+of	O
+kristen	O
+stewart	O
+
+images	O
+for	O
+steven	O
+spielberg	O
+
+see	O
+images	O
+of	O
+steven	O
+spielberg	O
+
+show	O
+me	O
+images	O
+of	O
+steven	O
+spielberg	O
+
+what	O
+does	O
+stephen	O
+spielberg	O
+look	O
+like	O
+
+images	O
+of	O
+will	O
+ferrell	O
+
+all	O
+images	O
+of	O
+will	O
+ferrell	O
+
+display	O
+images	O
+of	O
+actor	TITLE
+will	O
+ferrell	O
+in	O
+the	O
+news	O
+
+search	O
+for	O
+images	O
+of	O
+will	O
+ferrell	O
+
+show	O
+me	O
+images	O
+of	O
+will	O
+ferrell	O
+
+show	O
+me	O
+some	O
+pictures	O
+of	O
+will	O
+ferrell	O
+
+show	O
+me	O
+pictures	O
+of	O
+movie	O
+producers	O
+
+who	O
+are	O
+the	O
+most	O
+famous	O
+producers	O
+in	O
+hollywood	O
+
+who	O
+produced	O
+the	O
+motion	O
+picture	O
+the	O
+devil	O
+wears	O
+prada	O
+
+who	O
+produced	O
+the	O
+theatrical	O
+film	O
+the	O
+devil	O
+wears	O
+prada	O
+
+who	O
+produced	O
+
+who	O
+'s	O
+the	O
+producer	TITLE
+
+find	O
+rating	O
+information	O
+about	O
+the	O
+movie	O
+dredd	O
+
+what	O
+is	O
+it	O
+rated	O
+
+what	O
+are	O
+the	O
+ratings	O
+for	O
+movies	O
+
+get	O
+finding	O
+nemo	O
+info	O
+and	O
+reviews	O
+
+parental	O
+review	O
+for	O
+movie	O
+
+critic	TITLE
+reviews	O
+of	O
+dirty	O
+dancing	O
+
+reviews	O
+for	O
+dirty	O
+dancing	O
+
+reviews	O
+of	O
+dirty	O
+dancing	O
+
+what	O
+were	O
+the	O
+reviews	O
+for	O
+dirty	O
+dancing	O
+
+how	O
+have	O
+critics	O
+rated	O
+finding	O
+nemo	O
+
+show	O
+me	O
+the	O
+reviews	O
+for	O
+finding	O
+nemo	O
+
+what	O
+are	O
+the	O
+reviews	O
+for	O
+finding	O
+nemo	O
+
+review	O
+for	O
+movie	O
+
+reviews	O
+of	O
+movie	O
+
+what	O
+are	O
+the	O
+reviews	O
+for	O
+movie	O
+
+reviews	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+reviews	O
+of	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+what	O
+are	O
+the	O
+reviews	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+reviews	O
+for	O
+in	O
+july	DATE
+
+reviews	O
+for	O
+in	O
+july	DATE
+
+reviews	O
+for	O
+in	O
+july	DATE
+
+show	O
+me	O
+the	O
+reviews	O
+for	O
+in	O
+july	DATE
+
+what	O
+are	O
+the	O
+reviews	O
+for	O
+in	O
+july	DATE
+
+find	O
+reviews	O
+for	O
+life	O
+is	O
+beautiful	O
+
+reviews	O
+for	O
+life	O
+is	O
+beautiful	O
+
+reviews	O
+for	O
+life	O
+is	O
+beautiful	O
+
+what	O
+are	O
+the	O
+reviews	O
+for	O
+life	O
+is	O
+beautiful	O
+
+reviews	O
+for	O
+star	O
+wars	O
+four	NUMBER
+
+reviews	O
+of	O
+star	O
+wars	O
+four	NUMBER
+
+reviews	O
+of	O
+star	O
+wars	O
+four	NUMBER
+
+reviews	O
+for	O
+star	O
+wars	O
+iv	O
+
+reviews	O
+for	O
+the	O
+movie	O
+the	O
+campaign	O
+
+show	O
+me	O
+the	O
+reviews	O
+on	O
+the	O
+movie	O
+the	O
+campaign	O
+
+show	O
+me	O
+reviews	O
+for	O
+the	O
+movies	O
+in	O
+orange	O
+
+show	O
+me	O
+the	O
+viewer	O
+ratings	O
+
+show	O
+me	O
+viewer	O
+ratings	O
+
+is	O
+star	O
+wars	O
+four	NUMBER
+any	O
+good	O
+
+how	O
+many	O
+stars	O
+does	O
+star	O
+wars	O
+new	O
+hope	O
+have	O
+
+give	O
+me	O
+the	O
+rating	O
+
+i	O
+want	O
+a	O
+synopsis	O
+for	O
+the	O
+movie	O
+in	O
+july	DATE
+
+what	O
+is	O
+the	O
+synopsis	O
+for	O
+the	O
+movie	O
+vulgaria	O
+
+where	O
+can	O
+i	O
+watch	O
+finding	O
+nemo	O
+
+where	O
+is	O
+movie	O
+playing	O
+
+where	O
+is	O
+movie	O
+playing	O
+
+which	O
+theatre	O
+is	O
+this	O
+playing	O
+in	O
+
+where	O
+is	O
+hotel	O
+transylvania	O
+shown	O
+
+where	O
+can	O
+i	O
+see	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+where	O
+is	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+playing	O
+
+where	O
+is	O
+the	O
+movie	O
+in	O
+july	DATE
+playing	O
+
+where	O
+is	O
+the	O
+movie	O
+campaign	O
+playing	O
+
+where	O
+can	O
+i	O
+see	O
+the	O
+campaign	O
+
+where	O
+is	O
+the	O
+campaign	O
+playing	O
+
+show	O
+me	O
+trailers	O
+for	O
+finding	O
+nemo	O
+
+find	O
+me	O
+trailers	O
+for	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+show	O
+trailer	O
+of	O
+house	O
+at	O
+the	O
+end	O
+of	O
+the	O
+street	O
+
+watch	O
+trailer	O
+for	O
+star	O
+wars	O
+iv	O
+
+show	O
+me	O
+the	O
+trailer	O
+for	O
+the	O
+campaign	O
+movie	O
+
+find	O
+trailer	O
+for	O
+the	O
+campaign	O
+
+play	O
+the	O
+trailer	O
+for	O
+the	O
+campaign	O
+
+show	O
+trailer	O
+for	O
+the	O
+campaign	O
+
+how	O
+many	O
+awards	O
+did	O
+alfred	O
+hitchcock	O
+win	O
+for	O
+directing	O
+
+how	O
+many	O
+oscars	O
+has	O
+meryl	O
+streep	O
+won	O
+
+how	O
+many	O
+of	O
+the	O
+star	O
+wars	O
+movies	O
+won	O
+awards	O
+
+play	O
+english	NATIONALITY
+movie	O
+
+were	O
+there	O
+any	O
+movies	O
+that	O
+came	O
+out	O
+this	DATE
+year	DATE
+filmed	O
+in	O
+france	COUNTRY
+
+what	O
+are	O
+some	O
+popular	O
+japanese	NATIONALITY
+movies	O
+
